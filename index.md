@@ -5,7 +5,7 @@ title: SuHo Yu
 
 # 👋 Welcome to My Portfolio
 
-<img src="assets/me.jpg" width="200" style="border-radius: 50%; box-shadow: 0 0 10px #ccc;" alt="Profile Image"/>
+<img src="assets/me.jpg" width="800" style="border-radius: 50%; box-shadow: 0 0 10px #ccc;" alt="Profile Image"/>
 
 I’m **SuHo Yu**, a systems engineer focused on electric aircraft, UAM, eVTOL, and battery systems.
 
