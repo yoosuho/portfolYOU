@@ -1,52 +1,31 @@
-### Site Settings ###
-title               : SuHo Yu
+title               : SuHo Yu Portfolio
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : "/portfolYOU"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : yousinix/portfolYOU      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+                      Systems Engineer | UAM & eVTOL | Battery Systems | Government R&D | Flight-Proven Projects
+                      Specialized in integrated aircraft systems, certification, and high-voltage energy architecture.
+baseurl             : "/portfolYOU"            
+repository          : yoosuho/portfolYOU      
 remote_theme        : yousinix/portfolYOU
-open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
-
+open_new_tab        : true                     # 외부 링크 새 탭에서 열기
 
 ### Plugins ###
 plugins:
   - jemoji
 
-
 ### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
+nav_exclude:                                            
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
-
+  - documentation/partials/**                           
 
 ### Author Info ###
 author:
   name              : SuHo Yu
   image             : https://i.imgur.com/uyDNQnn.jpg
-  behance           : your_username
-# dribbble          : your_username
-  email             : yoosuho97@mail.com
-# facebook          : your_username
+  email             : yoosuho97@gmail.com
   github            : yoosuho
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
   linkedin          : suho-yu
-# medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-# twitter           : your_username
-# vimeo             : your_username
   youtube           : jenk5109
-# keybase           : your_username
-
 
 ### Posts ###
 permalink: /blog/:title
