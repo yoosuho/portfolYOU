@@ -5,6 +5,40 @@ permalink: /about/
 weight: 3
 ---
 
+---
+layout: page
+title: About Me
+permalink: /about/
+---
+
+# 👨‍💻 SuHo Yu
+
+Hello! I'm a systems engineer specializing in UAM, eVTOL, electric propulsion systems, and robotics.  
+From CAD design to real-world flight, I have hands-on experience in full-stack aerial system development.
+
+## 🔧 Expertise
+
+- UAM and eVTOL system design
+- High-voltage battery architecture
+- Aviation certification and government R&D projects
+- CNC machining and mechanical design
+- Robotics control and embedded systems development
+
+## 📜 Publications & Patents
+
+- [Paper Title 1](#)
+- [Paper Title 2](#)
+- [Patent Title 1](#)
+- [Patent Title 2](#)
+
+## 📫 Contact
+
+- 📧 Email: yoosuho97@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/suho-yu/)
+- 📺 [YouTube](https://www.youtube.com/@jenk5109)
+- 💻 [GitHub](https://github.com/yoosuho)
+
+
 # **About Me**
 
 Hi, I’m **{{ site.author.name }}** 👋  
