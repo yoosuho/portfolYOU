@@ -67,3 +67,60 @@ permalink: /
   </div>
 </div>
 
+
+<section id="education">
+  <div class="container">
+    <h2 class="section-title">Education</h2>
+
+    <div class="card">
+      <div class="card-header">
+        <strong>University of Ottawa</strong><br>
+        Bachelor of Science in Computer Science
+        <span class="float-right">Sept 2016 - Sept 2017</span>
+      </div>
+      <div class="card-body">
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. 
+          Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+
+
+<section id="awards">
+  <div class="container">
+    <h2 class="section-title">Awards</h2>
+
+    <div class="card">
+      <div class="card-header">
+        <strong>Top Prize – Aerospace Technology Startup Academy</strong>
+        <span class="float-right">Nov 2022</span>
+      </div>
+      <div class="card-body">
+        <p>
+          Awarded 1st place for developing an electric propulsion conversion platform 
+          for fixed-wing aircraft, integrating motor, inverter, and battery systems.
+        </p>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <strong>Best Innovation Award – Korea UAM Forum</strong>
+        <span class="float-right">June 2023</span>
+      </div>
+      <div class="card-body">
+        <p>
+          Recognized for successful manned drone flight demonstration and battery system architecture
+          for next-generation UAM platforms.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</section>
+
