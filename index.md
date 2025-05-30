@@ -64,7 +64,7 @@ permalink: /
     
   </div>
 </section>
-    <div class="container py-5 text-dark" style="background-color: #ffffff;">
+    <div class="container py-5" style="background-color: var(--bs-body-bg); color: var(--bs-body-color);">
 
   
 
