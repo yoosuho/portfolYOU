@@ -34,15 +34,33 @@ permalink: /
 
 </div>
 
+
 <!-- Font Awesome CSS for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <!-- Main container -->
 
-<h2 style="text-align: center;">Experience</h2>
-<div class="timeline bg-light p-4 rounded shadow-sm">
-  <div class="timeline-container">
-    <div class="timeline-icon"></div>
+<section class="mb-5">
+  <h2 class="mb-3">Experience</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item">
+      <strong>Director of Technology</strong> – VSPACE CO., LTD (Nov 2021 – Present)<br>
+      Led national aviation battery projects, managed Korea’s first electric aircraft certification and flight.
+    </li>
+    <li class="list-group-item">
+      <strong>Design Engineer</strong> – CEAS CO., LTD (Jul 2018 – Jan 2021)<br>
+      Designed cutting tools for Hyundai Motor, secured a vibration-damping tool patent.
+    </li>
+    <li class="list-group-item">
+      <strong>Production Manager & CAM Programmer</strong> – ROBO CO., LTD (Mar 2017 – Jan 2021)<br>
+      Optimized production and CAM cycles, improving efficiency and sales.
+    </li>
+    <li class="list-group-item">
+      <strong>Manufacturing Technician</strong> – SEC CO., LTD (Jan 2016 – Feb 2017)<br>
+      Improved semiconductor inspection processes, reducing lead time by 15%.
+    </li>
+  </ul>
+</section>
     <div class="timeline-content">
       <h3>VSPACE CO., LTD</h3>
       <h4>Director of Technology, Battery Systems & UAM Development</h4>
@@ -163,3 +181,4 @@ permalink: /
 </div>
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
+
