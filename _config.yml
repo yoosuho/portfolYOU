@@ -35,7 +35,16 @@ nav:
     url: /elements   
   - title: "docs"
     url: /docs  
-    
+
+nav_exclude:
+  - pages/tags.md
+  - pages/features.md
+  - pages/installation.md
+  - pages/customization.md
+  - pages/adding-content.md
+  - pages/dependencies.md
+  - pages/credits.md
+  
 ### Author Info ###
 author:
   name              : SuHo Yu
