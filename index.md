@@ -1,9 +1,12 @@
+---
+layout: home
+title: "SuHo Yu | UAM Systems Engineer"
+subtitle: "✈️ Where Systems Engineering Meets the Sky"
+---
 
 <div align="center">
 
 <img src="{{ site.baseurl }}/assets/me.jpg" width="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15); margin-bottom: 20px;" alt="SuHo Yu Profile Image" />
-
-## ✈️ Where Systems Engineering Meets the Sky
 
 **SuHo Yu**  
 Systems engineer specialized in UAM, electric propulsion, and robotics.  
@@ -11,16 +14,10 @@ From CAD to real flight — proven results in full-stack aerial system developme
 
 <br/>
 
-<a href="https://www.linkedin.com/in/suho-yu/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-suho--yu-blue?logo=linkedin" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-suho--yu-blue?logo=linkedin)](https://www.linkedin.com/in/suho-yu/)
 &nbsp;
-<a href="https://www.youtube.com/@jenk5109" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-jenk5109-red?logo=youtube" />
-</a>
+[![YouTube](https://img.shields.io/badge/YouTube-jenk5109-red?logo=youtube)](https://www.youtube.com/@jenk5109)
 &nbsp;
-<a href="https://github.com/yoosuho" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-yoosuho-black?logo=github" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-yoosuho-black?logo=github)](https://github.com/yoosuho)
 
 </div>
