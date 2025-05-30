@@ -36,15 +36,13 @@ permalink: /
 
 
 
-
-
 <!-- Font Awesome CSS for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <!-- Main container -->
 
 <h2 style="text-align: center;">Experience</h2>
-<div class="timeline">
+<div class="timeline bg-light p-4 rounded shadow-sm">
   <div class="timeline-container">
     <div class="timeline-icon"></div>
     <div class="timeline-content">
@@ -177,4 +175,3 @@ permalink: /
 </div>
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
-
