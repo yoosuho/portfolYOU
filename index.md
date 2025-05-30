@@ -42,65 +42,30 @@ permalink: /
 
 <section class="mb-5">
   <h2 class="mb-3">Experience</h2>
-  <ul class="list-group shadow-sm">
-    <li class="list-group-item">
-      <strong>Director of Technology</strong> – VSPACE CO., LTD (Nov 2021 – Present)<br>
-      Led national aviation battery projects, managed Korea’s first electric aircraft certification and flight.
-    </li>
-    <li class="list-group-item">
-      <strong>Design Engineer</strong> – CEAS CO., LTD (Jul 2018 – Jan 2021)<br>
-      Designed cutting tools for Hyundai Motor, secured a vibration-damping tool patent.
-    </li>
-    <li class="list-group-item">
-      <strong>Production Manager & CAM Programmer</strong> – ROBO CO., LTD (Mar 2017 – Jan 2021)<br>
-      Optimized production and CAM cycles, improving efficiency and sales.
-    </li>
-    <li class="list-group-item">
-      <strong>Manufacturing Technician</strong> – SEC CO., LTD (Jan 2016 – Feb 2017)<br>
-      Improved semiconductor inspection processes, reducing lead time by 15%.
-    </li>
-  </ul>
+  <div class="bg-light p-4 rounded shadow-sm">
+    <div class="mb-4">
+      <h5 class="mb-1">VSPACE CO., LTD</h5>
+      <p class="mb-0"><strong>Director of Technology</strong> <span class="text-muted">(Nov 2021 – Present)</span></p>
+      <p>Led national aviation battery projects, managed Korea’s first electric aircraft certification and flight.</p>
+    </div>
+    <div class="mb-4">
+      <h5 class="mb-1">CEAS CO., LTD</h5>
+      <p class="mb-0"><strong>Design Engineer</strong> <span class="text-muted">(Jul 2018 – Jan 2021)</span></p>
+      <p>Designed cutting tools for Hyundai Motor, secured a vibration-damping tool patent.</p>
+    </div>
+    <div class="mb-4">
+      <h5 class="mb-1">ROBO CO., LTD</h5>
+      <p class="mb-0"><strong>Production Manager & CAM Programmer</strong> <span class="text-muted">(Mar 2017 – Jan 2021)</span></p>
+      <p>Optimized production and CAM cycles, improving efficiency and sales.</p>
+    </div>
+    <div>
+      <h5 class="mb-1">SEC CO., LTD</h5>
+      <p class="mb-0"><strong>Manufacturing Technician</strong> <span class="text-muted">(Jan 2016 – Feb 2017)</span></p>
+      <p>Improved semiconductor inspection processes, reducing lead time by 15%.</p>
+    </div>
+  </div>
 </section>
-    <div class="timeline-content">
-      <h3>VSPACE CO., LTD</h3>
-      <h4>Director of Technology, Battery Systems & UAM Development</h4>
-      <p>Nov 2021 – Present</p>
-      <p>Led national projects in aviation battery system development. Oversaw flight testing and certification of Korea’s first pure electric aircraft. Published 3 papers, secured 2 patents, and closed 3 major contracts.</p>
-    </div>
-  </div>
-
-  <div class="timeline-container">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <h3>CEAS CO., LTD</h3>
-      <h4>Design Engineer, Cutting Tools</h4>
-      <p>Jul 2018 – Jan 2021</p>
-      <p>Designed high-efficiency cutting tools for Hyundai Motor. Improved tool performance by 20%, reduced design time by 15%, and secured a patent for vibration-damping tools.</p>
-    </div>
-  </div>
-
-  <div class="timeline-container">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <h3>ROBO CO., LTD</h3>
-      <h4>Production Manager & CAM Programmer</h4>
-      <p>Mar 2017 – Jan 2021</p>
-      <p>Oversaw production and CAM programming for automotive parts. Reduced cycle times and costs, contributing to a monthly sales increase of $8,000.</p>
-    </div>
-  </div>
-
-  <div class="timeline-container">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <h3>SEC CO., LTD</h3>
-      <h4>Manufacturing Technician</h4>
-      <p>Jan 2016 – Feb 2017</p>
-      <p>Operated semiconductor inspection systems and improved production efficiency by 10% while maintaining tight quality control standards.</p>
-    </div>
-  </div>
-</div>
-
-<div class="container py-5 text-dark" style="background-color: #ffffff;">
+    <div class="container py-5 text-dark" style="background-color: #ffffff;">
 
   
 
@@ -181,4 +146,3 @@ permalink: /
 </div>
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
-
