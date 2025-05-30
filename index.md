@@ -1,18 +1,19 @@
 ---
 layout: home
 title: SuHo Yu — Systems Engineer
+permalink: /
 ---
 
 <div align="center">
 
 # ✈️ Where Systems Engineering Meets the Sky
 
-I am SuHo Yu, a hands-on aerospace & robotics systems engineer.
+**SuHo Yu**  
+Hands-on systems engineer in aerospace, UAM, and robotics.  
+Experienced in electric propulsion, high-voltage energy systems, and autonomous flight.
 
-I specialize in building electric propulsion platforms, high-voltage energy systems, and autonomous aerial vehicles —  
-from 3D design to real-world flight tests.
-
-Flight-proven. Government-backed. Ready for the next frontier.
+Building aircraft from CAD to sky.  
+Flight-tested. Government-funded. System-validated.
 
 <br/>
 
