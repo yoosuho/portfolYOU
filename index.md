@@ -70,12 +70,13 @@ permalink: /
 
   <!-- Education Section -->
   <section class="mb-5">
-    <h2 class="mb-3">Education</h2>
-    <div class="bg-light p-4 rounded shadow-sm">
-      <h5>Inha University</h5>
-      <p class="mb-1"><strong>B.Sc. in Mechatronics Engineering</strong> (Mar 2018 – Aug 2023)</p>
-      <p>Focused on battery systems, electric propulsion, and Urban Air Mobility (UAM). Contributed to national R&D projects.</p>
-    </div>
+  <h2 class="mb-3">Education</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item">
+      <strong>B.Sc. in Mechatronics Engineering</strong> – Inha University (Mar 2018 – Aug 2023)<br>
+      Focused on battery systems, electric propulsion, and Urban Air Mobility (UAM). Contributed to national R&D projects.
+    </li>
+  </ul>
   </section>
 
   <!-- Awards Section -->
@@ -145,4 +146,3 @@ permalink: /
 </div>
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
-
