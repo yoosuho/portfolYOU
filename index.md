@@ -42,12 +42,25 @@ permalink: /
 
 <section class="mb-5">
   <h2 class="mb-3">Experience</h2>
-  <div class="bg-light p-4 rounded shadow-sm">
-    <div class="mb-4">
-      <h5 class="mb-1">VSPACE CO., LTD</h5>
-      <p class="mb-0"><strong>Director of Technology</strong> <span class="text-muted">(Nov 2021 – Present)</span></p>
-      <p>Led national aviation battery projects, managed Korea’s first electric aircraft certification and flight.</p>
-    </div>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item">
+      <strong>Director of Technology</strong> – VSPACE CO., LTD (Nov 2021 – Present)<br>
+      Led national aviation battery projects, managed Korea’s first electric aircraft certification and flight.
+    </li>
+    <li class="list-group-item">
+      <strong>Design Engineer</strong> – CEAS CO., LTD (Jul 2018 – Jan 2021)<br>
+      Designed cutting tools for Hyundai Motor, secured a vibration-damping tool patent.
+    </li>
+    <li class="list-group-item">
+      <strong>Production Manager & CAM Programmer</strong> – ROBO CO., LTD (Mar 2017 – Jan 2021)<br>
+      Optimized production and CAM cycles, improving efficiency and sales.
+    </li>
+    <li class="list-group-item">
+      <strong>Manufacturing Technician</strong> – SEC CO., LTD (Jan 2016 – Feb 2017)<br>
+      Improved semiconductor inspection processes, reducing lead time by 15%.
+    </li>
+  </ul>
+</section>
     <div class="mb-4">
       <h5 class="mb-1">CEAS CO., LTD</h5>
       <p class="mb-0"><strong>Design Engineer</strong> <span class="text-muted">(Jul 2018 – Jan 2021)</span></p>
