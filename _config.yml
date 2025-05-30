@@ -33,8 +33,8 @@ nav:
     url: /about
   - title: "elements"
     url: /elements   
-#  - title: "docs"
-#    url: /docs  
+  - title: "docs"
+    url: /docs  
     
 ### Author Info ###
 author:
