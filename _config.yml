@@ -1,42 +1,32 @@
-title               : SuHo Yu Portfolio
-description         : >-
+title: SuHo Yu Portfolio
+description: >-
   Systems Engineer | UAM & eVTOL | Battery Systems | Government R&D | Flight-Proven Projects
   Specialized in integrated aircraft systems, certification, and high-voltage energy architecture.
 
-baseurl             : "/portfolYOU"
-repository          : yoosuho/portfolYOU
-remote_theme        : yousinix/portfolYOU
-open_new_tab        : true
+baseurl: "/portfolYOU"  # 또는 "" ← 사용 중인 GitHub Pages 유형에 따라 선택
 
-### Plugins ###
+repository: yoosuho/portfolYOU
+remote_theme: yousinix/portfolYOU
+open_new_tab: true
+
 plugins:
   - jemoji
-
-### Navbar Settings ###
-# 아래 부분 추가
-header_pages:
-  - index.md
-  - pages/about.md
-  - pages/projects.md
 
 nav_exclude:
   - pages/tags.html
   - pages/404.html
   - documentation/partials/**
 
-### Author Info ###
 author:
-  name              : SuHo Yu
-  image             : assets/me.jpg
-  email             : yoosuho97@gmail.com
-  github            : yoosuho
-  linkedin          : suho-yu
-  youtube           : jenk5109
+  name: SuHo Yu
+  image: assets/me.jpg
+  email: yoosuho97@gmail.com
+  github: yoosuho
+  linkedin: suho-yu
+  youtube: jenk5109
 
-### Posts ###
 permalink: /blog/:title
 
-### Collections ###
 collections:
   projects:
     output: true
@@ -44,43 +34,6 @@ collections:
   elements:
     output: true
 
-### Disqus ###
-disqus:
-  shortname: your-short-name-disqus
-
-### Analytics ###
-analytics:
-  enabled: false
-  google:
-    tracking_id: your-google-tracking-id
-
-### Buy me a coffee ###
-buymeacoffee:
-  enabled: false
-  username: your_username
-  color: "#007bff"
-  message: "Thank you for visiting."
-  description: "Support me on Buy me a coffee!"
-
-### Defaults for collections ###
-defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "elements"
-    values:
-      layout: "element"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: false
-
-### Exclude from processing ###
 exclude:
   - README.md
   - CONTRIBUTING.md
