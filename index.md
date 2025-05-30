@@ -62,10 +62,6 @@ permalink: /
   </ul>
 </section>
     
-  </div>
-</section>
- 
-
   
 
   <!-- Education Section -->
