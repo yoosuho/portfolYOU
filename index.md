@@ -147,3 +147,5 @@ permalink: /
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
 
+<!-- Sample Profile Image path: assets/profile.jpg -->
+
