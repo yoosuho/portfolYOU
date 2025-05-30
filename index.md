@@ -34,8 +34,6 @@ permalink: /
 
 </div>
 
-
-
 <!-- Font Awesome CSS for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -86,17 +84,7 @@ permalink: /
 
 <div class="container py-5 text-dark" style="background-color: #ffffff;">
 
-  <!-- Profile Header with Image -->
-  <div class="text-center mb-5">
-    <img src="assets/profile.jpg" class="rounded-circle shadow" width="180" alt="SuHo Yu">
-    <h1 class="mt-3">SuHo Yu</h1>
-    <p class="lead">Battery System Architect | UAM Developer | Flight-Tested eVTOL Engineer</p>
-    <p>
-      <a href="https://github.com/yoosuho" class="me-2"><i class="fab fa-github fa-lg"></i></a>
-      <a href="https://www.linkedin.com/in/suho-yu" class="me-2"><i class="fab fa-linkedin fa-lg"></i></a>
-      <a href="https://www.youtube.com/@jenk5109" class="me-2"><i class="fab fa-youtube fa-lg"></i></a>
-    </p>
-  </div>
+  
 
   <!-- Education Section -->
   <section class="mb-5">
