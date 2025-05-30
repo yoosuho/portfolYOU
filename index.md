@@ -45,19 +45,19 @@ permalink: /
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
       <strong>Director of Technology</strong> – VSPACE CO., LTD (Nov 2021 – Present)<br>
-      Directed national battery R&D initiatives for aviation and UAM. Managed a team of researchers, secured flight certification for Korea’s first manned eVTOL, published 3 papers, registered 2 patents, and led multiple successful government demonstration events.
+      Spearheaded full lifecycle development of high-power battery systems for aviation, managing concept, simulation, thermal design, safety validation, and integration. Led Korea’s first manned eVTOL project from R&D to flight certification and demo. Acted as PI on multiple national projects. Built a 4-person multidisciplinary R&D team and fostered close cooperation with public institutions. Delivered 3 publications, 2 patents, and secured strategic partnerships.
     </li>
     <li class="list-group-item">
       <strong>Design Engineer</strong> – CEAS CO., LTD (Jul 2018 – Jan 2021)<br>
-      Designed and optimized cutting tools for Hyundai Motor using CAD/CAM tools. Reduced design time by 15% and received a patent for a vibration-damping cutting tool.
+      Engineered custom tooling solutions for automotive production lines, improving machining reliability and efficiency. Applied SolidWorks and MasterCAM for high-speed steel and carbide tool development. Authored patent for vibration-damping tool, reducing scrap rate by 25%.
     </li>
     <li class="list-group-item">
       <strong>Production Manager & CAM Programmer</strong> – ROBO CO., LTD (Mar 2017 – Jan 2021)<br>
-      Supervised quality control and CAM programming for automotive components. Improved cycle times by 10% and boosted production revenue by $8,000 monthly.
+      Managed mass production and CAM operations for automotive components. Enhanced machining throughput by refining tool paths and implementing cycle time optimization. Established QC protocols that decreased material waste and contributed to monthly revenue growth.
     </li>
     <li class="list-group-item">
       <strong>Manufacturing Technician</strong> – SEC CO., LTD (Jan 2016 – Feb 2017)<br>
-      Operated semiconductor inspection equipment, improved efficiency by 10%, and shortened lead times by 15% through optimized MCT/CAM process flow.
+      Operated CNC and MCT for semiconductor inspection equipment. Improved MCT workflow to achieve 10% process speedup and introduced a kanban system that cut inventory lead time by 15%.
     </li>
   </ul>
 </section>
@@ -146,3 +146,4 @@ permalink: /
 </div>
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
+
