@@ -62,6 +62,10 @@ permalink: /
   </ul>
 </section>
     
+  </div>
+</section>
+    <div class="container py-5" style="background-color: var(--bs-body-bg); color: #000000;">
+
   
 
   <!-- Education Section -->
@@ -142,6 +146,3 @@ permalink: /
 </div>
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
-
-<!-- Sample Profile Image path: assets/profile.jpg -->
-
