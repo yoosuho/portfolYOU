@@ -31,3 +31,74 @@ Currently, I’m preparing for advanced studies and research in **aerospace syst
 <div class="row">
   {% include about/timeline.html %}
 </div>
+
+
+
+skills:
+  - category: 3D Modeling
+    tools:
+      - Fusion 360 (Autodesk)
+      - Solidworks
+      - CATIA (Dassault Systèmes)
+      - Onshape
+      - Blender (for visualization or animation)
+
+  - category: Prototyping / Manufacturing
+    tools:
+      - CNC Milling (setup, toolpath generation, and operation)
+      - CAM Programming (Fusion CAM, Mastercam)
+      - Manual Machining (lathe, drill press, cutting, grinding)
+      - TIG Welding
+      - FDM 3D Printing
+      - Laser Cutting
+      - Metal 3D Printing (DMLS or similar)
+      - Custom Battery Pack Fabrication
+      - Hand-built Frame Assembly (no jig, full alignment by hand)
+      - Full-stack Mechanical Fabrication (from raw metal to functional assembly)
+      - Arduino / Raspberry Pi
+
+  - category: Battery & Power Systems
+    tools:
+      - Custom BMS Development (STM32-based)
+      - CAN / UAVCAN Communication Integration
+      - High Voltage Battery Architecture (12S–14S)
+      - Energy System Compliance (per AC 21.17-4)
+      - Thermal Management (air-cooled + passive strategies)
+
+  - category: Embedded Systems / Control
+    tools:
+      - Pixhawk / Cube Flight Controllers
+      - Mission Planner / QGroundControl
+      - ESC Tuning (BLHeli, Hobbywing, etc.)
+      - RTOS (basic integration)
+      - PID Tuning / Sensor Fusion (IMU, GPS)
+      - Serial & CAN Bus Debugging
+
+  - category: PCB Design / Electronics
+    tools:
+      - KiCad
+      - Eagle
+      - Basic STM32 Firmware Development
+      - Breadboarding for Circuit Prototyping
+
+  - category: System Design / Architecture
+    tools:
+      - Model-Based Design (Simulink-level)
+      - Fault-Tolerant Control (motor failure resilience)
+      - System Integration (propulsion, frame, BMS, ESC, avionics)
+      - DO-178C Compliance Workflow (LDRA-based static/dynamic validation)
+      - Vibration Analysis (real-world battery module & drone)
+
+  - category: Standards / Safety / Certification
+    tools:
+      - Root Cause Analysis (5 Whys, Fishbone Diagram)
+      - FMEA (DFMEA, PFMEA)
+      - AC 21.17-4 Certification Planning (Energy System CCL)
+      - Safety Tether Test Protocols
+
+  - category: Soft Skills / Communication
+    tools:
+      - Technical Presentation (FTC, Government R&D meetings)
+      - Cross-functional Team Leadership
+      - Engineering Documentation (specs, test reports, checklists)
+      - Public-facing Technical Storytelling (YouTube Engineering Vlog)
