@@ -36,6 +36,8 @@ permalink: /
 
 
 
+
+
 <!-- Font Awesome CSS for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -128,6 +130,9 @@ permalink: /
       <li class="list-group-item">230 Wh/kg High Power Battery System – JASE, May 2023</li>
       <li class="list-group-item">Thermal Performance & Internal Resistance – KSAS, May 2023</li>
       <li class="list-group-item">Thermal Analysis in UAM Battery Module – KSAE, Nov 2022</li>
+      <li class="list-group-item">Planar Measurement Device for QA – Nov 2017</li>
+      <li class="list-group-item">Robotic System for Production Line – Nov 2017</li>
+      <li class="list-group-item">Bolt Quantity Detection System – May 2017</li>
     </ul>
   </section>
 
@@ -139,6 +144,22 @@ permalink: /
       <li class="list-group-item">High-Power Battery for eVTOL – KR 10-2024-0200697 (Dec 2024)</li>
       <li class="list-group-item">Air-Cooled High-Density Battery Pack – KR 10-2024-017151 (Dec 2024)</li>
       <li class="list-group-item">Battery Management for Takeoff/Landing – KR 10-2024-004711 (Jan 2024)</li>
+      <li class="list-group-item">Battery Management by Flight Plan – KR 10-2024-0047710 (Jan 2024)</li>
+      <li class="list-group-item">Movable Charger – KR 10-2023-0163497 (Nov 2023)</li>
+      <li class="list-group-item">Fire Protection Pad + Cell Array – KR 10-2023-0054985 (Apr 2023)</li>
+      <li class="list-group-item">Two-Wheeled Vehicle Vibration Dampers – KP 21047 (May 2021)</li>
+    </ul>
+  </section>
+
+  <!-- Government R&D Projects Section -->
+  <section class="mb-5">
+    <h2 class="mb-3">National R&D Projects</h2>
+    <ul class="list-group shadow-sm">
+      <li class="list-group-item">High Power/Density Battery Packaging Tech (250 Wh/kg) – MOTIE, Apr 2020 – Dec 2023</li>
+      <li class="list-group-item">High Efficiency, Low Emission Electric Power Module – MOTIE, Apr 2020 – Dec 2023</li>
+      <li class="list-group-item">IoT-based Intelligent Battery System – MSS, Nov 2021 – Dec 2023</li>
+      <li class="list-group-item">K-UAM Safety Operation Core Technologies – MOLIT, May 2024 – Present</li>
+      <li class="list-group-item">Intelligent Avionics SW Platform for UAM Abnormal Response – MOTIE, May 2024 – Present</li>
     </ul>
   </section>
 
@@ -156,3 +177,4 @@ permalink: /
 </div>
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
+
