@@ -34,44 +34,57 @@ permalink: /
 
 </div>
 
-<h2 style="text-align: center;">Experience</h2>
-<div class="timeline">
-  <div class="timeline-container">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <h3>Employer Name</h3>
-      <h4>Job Title</h4>
-      <p>September 2015 – September 2016</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.</p>
-    </div>
-  </div>
 
-  <div class="timeline-container">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <h3>Employer Name</h3>
-      <h4>Job Title</h4>
-      <p>September 2015 – September 2016</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.</p>
-    </div>
-  </div>
-
-  <div class="timeline-container">
-    <div class="timeline-icon"></div>
-    <div class="timeline-content">
-      <h3>Employer Name</h3>
-      <h4>Job Title</h4>
-      <p>September 2015 – September 2016</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex.</p>
-    </div>
-  </div>
-</div>
 
 <!-- Font Awesome CSS for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <!-- Main container -->
-<div class="container py-5">
+
+<h2 style="text-align: center;">Experience</h2>
+<div class="timeline">
+  <div class="timeline-container">
+    <div class="timeline-icon"></div>
+    <div class="timeline-content">
+      <h3>VSPACE CO., LTD</h3>
+      <h4>Director of Technology, Battery Systems & UAM Development</h4>
+      <p>Nov 2021 – Present</p>
+      <p>Led national projects in aviation battery system development. Oversaw flight testing and certification of Korea’s first pure electric aircraft. Published 3 papers, secured 2 patents, and closed 3 major contracts.</p>
+    </div>
+  </div>
+
+  <div class="timeline-container">
+    <div class="timeline-icon"></div>
+    <div class="timeline-content">
+      <h3>CEAS CO., LTD</h3>
+      <h4>Design Engineer, Cutting Tools</h4>
+      <p>Jul 2018 – Jan 2021</p>
+      <p>Designed high-efficiency cutting tools for Hyundai Motor. Improved tool performance by 20%, reduced design time by 15%, and secured a patent for vibration-damping tools.</p>
+    </div>
+  </div>
+
+  <div class="timeline-container">
+    <div class="timeline-icon"></div>
+    <div class="timeline-content">
+      <h3>ROBO CO., LTD</h3>
+      <h4>Production Manager & CAM Programmer</h4>
+      <p>Mar 2017 – Jan 2021</p>
+      <p>Oversaw production and CAM programming for automotive parts. Reduced cycle times and costs, contributing to a monthly sales increase of $8,000.</p>
+    </div>
+  </div>
+
+  <div class="timeline-container">
+    <div class="timeline-icon"></div>
+    <div class="timeline-content">
+      <h3>SEC CO., LTD</h3>
+      <h4>Manufacturing Technician</h4>
+      <p>Jan 2016 – Feb 2017</p>
+      <p>Operated semiconductor inspection systems and improved production efficiency by 10% while maintaining tight quality control standards.</p>
+    </div>
+  </div>
+</div>
+
+<div class="container py-5 text-dark" style="background-color: #ffffff;">
 
   <!-- Profile Header with Image -->
   <div class="text-center mb-5">
@@ -99,15 +112,9 @@ permalink: /
   <section class="mb-5">
     <h2 class="mb-3">Awards</h2>
     <ul class="list-group shadow-sm">
-      <li class="list-group-item">
-        🏆 <strong>Best Award</strong> – Aerospace Technology-Based Start-Up Academy (Oct 2022)
-      </li>
-      <li class="list-group-item">
-        🥇 <strong>Gold Medal</strong> – CNC Milling, 2015 Local Skills Competition (Apr 2015)
-      </li>
-      <li class="list-group-item">
-        🌟 <strong>MVP</strong> – Gangwon-Do Local Skills Competition (Apr 2015)
-      </li>
+      <li class="list-group-item">🏆 <strong>Best Award</strong> – Aerospace Technology-Based Start-Up Academy (Oct 2022)</li>
+      <li class="list-group-item">🥇 <strong>Gold Medal</strong> – CNC Milling, 2015 Local Skills Competition (Apr 2015)</li>
+      <li class="list-group-item">🌟 <strong>MVP</strong> – Gangwon-Do Local Skills Competition (Apr 2015)</li>
     </ul>
   </section>
 
@@ -148,3 +155,4 @@ permalink: /
 
 </div>
 
+<!-- Sample Profile Image path: assets/profile.jpg -->
