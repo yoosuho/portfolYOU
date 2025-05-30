@@ -67,60 +67,84 @@ permalink: /
   </div>
 </div>
 
+<!-- Font Awesome CSS for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-<section id="education">
-  <div class="container">
-    <h2 class="section-title">Education</h2>
+<!-- Main container -->
+<div class="container py-5">
 
-    <div class="card">
-      <div class="card-header">
-        <strong>University of Ottawa</strong><br>
-        Bachelor of Science in Computer Science
-        <span class="float-right">Sept 2016 - Sept 2017</span>
-      </div>
-      <div class="card-body">
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. 
-          Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada.
-        </p>
-      </div>
-    </div>
-
+  <!-- Profile Header with Image -->
+  <div class="text-center mb-5">
+    <img src="assets/profile.jpg" class="rounded-circle shadow" width="180" alt="SuHo Yu">
+    <h1 class="mt-3">SuHo Yu</h1>
+    <p class="lead">Battery System Architect | UAM Developer | Flight-Tested eVTOL Engineer</p>
+    <p>
+      <a href="https://github.com/yoosuho" class="me-2"><i class="fab fa-github fa-lg"></i></a>
+      <a href="https://www.linkedin.com/in/suho-yu" class="me-2"><i class="fab fa-linkedin fa-lg"></i></a>
+      <a href="https://www.youtube.com/@jenk5109" class="me-2"><i class="fab fa-youtube fa-lg"></i></a>
+    </p>
   </div>
-</section>
 
-
-
-<section id="awards">
-  <div class="container">
-    <h2 class="section-title">Awards</h2>
-
-    <div class="card">
-      <div class="card-header">
-        <strong>Top Prize – Aerospace Technology Startup Academy</strong>
-        <span class="float-right">Nov 2022</span>
-      </div>
-      <div class="card-body">
-        <p>
-          Awarded 1st place for developing an electric propulsion conversion platform 
-          for fixed-wing aircraft, integrating motor, inverter, and battery systems.
-        </p>
-      </div>
+  <!-- Education Section -->
+  <section class="mb-5">
+    <h2 class="mb-3">Education</h2>
+    <div class="bg-light p-4 rounded shadow-sm">
+      <h5>Inha University</h5>
+      <p class="mb-1"><strong>B.Sc. in Mechatronics Engineering</strong> (Mar 2018 – Aug 2023)</p>
+      <p>Focused on battery systems, electric propulsion, and Urban Air Mobility (UAM). Contributed to national R&D projects.</p>
     </div>
+  </section>
 
-    <div class="card">
-      <div class="card-header">
-        <strong>Best Innovation Award – Korea UAM Forum</strong>
-        <span class="float-right">June 2023</span>
-      </div>
-      <div class="card-body">
-        <p>
-          Recognized for successful manned drone flight demonstration and battery system architecture
-          for next-generation UAM platforms.
-        </p>
-      </div>
-    </div>
+  <!-- Awards Section -->
+  <section class="mb-5">
+    <h2 class="mb-3">Awards</h2>
+    <ul class="list-group shadow-sm">
+      <li class="list-group-item">
+        🏆 <strong>Best Award</strong> – Aerospace Technology-Based Start-Up Academy (Oct 2022)
+      </li>
+      <li class="list-group-item">
+        🥇 <strong>Gold Medal</strong> – CNC Milling, 2015 Local Skills Competition (Apr 2015)
+      </li>
+      <li class="list-group-item">
+        🌟 <strong>MVP</strong> – Gangwon-Do Local Skills Competition (Apr 2015)
+      </li>
+    </ul>
+  </section>
 
-  </div>
-</section>
+  <!-- Publications Section -->
+  <section class="mb-5">
+    <h2 class="mb-3">Publications</h2>
+    <ul class="list-group shadow-sm">
+      <li class="list-group-item">Integrated System Design and Flight Demonstration – JASE, Apr 2025</li>
+      <li class="list-group-item">Electric Propulsion Battery Requirements for K-UAM – JASE, Apr 2025</li>
+      <li class="list-group-item">Lightweight Aircraft Modification – JASE, Jun 2023</li>
+      <li class="list-group-item">230 Wh/kg High Power Battery System – JASE, May 2023</li>
+      <li class="list-group-item">Thermal Performance & Internal Resistance – KSAS, May 2023</li>
+      <li class="list-group-item">Thermal Analysis in UAM Battery Module – KSAE, Nov 2022</li>
+    </ul>
+  </section>
+
+  <!-- Patents Section -->
+  <section class="mb-5">
+    <h2 class="mb-3">Patents</h2>
+    <ul class="list-group shadow-sm">
+      <li class="list-group-item">Urban Air Mobility Frame – US 15366-000102 (Dec 2024)</li>
+      <li class="list-group-item">High-Power Battery for eVTOL – KR 10-2024-0200697 (Dec 2024)</li>
+      <li class="list-group-item">Air-Cooled High-Density Battery Pack – KR 10-2024-017151 (Dec 2024)</li>
+      <li class="list-group-item">Battery Management for Takeoff/Landing – KR 10-2024-004711 (Jan 2024)</li>
+    </ul>
+  </section>
+
+  <!-- Professional Activities Section -->
+  <section class="mb-5">
+    <h2 class="mb-3">Professional Activities</h2>
+    <ul class="list-group shadow-sm">
+      <li class="list-group-item">CNC Milling Judge – National Skills Competition (Oct 2023)</li>
+      <li class="list-group-item">CNC Milling Judge – Local Skills Competition (Apr 2023)</li>
+      <li class="list-group-item">Technical Mentor – Taebaek Machinery Industry High School (Dec 2023 – Feb 2024)</li>
+      <li class="list-group-item">Guidance in CAM & Measurement – Taebaek Machinery High (Nov 2017)</li>
+    </ul>
+  </section>
+
+</div>
 
