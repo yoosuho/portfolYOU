@@ -6,6 +6,8 @@ permalink: /
 
 <div align="center">
 
+<img src="assets/me.jpg" width="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15);" alt="SuHo Yu Profile Image"/>
+
 # ✈️ Where Systems Engineering Meets the Sky
 
 **SuHo Yu**  
