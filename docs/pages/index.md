@@ -1,6 +1,6 @@
----
-layout: default
-permalink: /
----
+# ---
+# layout: default
+# permalink: /
+# ---
 
-{% include landing.html %}
+# {% include landing.html %}
