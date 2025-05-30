@@ -45,19 +45,19 @@ permalink: /
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
       <strong>Director of Technology</strong> – VSPACE CO., LTD (Nov 2021 – Present)<br>
-      Led national aviation battery projects, managed Korea’s first electric aircraft certification and flight.
+      Directed national battery R&D initiatives for aviation and UAM. Managed a team of researchers, secured flight certification for Korea’s first manned eVTOL, published 3 papers, registered 2 patents, and led multiple successful government demonstration events.
     </li>
     <li class="list-group-item">
       <strong>Design Engineer</strong> – CEAS CO., LTD (Jul 2018 – Jan 2021)<br>
-      Designed cutting tools for Hyundai Motor, secured a vibration-damping tool patent.
+      Designed and optimized cutting tools for Hyundai Motor using CAD/CAM tools. Reduced design time by 15% and received a patent for a vibration-damping cutting tool.
     </li>
     <li class="list-group-item">
       <strong>Production Manager & CAM Programmer</strong> – ROBO CO., LTD (Mar 2017 – Jan 2021)<br>
-      Optimized production and CAM cycles, improving efficiency and sales.
+      Supervised quality control and CAM programming for automotive components. Improved cycle times by 10% and boosted production revenue by $8,000 monthly.
     </li>
     <li class="list-group-item">
       <strong>Manufacturing Technician</strong> – SEC CO., LTD (Jan 2016 – Feb 2017)<br>
-      Improved semiconductor inspection processes, reducing lead time by 15%.
+      Operated semiconductor inspection equipment, improved efficiency by 10%, and shortened lead times by 15% through optimized MCT/CAM process flow.
     </li>
   </ul>
 </section>
