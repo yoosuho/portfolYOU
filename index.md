@@ -61,21 +61,7 @@ permalink: /
     </li>
   </ul>
 </section>
-    <div class="mb-4">
-      <h5 class="mb-1">CEAS CO., LTD</h5>
-      <p class="mb-0"><strong>Design Engineer</strong> <span class="text-muted">(Jul 2018 – Jan 2021)</span></p>
-      <p>Designed cutting tools for Hyundai Motor, secured a vibration-damping tool patent.</p>
-    </div>
-    <div class="mb-4">
-      <h5 class="mb-1">ROBO CO., LTD</h5>
-      <p class="mb-0"><strong>Production Manager & CAM Programmer</strong> <span class="text-muted">(Mar 2017 – Jan 2021)</span></p>
-      <p>Optimized production and CAM cycles, improving efficiency and sales.</p>
-    </div>
-    <div>
-      <h5 class="mb-1">SEC CO., LTD</h5>
-      <p class="mb-0"><strong>Manufacturing Technician</strong> <span class="text-muted">(Jan 2016 – Feb 2017)</span></p>
-      <p>Improved semiconductor inspection processes, reducing lead time by 15%.</p>
-    </div>
+    
   </div>
 </section>
     <div class="container py-5 text-dark" style="background-color: #ffffff;">
@@ -159,3 +145,4 @@ permalink: /
 </div>
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
+
