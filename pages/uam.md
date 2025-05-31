@@ -4,7 +4,7 @@ layout: default
 permalink: /pages/uam/
 ---
 
-<h1>🛩️ Future Air Mobility UAM Prototype Development and Flight</h1>
+<h1>Future Air Mobility UAM Prototype Development and Flight</h1>
 
 <p><strong>Duration:</strong> January 2022 – December 2022<br>
 <strong>Lead Organization:</strong> VSPACE<br>
@@ -12,7 +12,7 @@ permalink: /pages/uam/
 
 <hr>
 
-<h2>🔧 Project Overview</h2>
+<h2>Project Overview</h2>
 <p>
 This project marks South Korea’s first full-stack development of a single-seat manned eVTOL prototype. I led the full-cycle system integration effort—ranging from structural design, welding, flight controller configuration, battery and BMS development, to actual test flights.
 </p>
@@ -21,7 +21,7 @@ This project marks South Korea’s first full-stack development of a single-seat
 The aircraft was a multicopter-type UAM platform, developed from TRL 4 to TRL 5. Key functions—attitude control, propulsion redundancy, and safety verification—were system-integrated and validated in both tethered and untethered test environments.
 </p>
 
-<h2>🧠 My Contributions</h2>
+<h2>My Contributions</h2>
 <ul>
   <li>Planned structural layout based on mass and center-of-gravity distribution</li>
   <li>Hand-built the airframe through manual TIG welding (no jigs used)</li>
@@ -31,12 +31,12 @@ The aircraft was a multicopter-type UAM platform, developed from TRL 4 to TRL 5.
   <li>Led regulatory alignment effort based on AC 21.17-4 for experimental certification</li>
 </ul>
 
-<h2>📈 Impact</h2>
+<h2>Impact</h2>
 <p>
 This prototype validated the feasibility of scaling and standardizing manned eVTOLs under Korea's airworthiness frameworks. It contributed to national R&D benchmarking and was featured in Korea’s first urban air mobility demonstration.
 </p>
 
-<h2>🖼️ Gallery</h2>
+<h2>Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
   <figure>
     <img src="{{ site.baseurl }}/assets/uam/7.jpg" alt="Modeling" style="width: 100%; height: 250px; object-fit: cover;">
