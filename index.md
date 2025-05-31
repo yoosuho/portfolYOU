@@ -117,7 +117,7 @@ permalink: /
       <li class="list-group-item" style="background-color: transparent;">
       <strong>Battery Management Method for Urban Air Mobility</strong> – KR 10-2024-0047710 (Jan 2024)
       <br/><a href="{{ site.baseurl }}/assets/Patents/Battery Management Method for Urban Air Mobility Aircraft.pdf" target="_blank">📄 View PDF</a>
-    </li>   
+    </li>    
       <li class="list-group-item" style="background-color: transparent;">
       <strong>Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing</strong> – KR 10-2024-0004710 (Jan 2024)
       <br/><a href="{{ site.baseurl }}/assets/Patents/Method for an Aircraft to Manage the Battery in Response to Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
