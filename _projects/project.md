@@ -41,7 +41,7 @@ permalink: /projects/
       <div class="card-body">
         <h5 class="card-title">Future Air Mobility UAM Prototype Unit 2 – Development and Flight</h5>
         <p class="card-text">Enhanced dual-propulsion redundancy system and improved frame structure with successful flight test.</p>
-        <a href="{{ site.baseurl }}/pages/uam2/.html" class="btn btn-sm btn-outline-primary">View Project</a>
+        <a href="{{ site.baseurl }}/pages/uam2/" class="btn btn-sm btn-outline-primary">View Project</a>
       </div>
     </div>
   </div>
@@ -53,7 +53,7 @@ permalink: /projects/
       <div class="card-body">
         <h5 class="card-title">Development of a 100 kg-class Heavy Cargo Drone with Single-Propeller Failure Tolerance</h5>
         <p class="card-text">System integration for fault-tolerant X8 electric propulsion, validated through experimental flight tests.</p>
-        <a href="{{ site.baseurl }}/projects/cargo-drone-100kg.html" class="btn btn-sm btn-outline-primary">View Project</a>
+        <a href="{{ site.baseurl }}/pages/drone/" class="btn btn-sm btn-outline-primary">View Project</a>
       </div>
     </div>
   </div>
