@@ -1,0 +1,68 @@
+---
+title: "Future Air Mobility UAM Prototype Development and Flight"
+layout: default
+permalink: assets/project/future-uam/future-uam-prototype.html
+---
+
+<h1>🛩️ Future Air Mobility UAM Prototype Development and Flight</h1>
+
+<p><strong>Duration:</strong> January 2022 – December 2022<br>
+<strong>Lead Organization:</strong> VSPACE<br>
+<strong>Role:</strong> Project Lead for Full Aircraft Development</p>
+
+<hr>
+
+<h2>🔧 Project Overview</h2>
+<p>
+This project marks South Korea’s first full-stack development of a single-seat manned eVTOL prototype. I led the full-cycle system integration effort—ranging from CAD design, structural welding, flight controller configuration, battery and BMS development, to actual test flights.
+</p>
+
+<p>
+The aircraft was a multicopter-type UAM platform, developed from TRL 4 to TRL 5. Key functions—attitude control, propulsion redundancy, and safety verification—were system-integrated and validated in both tethered and untethered test environments.
+</p>
+
+<h2>🧠 My Contributions</h2>
+<ul>
+  <li>Designed aircraft structure and aerodynamic layout using CAD/CAE tools</li>
+  <li>Hand-built the airframe through manual TIG welding (no jigs used)</li>
+  <li>Integrated 12S high-voltage battery system with STM32-based BMS and UAVCAN communication</li>
+  <li>Configured Pixhawk/Cube controller, tuned PID parameters for stable vertical flight</li>
+  <li>Performed tethered safety tests, fault handling (motor loss), and hover flight demonstrations</li>
+  <li>Led regulatory alignment effort based on AC 21.17-4 for experimental certification</li>
+</ul>
+
+<h2>📈 Impact</h2>
+<p>
+This prototype validated the feasibility of scaling and standardizing manned eVTOLs under Korea's airworthiness frameworks. It contributed to national R&D benchmarking and was featured in Korea’s first urban air mobility demonstration.
+</p>
+
+<h2>🖼️ Gallery</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
+  <img src="{{ site.baseurl }}/assets/projects/uam/1.jpg" alt="Concept Rendering">
+  <img src="{{ site.baseurl }}/assets/projects/uam/2.jpg" alt="Frame Fabrication">
+  <img src="{{ site.baseurl }}/assets/projects/uam/3.jpg" alt="Completed Static Mockup">
+  <img src="{{ site.baseurl }}/assets/projects/uam/4.jpg" alt="Lift-off from Rooftop Testbed">
+  <img src="{{ site.baseurl }}/assets/projects/uam/5.jpg" alt="In-flight Test">
+</div>
+
+<h2>🎥 YouTube Series</h2>
+<p>
+To document the full build process and technical decisions behind the VS200 eVTOL, I created a detailed 4-part engineering video series.
+</p>
+<ul>
+  <li><a href="https://www.youtube.com/playlist?list=PLDMbqX9Y7L8xzvTdl2uZ71UDZcp0Br2Af" target="_blank">▶ Watch the Full Series</a></li>
+</ul>
+
+<h2>📰 Media Coverage</h2>
+<p>
+This project gained national media attention as Korea’s first manned eVTOL development, with successful public flight demonstrations featured in major tech and robotics publications.
+</p>
+<ul>
+  <li><a href="https://www.etnews.com/20221216000042" target="_blank">[ETNews] South Korea's first single-seat UAM aircraft takes flight</a></li>
+  <li><a href="https://www.hellot.net/news/article.html?no=74555" target="_blank">[HelloT] VSPACE successfully demonstrates manned drone</a></li>
+  <li><a href="https://www.irobotnews.com/news/articleView.html?idxno=31093" target="_blank">[Robot News] VSPACE completes successful eVTOL prototype flight</a></li>
+</ul>
+
+<hr>
+
+<p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
