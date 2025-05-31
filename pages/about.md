@@ -19,36 +19,6 @@ My goal is to connect theory with real-world implementation — not just as a us
 
 ---
 
-# ⚙️ Selected Projects
-
-### 🛩️ VS200 – 225kg-class Manned eVTOL  
-From welding the airframe to integrating an X8 propulsion system, designing the battery architecture, developing STM32-based BMS, and completing real-world flight demonstrations — including fault tolerance and GPS noise mitigation.
-
-[▶ Watch Full Series (4 parts)](https://www.youtube.com/playlist?list=PLDMbqX9Y7L8xzvTdl2uZ71UDZcp0Br2Af)
-
----
-
-### 🌊 Electric Surfboard  
-Waterproof propulsion system with a 12S battery, custom metal 3D-printed screw, CFD-validated performance, and full wet-environment testing.
-
-[▶ Watch Part 1](https://www.youtube.com/watch?v=bJ5nzr4_w9Y)
-
----
-
-### 🏎️ Electric Go-Kart  
-Frame hand-welded without a jig, regenerative powertrain, custom battery integration, and fully documented DIY fabrication.
-
-[▶ Watch Part 1](https://www.youtube.com/watch?v=y-Zqev3MZpU)
-
----
-
-### 🔋 Custom STM32-Based BMS  
-Designed for high-voltage eVTOL packs, this BMS integrates CAN/UAVCAN, current protection logic, and has been validated using LDRA per DO-178C software safety workflow.
-
-[▶ Watch Devlog](https://www.youtube.com/watch?v=MknMeYHK3tI)
-
----
-
 # 🚀 My Research Outlook
 
 Across domains such as UAM, robotics, and energy systems, I aim to bring **hands-on integration, full-stack prototyping, and test-driven development** into academic research settings.
