@@ -28,7 +28,7 @@ permalink: /projects/
       <div class="card-body">
         <h5 class="card-title">Electric Propulsion Conversion Development Project</h5>
         <p class="card-text">Converted combustion aircraft to electric propulsion platform using custom inverter, motor, and battery system.</p>
-        <a href="{{ site.baseurl }}/projects/electric-conversion.html" class="btn btn-sm btn-outline-primary">View Project</a>
+        <a href="{{ site.baseurl }}/pages/plane/" class="btn btn-sm btn-outline-primary">View Project</a>
       </div>
     </div>
   </div>
