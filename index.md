@@ -42,7 +42,7 @@ permalink: /
 
 <section class="mb-5">
   <h2 class="mb-3">Experience</h2>
-  <ul class="list-group shadow-sm">
+  <ul class="list-group shadow-sm" style="background-color: var(--bs-light-bg-subtle);">
     <li class="list-group-item">
       <strong>Director of Technology</strong> – VSPACE CO., LTD (Nov 2021 – Present)<br>
       Spearheaded full lifecycle development of high-power battery systems for aviation, managing concept, simulation, thermal design, safety validation, and integration. Led Korea’s first manned eVTOL project from R&D to flight certification and demo. Acted as PI on multiple national projects. Built a 4-person multidisciplinary R&D team and fostered close cooperation with public institutions. Delivered 3 publications, 2 patents, and secured strategic partnerships.
