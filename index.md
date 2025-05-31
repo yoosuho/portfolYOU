@@ -45,19 +45,19 @@ permalink: /
 <section class="mb-5" style="background-color: #f5f5f5; border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Experience</h2>
   <ul class="list-group shadow-sm">
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>Director of Technology</strong> – VSPACE CO., LTD (Nov 2021 – Present)<br>
       Spearheaded full lifecycle development of high-power battery systems for aviation, managing concept, simulation, thermal design, safety validation, and integration. Led Korea’s first manned eVTOL project from R&D to flight certification and demo. Acted as PI on multiple national projects. Built a 4-person multidisciplinary R&D team and fostered close cooperation with public institutions. Delivered 3 publications, 2 patents, and secured strategic partnerships.
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>Design Engineer</strong> – CEAS CO., LTD (Jul 2018 – Jan 2021)<br>
       Engineered custom tooling solutions for automotive production lines, improving machining reliability and efficiency. Applied SolidWorks and MasterCAM for high-speed steel and carbide tool development. Authored patent for vibration-damping tool, reducing scrap rate by 25%.
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>Production Manager & CAM Programmer</strong> – ROBO CO., LTD (Mar 2017 – Jan 2021)<br>
       Managed mass production and CAM operations for automotive components. Enhanced machining throughput by refining tool paths and implementing cycle time optimization. Established QC protocols that decreased material waste and contributed to monthly revenue growth.
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>Manufacturing Technician</strong> – SEC CO., LTD (Jan 2016 – Feb 2017)<br>
       Operated CNC and MCT for semiconductor inspection equipment. Improved MCT workflow to achieve 10% process speedup and introduced a kanban system that cut inventory lead time by 15%.
     </li>
