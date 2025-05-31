@@ -145,36 +145,36 @@ permalink: /
 
   <!-- Media Coverage Section -->
 <section class="mb-5">
-  <h2 class="mb-3">Media Coverage</h2>
+  <h2 class="mb-3">News Articles</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
-      📰 <strong>AI타임스</strong> – "국내 개발 유인 전기드론 시연 성공"<br>
+      📰 <strong>AI Times</strong> – "Successful demonstration of domestically developed manned electric drone"<br>
       <a href="https://www.aitimes.com/news/articleView.html?idxno=148094" target="_blank">Read Article</a>
     </li>
     <li class="list-group-item">
-      📰 <strong>아주경제</strong> – "유인 전기드론 첫 비행 성공, UAM 상용화 한 걸음 더"<br>
+      📰 <strong>Aju Business Daily</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
       <a href="https://www.ajunews.com/view/20240712135909312" target="_blank">Read Article</a>
     </li>
   </ul>
 </section>
 
 <section class="mb-5">
-  <h2 class="mb-3">Video Coverage</h2>
+  <h2 class="mb-3">News Video</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
-      🎥 <strong>YouTube</strong> – 유인 전기드론 개발 비행 영상<br>
+      🎥 <strong>YouTube</strong> – Manned electric drone test flight coverage<br>
       <a href="https://www.youtube.com/watch?v=1ho9jntKVpk&t=13s" target="_blank">Watch</a>
     </li>
     <li class="list-group-item">
-      🎥 <strong>YouTube</strong> – 도심항공모빌리티 기술 소개<br>
+      🎥 <strong>YouTube</strong> – UAM (Urban Air Mobility) technology feature<br>
       <a href="https://www.youtube.com/watch?v=Cj6up0y-KjU" target="_blank">Watch</a>
     </li>
     <li class="list-group-item">
-      🎥 <strong>YouTube</strong> – 비행 실증 및 연구 프로젝트<br>
+      🎥 <strong>YouTube</strong> – Flight demonstration and technical project<br>
       <a href="https://www.youtube.com/watch?v=wlbmD8hc-ZA" target="_blank">Watch</a>
     </li>
     <li class="list-group-item">
-      🎥 <strong>YouTube</strong> – 전기드론 통합 시스템 실증<br>
+      🎥 <strong>YouTube</strong> – Integrated electric drone system showcase<br>
       <a href="https://www.youtube.com/watch?v=ENuLUvW1LwI" target="_blank">Watch</a>
     </li>
   </ul>
@@ -193,4 +193,3 @@ permalink: /
 </div>
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
-
