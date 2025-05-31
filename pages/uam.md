@@ -14,7 +14,7 @@ permalink: /pages/uam/
 
 <h2>🔧 Project Overview</h2>
 <p>
-This project marks South Korea’s first full-stack development of a single-seat manned eVTOL prototype. I led the full-cycle system integration effort—ranging from CAD design, structural welding, flight controller configuration, battery and BMS development, to actual test flights.
+This project marks South Korea’s first full-stack development of a single-seat manned eVTOL prototype. I led the full-cycle system integration effort—ranging from structural design, welding, flight controller configuration, battery and BMS development, to actual test flights.
 </p>
 
 <p>
@@ -23,7 +23,7 @@ The aircraft was a multicopter-type UAM platform, developed from TRL 4 to TRL 5.
 
 <h2>🧠 My Contributions</h2>
 <ul>
-  <li>Designed aircraft structure and aerodynamic layout using CAD/CAE tools</li>
+  <li>Planned structural layout based on mass and center-of-gravity distribution</li>
   <li>Hand-built the airframe through manual TIG welding (no jigs used)</li>
   <li>Integrated 12S high-voltage battery system with STM32-based BMS and UAVCAN communication</li>
   <li>Configured Pixhawk/Cube controller, tuned PID parameters for stable vertical flight</li>
@@ -38,11 +38,30 @@ This prototype validated the feasibility of scaling and standardizing manned eVT
 
 <h2>🖼️ Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
-  <img src="{{ site.baseurl }}/assets/uam/1.jpg" alt="Concept Rendering">
-  <img src="{{ site.baseurl }}/assets/uam/2.jpg" alt="Frame Fabrication">
-  <img src="{{ site.baseurl }}/assets/uam/3.jpg" alt="Completed Static Mockup">
-  <img src="{{ site.baseurl }}/assets/uam/4.jpg" alt="Lift-off from Rooftop Testbed">
-  <img src="{{ site.baseurl }}/assets/uam/5.jpg" alt="In-flight Test">
+  <figure>
+    <img src="{{ site.baseurl }}/assets/uam/1.jpg" alt="Concept Rendering" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Full-scale airframe fabrication begins in a temporary rooftop facility.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/uam/2.jpg" alt="Frame Fabrication" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Initial frame assembly using TIG welding without jigs.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/uam/3.jpg" alt="Completed Static Mockup" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Assembled airframe with structural integration and visible battery housing.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/uam/4.jpg" alt="Lift-off from Rooftop Testbed" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">First lift-off from rooftop helipad during hover testing phase.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/uam/5.jpg" alt="In-flight Test" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">eVTOL in free flight above test facility, validating control and lift symmetry.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/uam/6.jpg" alt="Stable hover demonstration" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Stable hover captured during safety and endurance demonstration.</figcaption>
+  </figure>
 </div>
 
 <h2>🎥 YouTube Series</h2>
@@ -65,4 +84,5 @@ This project gained national media attention as Korea’s first manned eVTOL dev
 
 <hr>
 
+<p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
 <p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
