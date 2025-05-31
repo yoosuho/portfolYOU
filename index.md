@@ -224,6 +224,6 @@ permalink: /
   </ul>
 </section>
 
-</div>
+
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
