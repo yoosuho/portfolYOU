@@ -98,7 +98,10 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">Patents</h2>
     <ul class="list-group shadow-sm">
-      <li class="list-group-item" style="background-color: transparent;">Urban Air Mobility Frame – US 15366-000102 (Dec 2024)</li>
+          <li class="list-group-item" style="background-color: transparent;">
+      <strong>Urban Air Mobility Frame</strong> – US 15366-000102 (Dec 2024)
+      <br/><a href="{{ site.baseurl }}/assets/Patents/Executed AD.pdf" target="_blank">📄 View PDF</a>
+    </li>
       <li class="list-group-item" style="background-color: transparent;">High-Power Battery for eVTOL – KR 10-2024-0200697 (Dec 2024)</li>
       <li class="list-group-item" style="background-color: transparent;">Air-Cooled High-Density Battery Pack – KR 10-2024-017151 (Dec 2024)</li>
       <li class="list-group-item" style="background-color: transparent;">Battery Management for Takeoff/Landing – KR 10-2024-004711 (Jan 2024)</li>
