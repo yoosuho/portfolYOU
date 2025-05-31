@@ -56,29 +56,14 @@ The goal was to redesign the system architecture to support localization of comp
     <img src="{{ site.baseurl }}/assets/uam2/2.jpg" alt="Front View" style="width: 100%; height: 250px; object-fit: cover;">
     <figcaption style="font-size: 0.9em;">Completed aircraft – front view with lighting system active.</figcaption>
   </figure>
-  <figure>
-    <img src="{{ site.baseurl }}/assets/uam2/3.jpg" alt="Left Side" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Left profile of assembled UAM Unit 2 inside test facility.</figcaption>
-  </figure>
+
   <figure>
     <img src="{{ site.baseurl }}/assets/uam2/4.jpg" alt="Right Side" style="width: 100%; height: 250px; object-fit: cover;">
     <figcaption style="font-size: 0.9em;">Right profile view highlighting aerodynamic refinements.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/assets/uam2/5.jpg" alt="Top Down" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Top-down perspective showing rotor layout and geometry.</figcaption>
-  </figure>
-  <figure>
     <img src="{{ site.baseurl }}/assets/uam2/6.jpg" alt="Diagonal View" style="width: 100%; height: 250px; object-fit: cover;">
     <figcaption style="font-size: 0.9em;">Three-quarter angle shot emphasizing stance and proportions.</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.baseurl }}/assets/uam2/7.jpg" alt="Crew with Aircraft" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Team photo with the finalized Unit 2 UAM prototype.</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.baseurl }}/assets/uam2/8.jpg" alt="Hangar Shot" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Hangar lighting test and system readiness inspection.</figcaption>
   </figure>
 
   <!-- Safety Tether Test (11) -->
