@@ -39,15 +39,15 @@ This prototype validated the feasibility of scaling and standardizing manned eVT
 <h2>🖼️ Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
   <figure>
-    <img src="{{ site.baseurl }}/assets/uam/7.jpg" alt="Modeling" style="width: 100%; height: 250px; object-fit: cover;">
+    <img src="{{ site.baseurl }}/assets/uam/7.png" alt="Modeling" style="width: 100%; height: 250px; object-fit: cover;">
     <figcaption style="font-size: 0.9em;">Initial 3D modeling for structural and aerodynamic layout prior to fabrication.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/assets/uam/8.jpg" alt="Frame Build" style="width: 100%; height: 250px; object-fit: cover;">
+    <img src="{{ site.baseurl }}/assets/uam/8.png" alt="Frame Build" style="width: 100%; height: 250px; object-fit: cover;">
     <figcaption style="font-size: 0.9em;">Mid-stage assembly with reinforced cross-beam structure and motor brackets.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/assets/uam/9.jpg" alt="Component Integration" style="width: 100%; height: 250px; object-fit: cover;">
+    <img src="{{ site.baseurl }}/assets/uam/9.png" alt="Component Integration" style="width: 100%; height: 250px; object-fit: cover;">
     <figcaption style="font-size: 0.9em;">Final component integration phase with wiring, ESCs, and flight computer.</figcaption>
   </figure>
   <figure>
