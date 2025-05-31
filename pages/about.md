@@ -8,52 +8,53 @@ weight: 3
 # 👨‍💻 SuHo Yu
 
 Hello! I'm a systems engineer specializing in UAM, eVTOL, electric propulsion systems, and robotics.  
-From CAD design to real-world flight, I have hands-on experience in full-stack aerial system development.
+From CAD design to real-world flight, I have hands-on experience in full-stack aerial system development — including CNC machining, embedded systems, and flight testing.
+
+---
+
 # 🧭 Engineering Philosophy
 
-I believe engineering isn't just about CAD and simulation — it’s about building functional systems that fly, move, or operate under real-world constraints.
+Engineering, to me, is not just simulation — it's building something that flies, fails, and flies again.  
+I've welded frames without jigs, calculated production yield rates, milled custom parts with CNCs, designed batteries and embedded controllers, and proven those systems in the air.
 
-Through a series of projects involving manned drones, high-voltage batteries, and flight-tested systems, I’ve built a practical foundation that bridges design, manufacturing, embedded control, and safety validation.
+What I value most is the ability to **bridge theory and hardware** — through functional integration, fabrication, and real-world validation.
 
-My goal is to connect theory with real-world implementation — not just as a user of systems, but as a hands-on integrator.
+---
+
+# ⚙️ What I’ve Actually Done
+
+- Welded and assembled full-size airframes by hand without jigs
+- Milled components using CNCs and set up toolpaths (Fusion CAM, Mastercam)
+- Calculated production yield rates during prototyping-to-manufacturing transitions
+- Designed and fabricated custom high-voltage battery packs (12S–14S)
+- Developed STM32-based BMS with **UAVCAN**, validated with LDRA (DO-178C)
+- Tuned ESCs and PID controllers on **Pixhawk / Cube** platforms
+- Conducted vibration analysis and **fault-tolerant control** testing (e.g., single-motor failure on X8)
+- Performed **manned and unmanned test flights**, including tether safety validation
+
+All of this was done in **real-world environments**, not just labs or models — from raw aluminum to successful flight.
 
 ---
 
 # 🚀 My Research Outlook
 
-Across domains such as UAM, robotics, and energy systems, I aim to bring **hands-on integration, full-stack prototyping, and test-driven development** into academic research settings.
+Across domains like UAM, robotics, and aerial energy systems, I aim to contribute by bringing **full-stack system prototyping and test-driven validation** into academic research.
 
-Whether contributing to battery design, embedded control, or mechanical structure, I focus on building platforms where theory meets physical validation — with an emphasis on reproducible, field-tested engineering.
+My focus is on bridging high-level models and real-world systems — especially through:
+- Embedded control + battery integration
+- Mechanical structure + avionics communication
+- Flight validation + safety protocols
 
-Long-term, I hope to contribute as a **system-level engineer and researcher** capable of translating concepts into validated, operational systems.
+Long-term, I hope to become a **system-level engineer and researcher** who can guide experimental aerial systems from concept through certification.
 
 ---
 
 # 🎥 Engineering in the Open
 
-To help others understand how full-stack systems come together — from failure to flight — I share detailed project videos and technical reflections on YouTube.
+To share what real prototyping looks like — including setbacks, design decisions, and flying outcomes —  
+I create detailed technical videos showing how full-stack systems are actually built.
 
 [▶ Visit My Channel](https://www.youtube.com/@jenk5109)
-
-
-# **About Me**
-
-Hi, I’m **{{ site.author.name }}** 👋  
-I’m a systems engineer specializing in **UAM (Urban Air Mobility)** and **robotics-integrated aircraft**. I’ve led the development of full-scale electric propulsion aircraft—from concept design to flight validation—by bridging mechanical design, embedded control, and high-voltage battery system integration.
-
-Throughout my career, I’ve personally:
-- Welded and assembled airframes without jigs
-- Designed and fabricated custom high-voltage battery packs
-- Developed STM32-based BMS and integrated them via **UAVCAN** into flight systems
-- Built and tuned flight control architectures using **Pixhawk**, **ESCs**, and real-time PID feedback
-- Conducted vibration analysis and fault-tolerant testing under motor loss conditions
-- Executed actual **manned and unmanned flight tests**, including safety tether validations and autonomous flight logging
-
-My projects go beyond simulation. Everything I build is designed to **fly**, **fail**, and **fly again—better**. I believe that real engineering starts when CAD ends and the grinder begins.
-
-Currently, I’m preparing for advanced studies and research in **aerospace systems**, **robotic autonomy**, and **experimental aerial platforms**—with the goal of contributing to the next generation of safe and intelligent air vehicles.
-
----
 
 <!-- 💡 CSS는 반드시 가장 위에 위치해야 합니다 -->
 <style>
