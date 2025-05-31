@@ -1,7 +1,7 @@
 ---
 title: "Future Air Mobility UAM Prototype Development and Flight"
 layout: default
-permalink: pages/uam.html
+permalink: /pages/uam/
 ---
 
 <h1>🛩️ Future Air Mobility UAM Prototype Development and Flight</h1>
