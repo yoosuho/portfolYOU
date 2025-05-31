@@ -68,71 +68,89 @@ Currently, I’m preparing for advanced studies and research in **aerospace syst
 
 
 
-skills:
-  - category: 3D Modeling
-    tools:
-      - Fusion 360 (Autodesk)
-      - Solidworks
-      - CATIA (Dassault Systèmes)
-      - Onshape
-      - Blender (for visualization or animation)
+<section class="skills">
+  <!-- 3D Modeling -->
+  <div class="skill-category">
+    <div class="skill-title">3D Modeling</div>
+    <span class="skill-tag">Fusion 360 (Autodesk)</span>
+    <span class="skill-tag">Solidworks</span>
+    <span class="skill-tag">CATIA (Dassault Systèmes)</span>
+    <span class="skill-tag">Onshape</span>
+    <span class="skill-tag">Blender (for visualization or animation)</span>
+  </div>
 
-  - category: Prototyping / Manufacturing
-    tools:
-      - CNC Milling (setup, toolpath generation, and operation)
-      - CAM Programming (Fusion CAM, Mastercam)
-      - Manual Machining (lathe, drill press, cutting, grinding)
-      - TIG Welding
-      - FDM 3D Printing
-      - Laser Cutting
-      - Metal 3D Printing (DMLS or similar)
-      - Custom Battery Pack Fabrication
-      - Hand-built Frame Assembly (no jig, full alignment by hand)
-      - Full-stack Mechanical Fabrication (from raw metal to functional assembly)
-      - Arduino / Raspberry Pi
+  <!-- Prototyping / Manufacturing -->
+  <div class="skill-category">
+    <div class="skill-title">Prototyping / Manufacturing</div>
+    <span class="skill-tag">CNC Milling</span>
+    <span class="skill-tag">CAM Programming</span>
+    <span class="skill-tag">Manual Machining</span>
+    <span class="skill-tag">TIG Welding</span>
+    <span class="skill-tag">FDM 3D Printing</span>
+    <span class="skill-tag">Laser Cutting</span>
+    <span class="skill-tag">Metal 3D Printing</span>
+    <span class="skill-tag">Custom Battery Pack Fabrication</span>
+    <span class="skill-tag">Hand-built Frame Assembly</span>
+    <span class="skill-tag">Full-stack Mechanical Fabrication</span>
+    <span class="skill-tag">Arduino / Raspberry Pi</span>
+  </div>
 
-  - category: Battery & Power Systems
-    tools:
-      - Custom BMS Development (STM32-based)
-      - CAN / UAVCAN Communication Integration
-      - High Voltage Battery Architecture (12S–14S)
-      - Energy System Compliance (per AC 21.17-4)
-      - Thermal Management (air-cooled + passive strategies)
+  <!-- Battery & Power Systems -->
+  <div class="skill-category">
+    <div class="skill-title">Battery & Power Systems</div>
+    <span class="skill-tag">Custom BMS (STM32-based)</span>
+    <span class="skill-tag">CAN / UAVCAN Integration</span>
+    <span class="skill-tag">High Voltage Battery Architecture (12S–14S)</span>
+    <span class="skill-tag">AC 21.17-4 Compliance</span>
+    <span class="skill-tag">Thermal Management</span>
+  </div>
 
-  - category: Embedded Systems / Control
-    tools:
-      - Pixhawk / Cube Flight Controllers
-      - Mission Planner / QGroundControl
-      - ESC Tuning (BLHeli, Hobbywing, etc.)
-      - RTOS (basic integration)
-      - PID Tuning / Sensor Fusion (IMU, GPS)
-      - Serial & CAN Bus Debugging
+  <!-- Embedded Systems / Control -->
+  <div class="skill-category">
+    <div class="skill-title">Embedded Systems / Control</div>
+    <span class="skill-tag">Pixhawk / Cube</span>
+    <span class="skill-tag">Mission Planner / QGroundControl</span>
+    <span class="skill-tag">ESC Tuning</span>
+    <span class="skill-tag">RTOS</span>
+    <span class="skill-tag">PID / Sensor Fusion</span>
+    <span class="skill-tag">Serial & CAN Debugging</span>
+  </div>
 
-  - category: PCB Design / Electronics
-    tools:
-      - KiCad
-      - Eagle
-      - Basic STM32 Firmware Development
-      - Breadboarding for Circuit Prototyping
+  <!-- PCB Design / Electronics -->
+  <div class="skill-category">
+    <div class="skill-title">PCB Design / Electronics</div>
+    <span class="skill-tag">KiCad</span>
+    <span class="skill-tag">Eagle</span>
+    <span class="skill-tag">STM32 Firmware</span>
+    <span class="skill-tag">Breadboarding</span>
+  </div>
 
-  - category: System Design / Architecture
-    tools:
-      - Model-Based Design (Simulink-level)
-      - Fault-Tolerant Control (motor failure resilience)
-      - System Integration (propulsion, frame, BMS, ESC, avionics)
-      - DO-178C Compliance Workflow (LDRA-based static/dynamic validation)
-      - Vibration Analysis (real-world battery module & drone)
+  <!-- System Design / Architecture -->
+  <div class="skill-category">
+    <div class="skill-title">System Design / Architecture</div>
+    <span class="skill-tag">Model-Based Design (Simulink)</span>
+    <span class="skill-tag">Fault-Tolerant Control</span>
+    <span class="skill-tag">System Integration</span>
+    <span class="skill-tag">DO-178C Process (LDRA)</span>
+    <span class="skill-tag">Vibration Analysis</span>
+  </div>
 
-  - category: Standards / Safety / Certification
-    tools:
-      - Root Cause Analysis (5 Whys, Fishbone Diagram)
-      - FMEA (DFMEA, PFMEA)
-      - AC 21.17-4 Certification Planning (Energy System CCL)
-      - Safety Tether Test Protocols
+  <!-- Standards / Certification -->
+  <div class="skill-category">
+    <div class="skill-title">Standards / Safety / Certification</div>
+    <span class="skill-tag">Root Cause Analysis</span>
+    <span class="skill-tag">FMEA (DFMEA, PFMEA)</span>
+    <span class="skill-tag">AC 21.17-4 Certification</span>
+    <span class="skill-tag">Tether Test Protocol</span>
+  </div>
 
-  - category: Soft Skills / Communication
-    tools:
-      - Technical Presentation (FTC, Government R&D meetings)
-      - Cross-functional Team Leadership
-      - Engineering Documentation (specs, test reports, checklists)
-      - Public-facing Technical Storytelling (YouTube Engineering Vlog)
+  <!-- Soft Skills -->
+  <div class="skill-category">
+    <div class="skill-title">Soft Skills / Communication</div>
+    <span class="skill-tag">Technical Presentation</span>
+    <span class="skill-tag">Cross-functional Leadership</span>
+    <span class="skill-tag">Engineering Documentation</span>
+    <span class="skill-tag">YouTube Engineering Vlog</span>
+  </div>
+</section>
+
