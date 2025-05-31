@@ -162,19 +162,19 @@ permalink: /
   <h2 class="mb-3">News Video</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
-      🎥 <strong>YouTube</strong> – Manned electric drone test flight coverage<br>
+      🎥 <strong>MBCNEWS</strong> – Manned electric drone test flight coverage<br>
       <a href="https://www.youtube.com/watch?v=1ho9jntKVpk&t=13s" target="_blank">Watch</a>
     </li>
     <li class="list-group-item">
-      🎥 <strong>YouTube</strong> – UAM (Urban Air Mobility) technology feature<br>
+      🎥 <strong>MBCNEWS</strong> – UAM (Urban Air Mobility) technology feature<br>
       <a href="https://www.youtube.com/watch?v=Cj6up0y-KjU" target="_blank">Watch</a>
     </li>
     <li class="list-group-item">
-      🎥 <strong>YouTube</strong> – Flight demonstration and technical project<br>
+      🎥 <strong>KTV NEWS</strong> – Flight demonstration and technical project<br>
       <a href="https://www.youtube.com/watch?v=wlbmD8hc-ZA" target="_blank">Watch</a>
     </li>
     <li class="list-group-item">
-      🎥 <strong>YouTube</strong> – Integrated electric drone system showcase<br>
+      🎥 <strong>YTN Science</strong> – Integrated electric drone system showcase<br>
       <a href="https://www.youtube.com/watch?v=ENuLUvW1LwI" target="_blank">Watch</a>
     </li>
   </ul>
