@@ -58,99 +58,88 @@ Currently, I’m preparing for advanced studies and research in **aerospace syst
 
 ---
 
-<div class="row">
-  {% include about/skills.html title="Technical Skills" source=site.data.skills %}
+<!-- 💡 CSS는 반드시 가장 위에 위치해야 합니다 -->
+<style>
+.skill-category {
+  margin-bottom: 2rem;
+}
+
+.skill-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.skill-tag {
+  display: inline-block;
+  background-color: #eef2ff;
+  color: #3730a3;
+  font-size: 0.9rem;
+  font-weight: 500;
+  border-radius: 999px;
+  padding: 6px 12px;
+  margin: 4px 6px 4px 0;
+  white-space: nowrap;
+}
+</style>
+
+## 🛠 Skills
+
+<!-- ✨ 여기에 Skills HTML 넣기 -->
+<div class="skill-category">
+  <div class="skill-title">3D Modeling</div>
+  <span class="skill-tag">Fusion 360 (Autodesk)</span>
+  <span class="skill-tag">SolidWorks</span>
+  <span class="skill-tag">CATIA</span>
+  <span class="skill-tag">Blender</span>
+  <span class="skill-tag">Onshape</span>
 </div>
 
-<div class="row">
-  {% include about/timeline.html %}
+<div class="skill-category">
+  <div class="skill-title">Prototyping / Manufacturing</div>
+  <span class="skill-tag">CNC Milling</span>
+  <span class="skill-tag">Manual Machining</span>
+  <span class="skill-tag">TIG Welding</span>
+  <span class="skill-tag">FDM 3D Printing</span>
+  <span class="skill-tag">Laser Cutting</span>
+  <span class="skill-tag">Metal 3D Printing</span>
+  <span class="skill-tag">Custom Battery Pack Fabrication</span>
+  <span class="skill-tag">Hand-built Frame Assembly</span>
+  <span class="skill-tag">Arduino / Raspberry Pi</span>
 </div>
 
+<div class="skill-category">
+  <div class="skill-title">Battery & Power Systems</div>
+  <span class="skill-tag">STM32 BMS Development</span>
+  <span class="skill-tag">CAN / UAVCAN</span>
+  <span class="skill-tag">12S–14S Battery Systems</span>
+  <span class="skill-tag">Thermal Management</span>
+  <span class="skill-tag">AC 21.17-4 Compliance</span>
+</div>
 
+<div class="skill-category">
+  <div class="skill-title">Embedded Systems / Control</div>
+  <span class="skill-tag">Pixhawk / Cube</span>
+  <span class="skill-tag">Mission Planner</span>
+  <span class="skill-tag">ESC Tuning</span>
+  <span class="skill-tag">RTOS</span>
+  <span class="skill-tag">PID Control</span>
+  <span class="skill-tag">Sensor Fusion</span>
+</div>
 
-<section class="skills">
-  <!-- 3D Modeling -->
-  <div class="skill-category">
-    <div class="skill-title">3D Modeling</div>
-    <span class="skill-tag">Fusion 360 (Autodesk)</span>
-    <span class="skill-tag">Solidworks</span>
-    <span class="skill-tag">CATIA (Dassault Systèmes)</span>
-    <span class="skill-tag">Onshape</span>
-    <span class="skill-tag">Blender (for visualization or animation)</span>
-  </div>
+<div class="skill-category">
+  <div class="skill-title">System Design / Safety</div>
+  <span class="skill-tag">System Integration</span>
+  <span class="skill-tag">DO-178C Validation</span>
+  <span class="skill-tag">Vibration Testing</span>
+  <span class="skill-tag">FMEA / Root Cause Analysis</span>
+  <span class="skill-tag">Tether Test Protocols</span>
+</div>
 
-  <!-- Prototyping / Manufacturing -->
-  <div class="skill-category">
-    <div class="skill-title">Prototyping / Manufacturing</div>
-    <span class="skill-tag">CNC Milling</span>
-    <span class="skill-tag">CAM Programming</span>
-    <span class="skill-tag">Manual Machining</span>
-    <span class="skill-tag">TIG Welding</span>
-    <span class="skill-tag">FDM 3D Printing</span>
-    <span class="skill-tag">Laser Cutting</span>
-    <span class="skill-tag">Metal 3D Printing</span>
-    <span class="skill-tag">Custom Battery Pack Fabrication</span>
-    <span class="skill-tag">Hand-built Frame Assembly</span>
-    <span class="skill-tag">Full-stack Mechanical Fabrication</span>
-    <span class="skill-tag">Arduino / Raspberry Pi</span>
-  </div>
-
-  <!-- Battery & Power Systems -->
-  <div class="skill-category">
-    <div class="skill-title">Battery & Power Systems</div>
-    <span class="skill-tag">Custom BMS (STM32-based)</span>
-    <span class="skill-tag">CAN / UAVCAN Integration</span>
-    <span class="skill-tag">High Voltage Battery Architecture (12S–14S)</span>
-    <span class="skill-tag">AC 21.17-4 Compliance</span>
-    <span class="skill-tag">Thermal Management</span>
-  </div>
-
-  <!-- Embedded Systems / Control -->
-  <div class="skill-category">
-    <div class="skill-title">Embedded Systems / Control</div>
-    <span class="skill-tag">Pixhawk / Cube</span>
-    <span class="skill-tag">Mission Planner / QGroundControl</span>
-    <span class="skill-tag">ESC Tuning</span>
-    <span class="skill-tag">RTOS</span>
-    <span class="skill-tag">PID / Sensor Fusion</span>
-    <span class="skill-tag">Serial & CAN Debugging</span>
-  </div>
-
-  <!-- PCB Design / Electronics -->
-  <div class="skill-category">
-    <div class="skill-title">PCB Design / Electronics</div>
-    <span class="skill-tag">KiCad</span>
-    <span class="skill-tag">Eagle</span>
-    <span class="skill-tag">STM32 Firmware</span>
-    <span class="skill-tag">Breadboarding</span>
-  </div>
-
-  <!-- System Design / Architecture -->
-  <div class="skill-category">
-    <div class="skill-title">System Design / Architecture</div>
-    <span class="skill-tag">Model-Based Design (Simulink)</span>
-    <span class="skill-tag">Fault-Tolerant Control</span>
-    <span class="skill-tag">System Integration</span>
-    <span class="skill-tag">DO-178C Process (LDRA)</span>
-    <span class="skill-tag">Vibration Analysis</span>
-  </div>
-
-  <!-- Standards / Certification -->
-  <div class="skill-category">
-    <div class="skill-title">Standards / Safety / Certification</div>
-    <span class="skill-tag">Root Cause Analysis</span>
-    <span class="skill-tag">FMEA (DFMEA, PFMEA)</span>
-    <span class="skill-tag">AC 21.17-4 Certification</span>
-    <span class="skill-tag">Tether Test Protocol</span>
-  </div>
-
-  <!-- Soft Skills -->
-  <div class="skill-category">
-    <div class="skill-title">Soft Skills / Communication</div>
-    <span class="skill-tag">Technical Presentation</span>
-    <span class="skill-tag">Cross-functional Leadership</span>
-    <span class="skill-tag">Engineering Documentation</span>
-    <span class="skill-tag">YouTube Engineering Vlog</span>
-  </div>
-</section>
-
+<div class="skill-category">
+  <div class="skill-title">Soft Skills</div>
+  <span class="skill-tag">Technical Presentation</span>
+  <span class="skill-tag">Engineering Documentation</span>
+  <span class="skill-tag">Team Leadership</span>
+  <span class="skill-tag">YouTube Tech Vlogging</span>
+</div>
