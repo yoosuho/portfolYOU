@@ -68,7 +68,7 @@ permalink: /
   
 
   <!-- Education Section -->
-  <section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Education</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
@@ -79,7 +79,7 @@ permalink: /
   </section>
 
   <!-- Publications Section -->
-  <section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">Publications</h2>
     <ul class="list-group shadow-sm">
       <li class="list-group-item">Integrated System Design and Flight Demonstration – JASE, Apr 2025</li>
@@ -95,7 +95,7 @@ permalink: /
   </section>
 
   <!-- Patents Section -->
-  <section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">Patents</h2>
     <ul class="list-group shadow-sm">
       <li class="list-group-item">Urban Air Mobility Frame – US 15366-000102 (Dec 2024)</li>
@@ -110,7 +110,7 @@ permalink: /
   </section>
 
   <!-- Government R&D Projects Section -->
-  <section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">National R&D Projects</h2>
     <ul class="list-group shadow-sm">
       <li class="list-group-item">High Power/Density Battery Packaging Tech (250 Wh/kg) – MOTIE, Apr 2020 – Dec 2023</li>
@@ -122,7 +122,7 @@ permalink: /
   </section>
 
 <!-- Projects Section (새로 추가) -->
-<section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Projects</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
@@ -138,7 +138,7 @@ permalink: /
 </section>
 
 <!-- Demonstrations Section (새로 추가) -->
-<section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Demonstrations</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
@@ -155,7 +155,7 @@ permalink: /
 
 
   <!-- Awards Section -->
-  <section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">Awards</h2>
     <ul class="list-group shadow-sm">
       <li class="list-group-item">🏆 <strong>Best Award</strong> – Aerospace Technology-Based Start-Up Academy (Oct 2022)</li>
@@ -167,7 +167,7 @@ permalink: /
 
 
   <!-- Professional Activities Section -->
-  <section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">Professional Activities</h2>
     <ul class="list-group shadow-sm">
       <li class="list-group-item">CNC Milling Judge – National Skills Competition (Oct 2023)</li>
@@ -178,7 +178,7 @@ permalink: /
   </section>
 
   <!-- Media Coverage Section -->
-<section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">News Articles</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
@@ -192,7 +192,7 @@ permalink: /
   </ul>
 </section>
 
-<section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">News Video</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
@@ -214,7 +214,7 @@ permalink: /
   </ul>
 </section>
 
-<section class="mb-5">
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Documentary Feature</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
