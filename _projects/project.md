@@ -212,4 +212,38 @@ permalink: /projects/
   </div>
    
 <!-- 17 -->
+<!-- Electric Surfboard -->
+<div class="col">
+  <div class="card h-100 shadow-sm">
+    <img src="{{ site.baseurl }}/assets/projects/image_18.jpg"
+         class="card-img-top"
+         alt="Electric Surfboard"
+         style="height: 200px; object-fit: cover;">
+    <div class="card-body">
+      <h5 class="card-title">Electric Surfboard</h5>
+      <p class="card-text">
+        Designed and assembled a fully electric surfboard with a custom 12S battery pack, waterproof propulsion unit, and metal 3D-printed propeller. CFD-validated thrust system ensures stable aquatic acceleration.
+      </p>
+      <a href="{{ site.baseurl }}/projects/electric-surfboard.html" class="btn btn-sm btn-outline-primary">View Project</a>
+    </div>
+  </div>
+</div>
+
+
+<!-- Electric Go-Kart -->
+<div class="col">
+  <div class="card h-100 shadow-sm">
+    <img src="{{ site.baseurl }}/assets/projects/image_19.jpg"
+         class="card-img-top"
+         alt="Electric Go-Kart"
+         style="height: 200px; object-fit: cover;">
+    <div class="card-body">
+      <h5 class="card-title">Electric Go-Kart</h5>
+      <p class="card-text">
+        Built a custom electric go-kart from scratch using hand-cut steel frame, MIG welding, a lithium battery system, and regenerative motor. Documented the full build and testing process in a 3-part YouTube series.
+      </p>
+      <a href="{{ site.baseurl }}/projects/electric-gokart.html" class="btn btn-sm btn-outline-primary">View Project</a>
+    </div>
+  </div>
+</div>
 
