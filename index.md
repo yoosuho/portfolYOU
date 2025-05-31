@@ -6,7 +6,7 @@ permalink: /
 
 <div style="text-align: center;">
 
-<img src="{{ site.baseurl }}/assets/me.jpg" width="450" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15); margin-bottom: 20px;" alt="SuHo Yu Profile Image" />
+<img src="{{ site.baseurl }}/assets/converted_image.jpg" width="450" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15); margin-bottom: 20px;" alt="SuHo Yu Profile Image" />
 
 <h2>✈️ Where Systems Engineering Meets the Sky</h2>
 
