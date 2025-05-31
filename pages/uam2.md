@@ -4,7 +4,7 @@ layout: default
 permalink: /pages/uam2/
 ---
 
-<h1>🛩️ Future Air Mobility UAM Prototype Unit 2 – Development and Flight</h1>
+<h1>Future Air Mobility UAM Prototype Unit 2 – Development and Flight</h1>
 
 <p><strong>Duration:</strong> December 2022 – December 2024<br>
 <strong>Lead Organization:</strong> VSPACE<br>
@@ -12,7 +12,7 @@ permalink: /pages/uam2/
 
 <hr>
 
-<h2>🔧 Project Overview</h2>
+<h2>Project Overview</h2>
 <p>
 This project focuses on developing a mass-production-optimized variant of the original single-seat UAM prototype. The previous prototype required intensive one-off fabrication efforts, making it impractical for scalable deployment. This second-generation model was designed with modularity, manufacturability, and certification-readiness in mind.
 </p>
@@ -21,7 +21,7 @@ This project focuses on developing a mass-production-optimized variant of the or
 The goal was to redesign the system architecture to support localization of components, minimize production complexity, and validate real-world flight performance of the upgraded system.
 </p>
 
-<h2>🧠 My Contributions</h2>
+<h2>My Contributions</h2>
 <ul>
   <li>Redesigned full aircraft layout to improve manufacturability and modularity</li>
   <li>Led static and dynamic integration of propulsion, battery, and avionics subsystems</li>
@@ -30,7 +30,7 @@ The goal was to redesign the system architecture to support localization of comp
   <li>Executed safety tether testing, hover testing, and untethered flight validation</li>
 </ul>
 
-<h2>📈 Outcomes</h2>
+<h2>Outcomes</h2>
 <ul>
   <li>Flight-ready prototype completed with streamlined assembly process</li>
   <li>Validated structural strength and system reliability via tether and flight test</li>
