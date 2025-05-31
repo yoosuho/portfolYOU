@@ -37,7 +37,7 @@ permalink: /projects/
   <!-- 2 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/uam2/12.jpg" class="card-img-top" alt="UAM Prototype Unit 2">
+      <img src="{{ site.baseurl }}/assets/uam2/12.jpg" class="card-img-top" alt="UAM Prototype Unit 2" style="height: 400px; object-fit: cover;">
       <div class="card-body">
         <h5 class="card-title">Future Air Mobility UAM Prototype Unit 2 – Development and Flight</h5>
         <p class="card-text">Enhanced dual-propulsion redundancy system and improved frame structure with successful flight test.</p>
