@@ -79,16 +79,6 @@ permalink: /
   </ul>
   </section>
 
-  <!-- Awards Section -->
-  <section class="mb-5">
-    <h2 class="mb-3">Awards</h2>
-    <ul class="list-group shadow-sm">
-      <li class="list-group-item">🏆 <strong>Best Award</strong> – Aerospace Technology-Based Start-Up Academy (Oct 2022)</li>
-      <li class="list-group-item">🥇 <strong>Gold Medal</strong> – CNC Milling, 2015 Local Skills Competition (Apr 2015)</li>
-      <li class="list-group-item">🌟 <strong>MVP</strong> – Gangwon-Do Local Skills Competition (Apr 2015)</li>
-    </ul>
-  </section>
-
   <!-- Publications Section -->
   <section class="mb-5">
     <h2 class="mb-3">Publications</h2>
@@ -131,6 +121,51 @@ permalink: /
       <li class="list-group-item">Intelligent Avionics SW Platform for UAM Abnormal Response – MOTIE, May 2024 – Present</li>
     </ul>
   </section>
+
+<!-- Projects Section (새로 추가) -->
+<section class="mb-5">
+  <h2 class="mb-3">Projects</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item">
+      <strong>VS200 Flying Cargo Drone</strong> – Designed full carbon-aluminum hybrid frame, integrated 18kW-class battery system, implemented motor control logic using Pixhawk, conducted frame-level structural validation (2023–2024).
+    </li>
+    <li class="list-group-item">
+      <strong>Electric Go-Kart</strong> – Developed 14S Li-ion battery system, hand-built custom tubular frame, powered by inrunner ESC-Motor combo, completed test drive (2024).
+    </li>
+    <li class="list-group-item">
+      <strong>Electric Surfboard</strong> – Designed waterproof propulsion system, integrated 12S battery, applied CFD to optimize hydrodynamic screw, fully assembled and tested (2025).
+    </li>
+  </ul>
+</section>
+
+<!-- Demonstrations Section (새로 추가) -->
+<section class="mb-5">
+  <h2 class="mb-3">Flight Demonstrations</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item">
+      <strong>Manned eVTOL VS200</strong> – Successful takeoff, tether test, and long-range flight (2024).
+    </li>
+    <li class="list-group-item">
+      <strong>X8 Multi-Rotor Redundancy Demo</strong> – Single-prop failure simulation and controlled flight continuity (2023).
+    </li>
+    <li class="list-group-item">
+      <strong>VS200 System Integration Test</strong> – All-arm ESC sync, battery telemetry via UART, autonomous hover stabilization (2023).
+    </li>
+  </ul>
+</section>
+
+
+  <!-- Awards Section -->
+  <section class="mb-5">
+    <h2 class="mb-3">Awards</h2>
+    <ul class="list-group shadow-sm">
+      <li class="list-group-item">🏆 <strong>Best Award</strong> – Aerospace Technology-Based Start-Up Academy (Oct 2022)</li>
+      <li class="list-group-item">🥇 <strong>Gold Medal</strong> – CNC Milling, 2015 Local Skills Competition (Apr 2015)</li>
+      <li class="list-group-item">🌟 <strong>MVP</strong> – Gangwon-Do Local Skills Competition (Apr 2015)</li>
+    </ul>
+  </section>
+
+
 
   <!-- Professional Activities Section -->
   <section class="mb-5">
