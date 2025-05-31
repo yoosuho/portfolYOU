@@ -24,7 +24,7 @@ permalink: /projects/
   <!-- 8 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/uam2/12.jpg" class="card-img-top" alt="Electric Propulsion Conversion" style="height: 400px; object-fit: cover;">
+      <img src="{{ site.baseurl }}/assets/image_8.jpg" class="card-img-top" alt="Electric Propulsion Conversion" style="height: 400px; object-fit: cover;">
       <div class="card-body">
         <h5 class="card-title">Electric Propulsion Conversion Development Project</h5>
         <p class="card-text">Converted combustion aircraft to electric propulsion platform using custom inverter, motor, and battery system.</p>
@@ -37,7 +37,7 @@ permalink: /projects/
   <!-- 2 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/image_2.jpg" class="card-img-top" alt="UAM Prototype Unit 2">
+      <img src="{{ site.baseurl }}/assets/uam2/12.jpg" class="card-img-top" alt="UAM Prototype Unit 2">
       <div class="card-body">
         <h5 class="card-title">Future Air Mobility UAM Prototype Unit 2 – Development and Flight</h5>
         <p class="card-text">Enhanced dual-propulsion redundancy system and improved frame structure with successful flight test.</p>
