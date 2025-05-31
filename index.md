@@ -184,7 +184,7 @@ permalink: /
   <h2 class="mb-3">Documentary Feature</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
-      📺 <strong>YouTube 다큐멘터리</strong> – 18:30초 부근 유인 드론 실증 등장<br>
+      📺 <strong>YouTube documentary</strong> – around the 18:30<br>
       <a href="https://www.youtube.com/watch?v=rU7dHfVgVr0" target="_blank">Watch</a>
     </li>
   </ul>
