@@ -96,44 +96,47 @@ permalink: /
 
   <!-- Patents Section -->
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
-    <h2 class="mb-3">Patents</h2>
-    <ul class="list-group shadow-sm">
-          <li class="list-group-item" style="background-color: transparent;">
-      <strong>Urban Air Mobility Frame</strong> – US 15366-000102 (Dec 2024)
-      <br/><a href="{{ site.baseurl }}/assets/Patents/Executed AD.pdf" target="_blank">📄 View PDF</a>
+  <h2 class="mb-3">Patents</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Urban Air Mobility Frame</strong> – US 15366-000102 (Dec 2024)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/Executed AD.pdf" target="_blank">📄 View PDF</a>
     </li>
-      <li class="list-group-item" style="background-color: transparent;">
-      <strong>High-Power Battery Package for eVTOL and Its Management Method</strong> – KR 10-2024-0200697 (Dec 2024)
-      <br/><a href="{{ site.baseurl }}/assets/Patents/High-Power Battery Package for eVTOL and Its Management Method.pdf" target="_blank">📄 View PDF</a>
-    </li>              
-      <li class="list-group-item" style="background-color: transparent;">
-      <strong>Air-Cooled High-Density Battery Pack</strong> – KR 10-2024-017151 (Dec 2024)
-      <br/><a href="{{ site.baseurl }}/assets/Patents/Air-Cooled High-Density Battery Pack.pdf" target="_blank">📄 View PDF</a>
-    </li>             
-      <li class="list-group-item" style="background-color: transparent;">
-      <strong>Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing</strong> – KR 10-2024-004711 (Jan 2024)
-      <br/><a href="{{ site.baseurl }}/assets/Patents/Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
-    </li>     
-      <li class="list-group-item" style="background-color: transparent;">
-      <strong>Battery Management Method for Urban Air Mobility</strong> – KR 10-2024-0047710 (Jan 2024)
-      <br/><a href="{{ site.baseurl }}/assets/Patents/Battery Management Method for Urban Air Mobility Aircraft.pdf" target="_blank">📄 View PDF</a>
-    </li>    
-      <li class="list-group-item" style="background-color: transparent;">
-      <strong>Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing</strong> – KR 10-2024-0004710 (Jan 2024)
-      <br/><a href="{{ site.baseurl }}/assets/Patents/Method for an Aircraft to Manage the Battery in Response to Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
-    </li>    
-      <li class="list-group-item" style="background-color: transparent;">
-      <strong>Movable Charger</strong> – KR 10-2023-0163497 (Nov 2023)
-      <br/><a href="{{ site.baseurl }}/assets/Patents/Movable Charger with Improved Charging Speed and Safety.pdf" target="_blank">📄 View PDF</a>
-    </li>   
-      <li class="list-group-item" style="background-color: transparent;">
-      <strong>Fire Protection Pad and Battery Cell Array using the same</strong> – KR 10-2023-0054985 (Apr 2023)
-      <br/><a href="{{ site.baseurl }}/assets/Patents/Fire Protection Pad and Battery Cell Array Using the Same.pdf" target="_blank">📄 View PDF</a>
-    </li>    
-      <li class="list-group-item" style="background-color: transparent;">
-      <strong>Damper for Reducing Vibration in Two-Wheeled Vehicles</strong> – KR 10-2024-017151 (Dec 2024)
-      <br/><a href="{{ site.baseurl }}/assets/Patents/Damper for Reducing Vibration in Two-Wheeled Vehicles.pdf" target="_blank">📄 View PDF</a>
-    </li>   
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>High-Power Battery Package for eVTOL and Its Management Method</strong> – KR 10-2024-0200697 (Dec 2024)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/High-Power Battery Package for eVTOL and Its Management Method.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Air-Cooled High-Density Battery Pack</strong> – KR 10-2024-017151 (Dec 2024)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/Air-Cooled High-Density Battery Pack.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing</strong> – KR 10-2024-004711 (Jan 2024)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Battery Management Method for Urban Air Mobility</strong> – KR 10-2024-0047710 (Jan 2024)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/Battery Management Method for Urban Air Mobility Aircraft.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing</strong> – KR 10-2024-0004710 (Jan 2024)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/Method for an Aircraft to Manage the Battery in Response to Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Movable Charger</strong> – KR 10-2023-0163497 (Nov 2023)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/Movable Charger with Improved Charging Speed and Safety.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Fire Protection Pad and Battery Cell Array using the same</strong> – KR 10-2023-0054985 (Apr 2023)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/Fire Protection Pad and Battery Cell Array Using the Same.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Damper for Reducing Vibration in Two-Wheeled Vehicles</strong> – KR 10-2024-017151 (Dec 2024)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/Damper for Reducing Vibration in Two-Wheeled Vehicles.pdf" target="_blank">📄 View PDF</a>
+    </li>
+
+  </ul>
+</section>
 
 
   <!-- Government R&D Projects Section -->
