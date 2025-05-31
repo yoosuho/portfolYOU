@@ -4,7 +4,7 @@ layout: default
 permalink: /pages/plane/
 ---
 
-<h1>⚡ Electric Propulsion Conversion Development Project</h1>
+<h1>Electric Propulsion Conversion Development Project</h1>
 
 <p><strong>Duration:</strong> November 2021 – March 2023<br>
 <strong>Lead Organization:</strong> Korea Aerospace Research Institute (KARI)<br>
@@ -12,7 +12,7 @@ permalink: /pages/plane/
 
 <hr>
 
-<h2>🔧 Project Overview</h2>
+<h2>Project Overview</h2>
 <p>
 This project aimed to convert a conventional GA-class light aircraft to a fully electric propulsion platform. A collaborative R&D initiative involving multiple national organizations, it focused on system-level development of electric propulsion for aviation, with my dedicated role on battery system architecture and validation.
 </p>
@@ -21,7 +21,7 @@ This project aimed to convert a conventional GA-class light aircraft to a fully 
 As part of the transition to all-electric flight, the project developed and integrated a 65 kW-class high-voltage battery system that met both performance and safety standards, including DO-160G and UN 38.3 requirements. The work laid the foundation for a new certification framework and marked a significant milestone in Korea’s electric aviation roadmap.
 </p>
 
-<h2>🧠 My Contributions</h2>
+<h2>My Contributions</h2>
 <ul>
   <li>Designed custom high-voltage battery pack structure and layout</li>
   <li>Led vibration testing compliant with ASTM F2245 5.10.1.2</li>
@@ -30,7 +30,7 @@ As part of the transition to all-electric flight, the project developed and inte
   <li>Collaborated with KARI and KETI for system-level validation and publication</li>
 </ul>
 
-<h2>📈 Outcomes</h2>
+<h2>Outcomes</h2>
 <ul>
   <li>Successful conversion and ground testing of GA-class fixed-wing aircraft</li>
   <li>Full-scale flight test completed with real-time battery monitoring</li>
@@ -38,7 +38,7 @@ As part of the transition to all-electric flight, the project developed and inte
   <li>Set precedent for Korean electric aircraft battery certification framework</li>
 </ul>
 
-<h2>🖼️ Gallery</h2>
+<h2>Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
   <!-- Battery system (1-4) -->
   <figure>
