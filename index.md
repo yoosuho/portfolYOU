@@ -140,7 +140,7 @@ permalink: /
 
 <!-- Demonstrations Section (새로 추가) -->
 <section class="mb-5">
-  <h2 class="mb-3">Flight Demonstrations</h2>
+  <h2 class="mb-3">Demonstrations</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
       <strong>Manned eVTOL VS200</strong> – Successful takeoff, tether test, and long-range flight (2024).
