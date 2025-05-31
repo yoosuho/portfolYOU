@@ -11,7 +11,7 @@ permalink: /projects/
   <!-- 1 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/me.jpg" class="card-img-top" alt="Future UAM Prototype">
+      <img src="{{ site.baseurl }}/assets/me.jpg" class="card-img-top" alt="Future UAM Prototype">
       <div class="card-body">
         <h5 class="card-title">Future Air Mobility UAM Prototype Development and Flight</h5>
         <p class="card-text">Full-stack manned eVTOL prototype design and first flight demonstration in Korea.</p>
@@ -23,7 +23,7 @@ permalink: /projects/
   <!-- 2 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_2.jpg" class="card-img-top" alt="UAM Prototype Unit 2">
+      <img src="{{ site.baseurl }}/assets/image_2.jpg" class="card-img-top" alt="UAM Prototype Unit 2">
       <div class="card-body">
         <h5 class="card-title">Future Air Mobility UAM Prototype Unit 2 – Development and Flight</h5>
         <p class="card-text">Enhanced dual-propulsion redundancy system and improved frame structure with successful flight test.</p>
@@ -35,7 +35,7 @@ permalink: /projects/
   <!-- 3 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_1.jpg" class="card-img-top" alt="Heavy Cargo Drone 100kg">
+      <img src="{{ site.baseurl }}/assets/image_1.jpg" class="card-img-top" alt="Heavy Cargo Drone 100kg">
       <div class="card-body">
         <h5 class="card-title">Development of a 100 kg-class Heavy Cargo Drone with Single-Propeller Failure Tolerance</h5>
         <p class="card-text">System integration for fault-tolerant X8 electric propulsion, validated through experimental flight tests.</p>
@@ -47,7 +47,7 @@ permalink: /projects/
   <!-- 4 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_3.jpg" class="card-img-top" alt="2022 Government UAM Demo">
+      <img src="{{ site.baseurl }}/assets/image_3.jpg" class="card-img-top" alt="2022 Government UAM Demo">
       <div class="card-body">
         <h5 class="card-title">2022 Government-Led UAM Demonstration and Flight Validation Program</h5>
         <p class="card-text">Participated in Korea’s first national UAM demo, flying a full-scale eVTOL under public observation.</p>
@@ -59,7 +59,7 @@ permalink: /projects/
   <!-- 5 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_4.jpg" class="card-img-top" alt="DRIFTx 2024">
+      <img src="{{ site.baseurl }}/assets/image_4.jpg" class="card-img-top" alt="DRIFTx 2024">
       <div class="card-body">
         <h5 class="card-title">DRIFTx Abu Dhabi 2024 Flight Demonstration</h5>
         <p class="card-text">International eVTOL flight demo representing Korea at DRIFTx UAE, proving system export readiness.</p>
@@ -71,7 +71,7 @@ permalink: /projects/
   <!-- 6 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_5.jpg" class="card-img-top" alt="Airtaxi Congress">
+      <img src="{{ site.baseurl }}/assets/image_5.jpg" class="card-img-top" alt="Airtaxi Congress">
       <div class="card-body">
         <h5 class="card-title">AirTaxi World Congress 2024 Flight Demonstration</h5>
         <p class="card-text">Demonstrated Korean eVTOL aircraft at global AAM showcase, drawing interest from aviation leaders.</p>
@@ -83,7 +83,7 @@ permalink: /projects/
   <!-- 7 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_6.jpg" class="card-img-top" alt="Kazakhstan Demo">
+      <img src="{{ site.baseurl }}/assets/image_6.jpg" class="card-img-top" alt="Kazakhstan Demo">
       <div class="card-body">
         <h5 class="card-title">UAM Demonstration Flight for the Government of Kazakhstan</h5>
         <p class="card-text">International collaboration with Kazakhstan, showcasing eVTOL capabilities and K-UAM technology.</p>
@@ -95,7 +95,7 @@ permalink: /projects/
   <!-- 8 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_0.jpg" class="card-img-top" alt="Electric Propulsion Conversion">
+      <img src="{{ site.baseurl }}/assets/image_0.jpg" class="card-img-top" alt="Electric Propulsion Conversion">
       <div class="card-body">
         <h5 class="card-title">Electric Propulsion Conversion Development Project</h5>
         <p class="card-text">Converted combustion aircraft to electric propulsion platform using custom inverter, motor, and battery system.</p>
@@ -107,7 +107,7 @@ permalink: /projects/
   <!-- 9 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_7.jpg" class="card-img-top" alt="Battery Packaging">
+      <img src="{{ site.baseurl }}/assets/image_7.jpg" class="card-img-top" alt="Battery Packaging">
       <div class="card-body">
         <h5 class="card-title">250 Wh/kg-class High-Power High-Density Battery Packaging Technology Development</h5>
         <p class="card-text">Designed next-gen battery pack for eVTOLs, balancing energy density, thermal stability, and structural integrity.</p>
@@ -119,7 +119,7 @@ permalink: /projects/
   <!-- 10 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_8.jpg" class="card-img-top" alt="K-UAM Safety Tech">
+      <img src="{{ site.baseurl }}/assets/image_8.jpg" class="card-img-top" alt="K-UAM Safety Tech">
       <div class="card-body">
         <h5 class="card-title">Korean Urban Air Mobility (K-UAM) Safety Operation System Core Technology Development</h5>
         <p class="card-text">Contributed to UAM airworthiness protocols and fault-tolerant system modeling under K-UAM roadmap.</p>
@@ -131,7 +131,7 @@ permalink: /projects/
   <!-- 11 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_9.jpg" class="card-img-top" alt="Intelligent Avionics">
+      <img src="{{ site.baseurl }}/assets/image_9.jpg" class="card-img-top" alt="Intelligent Avionics">
       <div class="card-body">
         <h5 class="card-title">“Onbogi”-based Intelligent Avionics Platform for Abnormal Detection and Response</h5>
         <p class="card-text">Developed modular flight software platform for anomaly detection and emergency recovery in UAM missions.</p>
@@ -143,7 +143,7 @@ permalink: /projects/
   <!-- 12 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_10.jpg" class="card-img-top" alt="Hydrogen VTOL">
+      <img src="{{ site.baseurl }}/assets/image_10.jpg" class="card-img-top" alt="Hydrogen VTOL">
       <div class="card-body">
         <h5 class="card-title">200 kg-class Payload VTOL Cargo Drone with Hydrogen Fuel Cell Power</h5>
         <p class="card-text">Developed long-endurance VTOL cargo drone using hydrogen fuel cell with autonomous and BVLOS capabilities.</p>
@@ -155,7 +155,7 @@ permalink: /projects/
   <!-- 13 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_11.jpg" class="card-img-top" alt="40kg Drone System">
+      <img src="{{ site.baseurl }}/assets/image_11.jpg" class="card-img-top" alt="40kg Drone System">
       <div class="card-body">
         <h5 class="card-title">Development of a 40 kg-class Payload Transport Multirotor Drone System</h5>
         <p class="card-text">Designed reliable delivery drone platform with modular payload mount and efficient multirotor architecture.</p>
@@ -167,7 +167,7 @@ permalink: /projects/
   <!-- 14 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_12.jpg" class="card-img-top" alt="Hybrid Refrigerated Truck">
+      <img src="{{ site.baseurl }}/assets/image_12.jpg" class="card-img-top" alt="Hybrid Refrigerated Truck">
       <div class="card-body">
         <h5 class="card-title">Development of a Hybrid Refrigeration System and Integrated Refrigerated Body for a 5‑ton Truck</h5>
         <p class="card-text">Engineered hybrid cooling unit with modular control for long-haul logistics vehicles.</p>
@@ -178,7 +178,7 @@ permalink: /projects/
 
   <div class="col">
   <div class="card h-100 shadow-sm">
-    <img src="{{ site.baseurl }}/assets/projects/image_14.jpg" class="card-img-top" alt="UPS System for Fire Control">
+    <img src="{{ site.baseurl }}/assets/image_14.jpg" class="card-img-top" alt="UPS System for Fire Control">
     <div class="card-body">
       <h5 class="card-title">Replacement Development of a UPS System for Fire Control Devices</h5>
       <p class="card-text">Redesigned the uninterruptible power supply (UPS) system used in fire suppression control units to enhance energy reliability and minimize switching delay.</p>
@@ -190,7 +190,7 @@ permalink: /projects/
   <!-- 15 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_13.jpg" class="card-img-top" alt="UAV Maritime Monitoring">
+      <img src="{{ site.baseurl }}/assets/image_13.jpg" class="card-img-top" alt="UAV Maritime Monitoring">
       <div class="card-body">
         <h5 class="card-title">UAV-based Maritime Safety and Illegal Fishing/Marine Ecosystem Management</h5>
         <p class="card-text">Developed long-range drone for real-time maritime surveillance and data collection.</p>
@@ -202,7 +202,7 @@ permalink: /projects/
   <!-- 16 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/image_15.jpg" class="card-img-top" alt="Battery System for AAM">
+      <img src="{{ site.baseurl }}/assets/image_15.jpg" class="card-img-top" alt="Battery System for AAM">
       <div class="card-body">
         <h5 class="card-title">Development of a Battery Power System for a 4‑Seater AAM Aircraft</h5>
         <p class="card-text">Designed high-voltage battery system architecture with redundant safety features and certification pathway.</p>
