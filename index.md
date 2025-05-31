@@ -6,7 +6,7 @@ permalink: /
 
 <div style="text-align: center;">
 
-<img src="{{ site.baseurl }}/assets/converted_image.jpg" width="450" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15); margin-bottom: 20px;" alt="SuHo Yu Profile Image" />
+<img src="{{ site.baseurl }}/assets/converted_image.jpg" width="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15); margin-bottom: 20px;" alt="SuHo Yu Profile Image" />
 
 <h2>✈️ Where Systems Engineering Meets the Sky</h2>
 
@@ -139,17 +139,27 @@ permalink: /
 </section>
 
 
-  <!-- Government R&D Projects Section -->
+<!-- Government R&D Projects Section -->
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
-    <h2 class="mb-3">National R&D Projects</h2>
-    <ul class="list-group shadow-sm">
-      <li class="list-group-item" style="background-color: transparent;">High Power/Density Battery Packaging Tech (250 Wh/kg) – MOTIE, Apr 2020 – Dec 2023</li>
-      <li class="list-group-item" style="background-color: transparent;">High Efficiency, Low Emission Electric Power Module – MOTIE, Apr 2020 – Dec 2023</li>
-      <li class="list-group-item" style="background-color: transparent;">IoT-based Intelligent Battery System – MSS, Nov 2021 – Dec 2023</li>
-      <li class="list-group-item" style="background-color: transparent;">K-UAM Safety Operation Core Technologies – MOLIT, May 2024 – Present</li>
-      <li class="list-group-item" style="background-color: transparent;">Intelligent Avionics SW Platform for UAM Abnormal Response – MOTIE, May 2024 – Present</li>
-    </ul>
-  </section>
+  <h2 class="mb-3">National R&D Projects</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Principal Investigator</strong> – High Power/Density Battery Packaging Tech (250 Wh/kg), MOTIE (Apr 2020 – Dec 2023)
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Principal Investigator</strong> – High Efficiency, Low Emission Electric Power Module, MOTIE (Apr 2020 – Dec 2023)
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Principal Investigator</strong> – IoT-based Intelligent Battery System, MSS (Nov 2021 – Dec 2023)
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      K-UAM Safety Operation Core Technologies – MOLIT (May 2024 – Present)
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      Intelligent Avionics SW Platform for UAM Abnormal Response – MOTIE (May 2024 – Present)
+    </li>
+  </ul>
+</section>
 
 <!-- Projects Section (새로 추가) -->
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
