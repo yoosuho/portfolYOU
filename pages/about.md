@@ -5,38 +5,65 @@ permalink: /about/
 weight: 3
 ---
 
----
-layout: page
-title: About Me
-permalink: /about/
----
-
 # 👨‍💻 SuHo Yu
 
 Hello! I'm a systems engineer specializing in UAM, eVTOL, electric propulsion systems, and robotics.  
 From CAD design to real-world flight, I have hands-on experience in full-stack aerial system development.
+# 🧭 Engineering Philosophy
 
-## 🔧 Expertise
+I believe engineering isn't just about CAD and simulation — it’s about building functional systems that fly, move, or operate under real-world constraints.
 
-- UAM and eVTOL system design
-- High-voltage battery architecture
-- Aviation certification and government R&D projects
-- CNC machining and mechanical design
-- Robotics control and embedded systems development
+Through a series of projects involving manned drones, high-voltage batteries, and flight-tested systems, I’ve built a practical foundation that bridges design, manufacturing, embedded control, and safety validation.
 
-## 📜 Publications & Patents
+My goal is to connect theory with real-world implementation — not just as a user of systems, but as a hands-on integrator.
 
-- [Paper Title 1](#)
-- [Paper Title 2](#)
-- [Patent Title 1](#)
-- [Patent Title 2](#)
+---
 
-## 📫 Contact
+# ⚙️ Selected Projects
 
-- 📧 Email: yoosuho97@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/suho-yu/)
-- 📺 [YouTube](https://www.youtube.com/@jenk5109)
-- 💻 [GitHub](https://github.com/yoosuho)
+### 🛩️ VS200 – 225kg-class Manned eVTOL  
+From welding the airframe to integrating an X8 propulsion system, designing the battery architecture, developing STM32-based BMS, and completing real-world flight demonstrations — including fault tolerance and GPS noise mitigation.
+
+[▶ Watch Full Series (4 parts)](https://www.youtube.com/playlist?list=PLDMbqX9Y7L8xzvTdl2uZ71UDZcp0Br2Af)
+
+---
+
+### 🌊 Electric Surfboard  
+Waterproof propulsion system with a 12S battery, custom metal 3D-printed screw, CFD-validated performance, and full wet-environment testing.
+
+[▶ Watch Part 1](https://www.youtube.com/watch?v=bJ5nzr4_w9Y)
+
+---
+
+### 🏎️ Electric Go-Kart  
+Frame hand-welded without a jig, regenerative powertrain, custom battery integration, and fully documented DIY fabrication.
+
+[▶ Watch Part 1](https://www.youtube.com/watch?v=y-Zqev3MZpU)
+
+---
+
+### 🔋 Custom STM32-Based BMS  
+Designed for high-voltage eVTOL packs, this BMS integrates CAN/UAVCAN, current protection logic, and has been validated using LDRA per DO-178C software safety workflow.
+
+[▶ Watch Devlog](https://www.youtube.com/watch?v=MknMeYHK3tI)
+
+---
+
+# 🚀 My Research Outlook
+
+Across domains such as UAM, robotics, and energy systems, I aim to bring **hands-on integration, full-stack prototyping, and test-driven development** into academic research settings.
+
+Whether contributing to battery design, embedded control, or mechanical structure, I focus on building platforms where theory meets physical validation — with an emphasis on reproducible, field-tested engineering.
+
+Long-term, I hope to contribute as a **system-level engineer and researcher** capable of translating concepts into validated, operational systems.
+
+---
+
+# 🎥 Engineering in the Open
+
+To help others understand how full-stack systems come together — from failure to flight — I share detailed project videos and technical reflections on YouTube.
+
+[▶ Visit My Channel](https://www.youtube.com/@jenk5109)
 
 
 # **About Me**
