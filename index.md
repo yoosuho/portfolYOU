@@ -159,7 +159,7 @@ permalink: /
 </section>
 
 <section class="mb-5">
-  <h2 class="mb-3">Video & Documentary</h2>
+  <h2 class="mb-3">Video Coverage</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item">
       🎥 <strong>YouTube</strong> – 유인 전기드론 개발 비행 영상<br>
@@ -177,6 +177,12 @@ permalink: /
       🎥 <strong>YouTube</strong> – 전기드론 통합 시스템 실증<br>
       <a href="https://www.youtube.com/watch?v=ENuLUvW1LwI" target="_blank">Watch</a>
     </li>
+  </ul>
+</section>
+
+<section class="mb-5">
+  <h2 class="mb-3">Documentary Feature</h2>
+  <ul class="list-group shadow-sm">
     <li class="list-group-item">
       📺 <strong>YouTube 다큐멘터리</strong> – 18:30초 부근 유인 드론 실증 등장<br>
       <a href="https://www.youtube.com/watch?v=rU7dHfVgVr0" target="_blank">Watch</a>
