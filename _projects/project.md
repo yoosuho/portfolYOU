@@ -11,7 +11,7 @@ permalink: /projects/
   <!-- VS200 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/projects/vs200_thumb.jpg" class="card-img-top" alt="VS200">
+      <img src="{{ site.baseurl }}/assets/me.jpg" class="card-img-top" alt="VS200">
       <div class="card-body">
         <h5 class="card-title">VS200 – 225kg급 유인 드론</h5>
         <p class="card-text">배터리, 프레임, 제어, 실증까지 풀스택 자작 드론. 한국 최초의 유인 비행 시연 포함.</p>
