@@ -71,7 +71,7 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Education</h2>
   <ul class="list-group shadow-sm">
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>B.Sc. in Mechatronics Engineering</strong> – Inha University (Mar 2018 – Aug 2023)<br>
       Focused on battery systems, electric propulsion, and Urban Air Mobility (UAM). Contributed to national R&D projects.
     </li>
@@ -82,15 +82,15 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">Publications</h2>
     <ul class="list-group shadow-sm">
-      <li class="list-group-item">Integrated System Design and Flight Demonstration – JASE, Apr 2025</li>
-      <li class="list-group-item">Electric Propulsion Battery Requirements for K-UAM – JASE, Apr 2025</li>
-      <li class="list-group-item">Lightweight Aircraft Modification – JASE, Jun 2023</li>
-      <li class="list-group-item">230 Wh/kg High Power Battery System – JASE, May 2023</li>
-      <li class="list-group-item">Thermal Performance & Internal Resistance – KSAS, May 2023</li>
-      <li class="list-group-item">Thermal Analysis in UAM Battery Module – KSAE, Nov 2022</li>
-      <li class="list-group-item">Planar Measurement Device for QA – Nov 2017</li>
-      <li class="list-group-item">Robotic System for Production Line – Nov 2017</li>
-      <li class="list-group-item">Bolt Quantity Detection System – May 2017</li>
+      <li class="list-group-item" style="background-color: transparent;">Integrated System Design and Flight Demonstration – JASE, Apr 2025</li>
+      <li class="list-group-item" style="background-color: transparent;">Electric Propulsion Battery Requirements for K-UAM – JASE, Apr 2025</li>
+      <li class="list-group-item" style="background-color: transparent;">Lightweight Aircraft Modification – JASE, Jun 2023</li>
+      <li class="list-group-item" style="background-color: transparent;">230 Wh/kg High Power Battery System – JASE, May 2023</li>
+      <li class="list-group-item" style="background-color: transparent;">Thermal Performance & Internal Resistance – KSAS, May 2023</li>
+      <li class="list-group-item" style="background-color: transparent;">Thermal Analysis in UAM Battery Module – KSAE, Nov 2022</li>
+      <li class="list-group-item" style="background-color: transparent;">Planar Measurement Device for QA – Nov 2017</li>
+      <li class="list-group-item" style="background-color: transparent;">Robotic System for Production Line – Nov 2017</li>
+      <li class="list-group-item" style="background-color: transparent;">Bolt Quantity Detection System – May 2017</li>
     </ul>
   </section>
 
@@ -98,14 +98,14 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">Patents</h2>
     <ul class="list-group shadow-sm">
-      <li class="list-group-item">Urban Air Mobility Frame – US 15366-000102 (Dec 2024)</li>
-      <li class="list-group-item">High-Power Battery for eVTOL – KR 10-2024-0200697 (Dec 2024)</li>
-      <li class="list-group-item">Air-Cooled High-Density Battery Pack – KR 10-2024-017151 (Dec 2024)</li>
-      <li class="list-group-item">Battery Management for Takeoff/Landing – KR 10-2024-004711 (Jan 2024)</li>
-      <li class="list-group-item">Battery Management by Flight Plan – KR 10-2024-0047710 (Jan 2024)</li>
-      <li class="list-group-item">Movable Charger – KR 10-2023-0163497 (Nov 2023)</li>
-      <li class="list-group-item">Fire Protection Pad + Cell Array – KR 10-2023-0054985 (Apr 2023)</li>
-      <li class="list-group-item">Two-Wheeled Vehicle Vibration Dampers – KP 21047 (May 2021)</li>
+      <li class="list-group-item" style="background-color: transparent;">Urban Air Mobility Frame – US 15366-000102 (Dec 2024)</li>
+      <li class="list-group-item" style="background-color: transparent;">High-Power Battery for eVTOL – KR 10-2024-0200697 (Dec 2024)</li>
+      <li class="list-group-item" style="background-color: transparent;">Air-Cooled High-Density Battery Pack – KR 10-2024-017151 (Dec 2024)</li>
+      <li class="list-group-item" style="background-color: transparent;">Battery Management for Takeoff/Landing – KR 10-2024-004711 (Jan 2024)</li>
+      <li class="list-group-item" style="background-color: transparent;">Battery Management by Flight Plan – KR 10-2024-0047710 (Jan 2024)</li>
+      <li class="list-group-item" style="background-color: transparent;">Movable Charger – KR 10-2023-0163497 (Nov 2023)</li>
+      <li class="list-group-item" style="background-color: transparent;">Fire Protection Pad + Cell Array – KR 10-2023-0054985 (Apr 2023)</li>
+      <li class="list-group-item" style="background-color: transparent;">Two-Wheeled Vehicle Vibration Dampers – KP 21047 (May 2021)</li>
     </ul>
   </section>
 
@@ -113,11 +113,11 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">National R&D Projects</h2>
     <ul class="list-group shadow-sm">
-      <li class="list-group-item">High Power/Density Battery Packaging Tech (250 Wh/kg) – MOTIE, Apr 2020 – Dec 2023</li>
-      <li class="list-group-item">High Efficiency, Low Emission Electric Power Module – MOTIE, Apr 2020 – Dec 2023</li>
-      <li class="list-group-item">IoT-based Intelligent Battery System – MSS, Nov 2021 – Dec 2023</li>
-      <li class="list-group-item">K-UAM Safety Operation Core Technologies – MOLIT, May 2024 – Present</li>
-      <li class="list-group-item">Intelligent Avionics SW Platform for UAM Abnormal Response – MOTIE, May 2024 – Present</li>
+      <li class="list-group-item" style="background-color: transparent;">High Power/Density Battery Packaging Tech (250 Wh/kg) – MOTIE, Apr 2020 – Dec 2023</li>
+      <li class="list-group-item" style="background-color: transparent;">High Efficiency, Low Emission Electric Power Module – MOTIE, Apr 2020 – Dec 2023</li>
+      <li class="list-group-item" style="background-color: transparent;">IoT-based Intelligent Battery System – MSS, Nov 2021 – Dec 2023</li>
+      <li class="list-group-item" style="background-color: transparent;">K-UAM Safety Operation Core Technologies – MOLIT, May 2024 – Present</li>
+      <li class="list-group-item" style="background-color: transparent;">Intelligent Avionics SW Platform for UAM Abnormal Response – MOTIE, May 2024 – Present</li>
     </ul>
   </section>
 
@@ -125,13 +125,13 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Projects</h2>
   <ul class="list-group shadow-sm">
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">ㅋ
       <strong>VS200 Flying Cargo Drone</strong> – Designed full carbon-aluminum hybrid frame, integrated 18kW-class battery system, implemented motor control logic using Pixhawk, conducted frame-level structural validation (2023–2024).
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>Electric Go-Kart</strong> – Developed 14S Li-ion battery system, hand-built custom tubular frame, powered by inrunner ESC-Motor combo, completed test drive (2024).
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>Electric Surfboard</strong> – Designed waterproof propulsion system, integrated 12S battery, applied CFD to optimize hydrodynamic screw, fully assembled and tested (2025).
     </li>
   </ul>
@@ -141,13 +141,13 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Demonstrations</h2>
   <ul class="list-group shadow-sm">
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>Manned eVTOL VS200</strong> – Successful takeoff, tether test, and long-range flight (2024).
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>X8 Multi-Rotor Redundancy Demo</strong> – Single-prop failure simulation and controlled flight continuity (2023).
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>VS200 System Integration Test</strong> – All-arm ESC sync, battery telemetry via UART, autonomous hover stabilization (2023).
     </li>
   </ul>
@@ -158,9 +158,9 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">Awards</h2>
     <ul class="list-group shadow-sm">
-      <li class="list-group-item">🏆 <strong>Best Award</strong> – Aerospace Technology-Based Start-Up Academy (Oct 2022)</li>
-      <li class="list-group-item">🥇 <strong>Gold Medal</strong> – CNC Milling, 2015 Local Skills Competition (Apr 2015)</li>
-      <li class="list-group-item">🌟 <strong>MVP</strong> – Gangwon-Do Local Skills Competition (Apr 2015)</li>
+      <li class="list-group-item" style="background-color: transparent;">🏆 <strong>Best Award</strong> – Aerospace Technology-Based Start-Up Academy (Oct 2022)</li>
+      <li class="list-group-item" style="background-color: transparent;">🥇 <strong>Gold Medal</strong> – CNC Milling, 2015 Local Skills Competition (Apr 2015)</li>
+      <li class="list-group-item" style="background-color: transparent;">🌟 <strong>MVP</strong> – Gangwon-Do Local Skills Competition (Apr 2015)</li>
     </ul>
   </section>
 
@@ -170,10 +170,10 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">Professional Activities</h2>
     <ul class="list-group shadow-sm">
-      <li class="list-group-item">CNC Milling Judge – National Skills Competition (Oct 2023)</li>
-      <li class="list-group-item">CNC Milling Judge – Local Skills Competition (Apr 2023)</li>
-      <li class="list-group-item">Technical Mentor – Taebaek Machinery Industry High School (Dec 2023 – Feb 2024)</li>
-      <li class="list-group-item">Guidance in CAM & Measurement – Taebaek Machinery High (Nov 2017)</li>
+      <li class="list-group-item" style="background-color: transparent;">CNC Milling Judge – National Skills Competition (Oct 2023)</li>
+      <li class="list-group-item" style="background-color: transparent;">CNC Milling Judge – Local Skills Competition (Apr 2023)</li>
+      <li class="list-group-item" style="background-color: transparent;">Technical Mentor – Taebaek Machinery Industry High School (Dec 2023 – Feb 2024)</li>
+      <li class="list-group-item" style="background-color: transparent;">Guidance in CAM & Measurement – Taebaek Machinery High (Nov 2017)</li>
     </ul>
   </section>
 
@@ -181,11 +181,11 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">News Articles</h2>
   <ul class="list-group shadow-sm">
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       📰 <strong>AI Times</strong> – "Successful demonstration of domestically developed manned electric drone"<br>
       <a href="https://www.aitimes.com/news/articleView.html?idxno=148094" target="_blank">Read Article</a>
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       📰 <strong>Aju Business Daily</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
       <a href="https://www.ajunews.com/view/20240712135909312" target="_blank">Read Article</a>
     </li>
@@ -195,19 +195,19 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">News Video</h2>
   <ul class="list-group shadow-sm">
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       🎥 <strong>MBCNEWS</strong> – Manned electric drone test flight coverage<br>
       <a href="https://www.youtube.com/watch?v=1ho9jntKVpk&t=13s" target="_blank">Watch</a>
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       🎥 <strong>MBCNEWS</strong> – UAM (Urban Air Mobility) technology feature<br>
       <a href="https://www.youtube.com/watch?v=Cj6up0y-KjU" target="_blank">Watch</a>
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       🎥 <strong>KTV NEWS</strong> – Flight demonstration and technical project<br>
       <a href="https://www.youtube.com/watch?v=wlbmD8hc-ZA" target="_blank">Watch</a>
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item" style="background-color: transparent;">
       🎥 <strong>YTN Science</strong> – Integrated electric drone system showcase<br>
       <a href="https://www.youtube.com/watch?v=ENuLUvW1LwI" target="_blank">Watch</a>
     </li>
@@ -217,8 +217,8 @@ permalink: /
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Documentary Feature</h2>
   <ul class="list-group shadow-sm">
-    <li class="list-group-item">
-      📺 <strong>YouTube documentary</strong> – around the 18:30<br>
+    <li class="list-group-item" style="background-color: transparent;">
+      📺 <strong>documentary</strong> – around the 18:30<br>
       <a href="https://www.youtube.com/watch?v=rU7dHfVgVr0" target="_blank">Watch</a>
     </li>
   </ul>
