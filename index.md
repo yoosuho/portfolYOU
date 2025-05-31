@@ -143,6 +143,48 @@ permalink: /
     </ul>
   </section>
 
+  <!-- Media Coverage Section -->
+<section class="mb-5">
+  <h2 class="mb-3">Media Coverage</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item">
+      📰 <strong>AI타임스</strong> – "국내 개발 유인 전기드론 시연 성공"<br>
+      <a href="https://www.aitimes.com/news/articleView.html?idxno=148094" target="_blank">Read Article</a>
+    </li>
+    <li class="list-group-item">
+      📰 <strong>아주경제</strong> – "유인 전기드론 첫 비행 성공, UAM 상용화 한 걸음 더"<br>
+      <a href="https://www.ajunews.com/view/20240712135909312" target="_blank">Read Article</a>
+    </li>
+  </ul>
+</section>
+
+<section class="mb-5">
+  <h2 class="mb-3">Video & Documentary</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item">
+      🎥 <strong>YouTube</strong> – 유인 전기드론 개발 비행 영상<br>
+      <a href="https://www.youtube.com/watch?v=1ho9jntKVpk&t=13s" target="_blank">Watch</a>
+    </li>
+    <li class="list-group-item">
+      🎥 <strong>YouTube</strong> – 도심항공모빌리티 기술 소개<br>
+      <a href="https://www.youtube.com/watch?v=Cj6up0y-KjU" target="_blank">Watch</a>
+    </li>
+    <li class="list-group-item">
+      🎥 <strong>YouTube</strong> – 비행 실증 및 연구 프로젝트<br>
+      <a href="https://www.youtube.com/watch?v=wlbmD8hc-ZA" target="_blank">Watch</a>
+    </li>
+    <li class="list-group-item">
+      🎥 <strong>YouTube</strong> – 전기드론 통합 시스템 실증<br>
+      <a href="https://www.youtube.com/watch?v=ENuLUvW1LwI" target="_blank">Watch</a>
+    </li>
+    <li class="list-group-item">
+      📺 <strong>YouTube 다큐멘터리</strong> – 18:30초 부근 유인 드론 실증 등장<br>
+      <a href="https://www.youtube.com/watch?v=rU7dHfVgVr0" target="_blank">Watch</a>
+    </li>
+  </ul>
+</section>
+
 </div>
 
 <!-- Sample Profile Image path: assets/profile.jpg -->
+
