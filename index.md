@@ -62,8 +62,6 @@ permalink: /
   </ul>
 </section>
     
-  </div>
-</section>
 
   
 
