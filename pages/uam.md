@@ -39,28 +39,40 @@ This prototype validated the feasibility of scaling and standardizing manned eVT
 <h2>🖼️ Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
   <figure>
-    <img src="{{ site.baseurl }}/assets/uam/1.jpg" alt="Concept Rendering" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Full-scale airframe fabrication begins in a temporary rooftop facility.</figcaption>
+    <img src="{{ site.baseurl }}/assets/uam/7.jpg" alt="Modeling" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Initial 3D modeling for structural and aerodynamic layout prior to fabrication.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/assets/uam/2.jpg" alt="Frame Fabrication" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Initial frame assembly using TIG welding without jigs.</figcaption>
+    <img src="{{ site.baseurl }}/assets/uam/8.jpg" alt="Frame Build" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Mid-stage assembly with reinforced cross-beam structure and motor brackets.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/assets/uam/3.jpg" alt="Completed Static Mockup" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Assembled airframe with structural integration and visible battery housing.</figcaption>
+    <img src="{{ site.baseurl }}/assets/uam/9.jpg" alt="Component Integration" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Final component integration phase with wiring, ESCs, and flight computer.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/assets/uam/4.jpg" alt="Lift-off from Rooftop Testbed" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">First lift-off from rooftop helipad during hover testing phase.</figcaption>
+    <img src="{{ site.baseurl }}/assets/uam/1.jpg" alt="Completed Aircraft Left View" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Completed aircraft – left side view.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/assets/uam/5.jpg" alt="In-flight Test" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">eVTOL in free flight above test facility, validating control and lift symmetry.</figcaption>
+    <img src="{{ site.baseurl }}/assets/uam/2.jpg" alt="Completed Aircraft Front View" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Completed aircraft – front view.</figcaption>
   </figure>
   <figure>
-    <img src="{{ site.baseurl }}/assets/uam/6.jpg" alt="Stable hover demonstration" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Stable hover captured during safety and endurance demonstration.</figcaption>
+    <img src="{{ site.baseurl }}/assets/uam/3.jpg" alt="Completed Aircraft Right View" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Completed aircraft – right side view.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/uam/4.jpg" alt="Lift-off Hover Test" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Distant mid-air capture of initial test hover at the rooftop site.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/uam/5.jpg" alt="Free Flight" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Mid-flight performance captured during early stabilization and thrust balancing tests.</figcaption>
+  </figure>
+  <figure>
+    <img src="{{ site.baseurl }}/assets/uam/6.jpg" alt="Stable Hover" style="width: 100%; height: 250px; object-fit: cover;">
+    <figcaption style="font-size: 0.9em;">Close-up of symmetric hover stability observed during final test runs.</figcaption>
   </figure>
 </div>
 
@@ -84,5 +96,4 @@ This project gained national media attention as Korea’s first manned eVTOL dev
 
 <hr>
 
-<p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
 <p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
