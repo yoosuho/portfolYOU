@@ -15,7 +15,7 @@ permalink: /projects/
       <div class="card-body">
         <h5 class="card-title">Future Air Mobility UAM Prototype Development and Flight</h5>
         <p class="card-text">Full-stack manned eVTOL prototype design and first flight demonstration in Korea.</p>
-        <a href="{{ site.baseurl }}/portfolYOU/assets/project/future-uam/" class="btn btn-sm btn-outline-primary">View Project</a>
+        <a href="{{ site.baseurl }}/portfolYOU/assets/project/future-uam-prototype.html/" class="btn btn-sm btn-outline-primary">View Project</a>
       </div>
     </div>
   </div>
