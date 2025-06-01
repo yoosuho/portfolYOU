@@ -171,7 +171,7 @@ permalink: /
       <strong>AirTaxi World Congress 2024 Flight Demonstration</strong> – Oxford, United Kingdom (2024).
     </li>
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>UAM Demonstration Flight for the Government of Kazakhstan</strong> – Astana, Kazakhstan (2024).
+      <strong>UAM Demonstration Flight for the Government of Kazakhstan</strong> – Incheon, South Korea (2024).
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>DRIFTx Abu Dhabi 2024 Flight Demonstration</strong> – Abu Dhabi, United Arab Emirates (2024).
