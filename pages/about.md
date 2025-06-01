@@ -79,7 +79,7 @@ I create detailed technical videos showing how full-stack systems are actually b
 }
 </style>
 
-## 🛠 Skills
+## Skills
 
 <!-- System-Level UAM Integration -->
 <div class="skill-category">
