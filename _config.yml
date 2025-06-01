@@ -123,7 +123,7 @@ defaults:
       path: ""
       type: "projects"
     values:
-      layout: "page"
+      layout: "default"
   - scope:                                              # For Documentation Only
       path: ""                                          # For Documentation Only
       type: "elements"                                  # For Documentation Only
