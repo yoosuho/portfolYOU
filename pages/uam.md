@@ -76,23 +76,27 @@ This prototype validated the feasibility of scaling and standardizing manned eVT
   </figure>
 </div>
 
-<h2>🎥 YouTube Series</h2>
-<p>
-To document the full build process and technical decisions behind the VS200 eVTOL, I created a detailed 4-part engineering video series.
-</p>
-<ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLDMbqX9Y7L8xzvTdl2uZ71UDZcp0Br2Af" target="_blank">▶ Watch the Full Series</a></li>
-</ul>
-
-<h2>📰 Media Coverage</h2>
-<p>
-This project gained national media attention as Korea’s first manned eVTOL development, with successful public flight demonstrations featured in major tech and robotics publications.
-</p>
-<ul>
-  <li><a href="https://www.etnews.com/20221216000042" target="_blank">[ETNews] South Korea's first single-seat UAM aircraft takes flight</a></li>
-  <li><a href="https://www.hellot.net/news/article.html?no=74555" target="_blank">[HelloT] VSPACE successfully demonstrates manned drone</a></li>
-  <li><a href="https://www.irobotnews.com/news/articleView.html?idxno=31093" target="_blank">[Robot News] VSPACE completes successful eVTOL prototype flight</a></li>
-</ul>
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
+  <h2 class="mb-3">News Video</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item" style="background-color: transparent;">
+      🎥 <strong>MBCNEWS</strong> – Manned electric drone test flight coverage<br>
+      <a href="https://www.youtube.com/watch?v=1ho9jntKVpk&t=13s" target="_blank">Watch</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      🎥 <strong>MBCNEWS</strong> – UAM (Urban Air Mobility) technology feature<br>
+      <a href="https://www.youtube.com/watch?v=Cj6up0y-KjU" target="_blank">Watch</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      🎥 <strong>KTV NEWS</strong> – Flight demonstration and technical project<br>
+      <a href="https://www.youtube.com/watch?v=wlbmD8hc-ZA" target="_blank">Watch</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      🎥 <strong>YTN Science</strong> – Integrated electric drone system showcase<br>
+      <a href="https://www.youtube.com/watch?v=ENuLUvW1LwI" target="_blank">Watch</a>
+    </li>
+  </ul>
+</section>
 
 <hr>
 
