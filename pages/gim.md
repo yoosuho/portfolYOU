@@ -12,7 +12,7 @@ permalink: /pages/gim/
 
 <hr>
 
-<h2>🔧 Project Overview</h2>
+<h2>Project Overview</h2>
 <p>
 This project marked the first official public UAM flight demonstration led by the Korean government. As the earliest nationally endorsed test for eVTOL platforms in Korea, the demonstration served as a crucial starting point for local certification discussions and safety protocol development.
 </p>
@@ -21,21 +21,21 @@ This project marked the first official public UAM flight demonstration led by th
 The aircraft was developed and flown under real environmental conditions with participation from the Korea Institute of Aviation Safety Technology. The event was broadcast nationally and observed by policymakers and industry representatives.
 </p>
 
-<h2>🧠 My Contributions</h2>
+<h2> My Contributions</h2>
 <ul>
   <li>Led development and test preparation for a full-scale manned eVTOL platform</li>
   <li>Built high-power propulsion system and validated thermal/safety performance</li>
   <li>Managed onsite integration and conducted public demonstration flights</li>
 </ul>
 
-<h2>📈 Outcomes</h2>
+<h2> Outcomes</h2>
 <ul>
   <li>First government-recognized UAM test flight in Korea</li>
   <li>Provided validation baseline for domestic airworthiness certification</li>
   <li>Achieved stable hover performance and redundancy validation in front of press and officials</li>
 </ul>
 
-<h2>🖼️ Gallery</h2>
+<h2> Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
   <img src="{{ site.baseurl }}/assets/gim/0.jpg" style="width: 100%; height: 250px; object-fit: cover;">
   <img src="{{ site.baseurl }}/assets/gim/1.jpg" style="width: 100%; height: 250px; object-fit: cover;">
