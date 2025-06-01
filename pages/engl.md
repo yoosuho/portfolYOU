@@ -43,5 +43,17 @@ Through a successful indoor flight demonstration, our team showcased real-time s
   <img src="{{ site.baseurl }}/assets/engl/4.jpg" style="width: 100%; height: 250px; object-fit: cover;">
 </div>
 
+
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
+  <h2 class="mb-3">Description</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item" style="background-color: transparent;">
+       <strong>AIRTAXIWORLDCONGRESS</strong> – MAIN SITE<br>
+      <a href="https://www.airtaxiworldcongress.com/" target="_blank">Watch</a>
+    </li>
+  </ul>
+</section>
+
+
 <hr>
 <p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
