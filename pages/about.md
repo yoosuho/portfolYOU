@@ -5,14 +5,14 @@ permalink: /about/
 weight: 3
 ---
 
-# 👨‍💻 SuHo Yu
+# SuHo Yu
 
 Hello! I'm a systems engineer specializing in UAM, eVTOL, electric propulsion systems, and robotics.  
 From CAD design to real-world flight, I have hands-on experience in full-stack aerial system development — including CNC machining, embedded systems, and flight testing.
 
 ---
 
-# 🧭 Engineering Philosophy
+# Engineering Philosophy
 
 Engineering, to me, is not just simulation — it's building something that flies, fails, and flies again.  
 I've welded frames without jigs, calculated production yield rates, milled custom parts with CNCs, designed batteries and embedded controllers, and proven those systems in the air.
@@ -21,12 +21,12 @@ What I value most is the ability to **bridge theory and hardware** — through f
 
 ---
 
-# ⚙️ What I’ve Actually Done
+# What I’ve Actually Done
 
 - Welded and assembled full-size airframes by hand without jigs
 - Milled components using CNCs and set up toolpaths (Fusion CAM, Mastercam)
 - Calculated production yield rates during prototyping-to-manufacturing transitions
-- Designed and fabricated custom high-voltage battery packs (12S–14S)
+- Designed and fabricated custom high-voltage battery packs (12S–156S)
 - Developed STM32-based BMS with **UAVCAN**, validated with LDRA (DO-178C)
 - Tuned ESCs and PID controllers on **Pixhawk / Cube** platforms
 - Conducted vibration analysis and **fault-tolerant control** testing (e.g., single-motor failure on X8)
@@ -36,7 +36,7 @@ All of this was done in **real-world environments**, not just labs or models —
 
 ---
 
-# 🚀 My Research Outlook
+# My Research Outlook
 
 Across domains like UAM, robotics, and aerial energy systems, I aim to contribute by bringing **full-stack system prototyping and test-driven validation** into academic research.
 
