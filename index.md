@@ -168,14 +168,17 @@ permalink: /
   <h2 class="mb-3">Demonstrations</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Manned eVTOL VS200</strong> – Successful takeoff, tether test, and long-range flight (2024).
+      <strong>AirTaxi World Congress 2024 Flight Demonstration</strong> – Oxford, United Kingdom (2024).
     </li>
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>X8 Multi-Rotor Redundancy Demo</strong> – Single-prop failure simulation and controlled flight continuity (2023).
+      <strong>UAM Demonstration Flight for the Government of Kazakhstan</strong> – Astana, Kazakhstan (2024).
     </li>
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>VS200 System Integration Test</strong> – All-arm ESC sync, battery telemetry via UART, autonomous hover stabilization (2023).
+      <strong>DRIFTx Abu Dhabi 2024 Flight Demonstration</strong> – Abu Dhabi, United Arab Emirates (2024).
     </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>2022 Government-Led UAM Demonstration and Flight Validation Program</strong> – Gimpo, South Korea (2022).
+    </li>    
   </ul>
 </section>
 
