@@ -134,7 +134,8 @@ defaults:
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
-
+# 아래 줄 추가
+head_custom: head-custom.html
 
 ### Exclude from processing ###
 exclude:
