@@ -25,7 +25,7 @@ The aircraft was a multicopter-type UAM platform, developed from TRL 4 to TRL 5.
 <ul>
   <li>Planned structural layout based on mass and center-of-gravity distribution</li>
   <li>Hand-built the airframe through manual TIG welding (no jigs used)</li>
-  <li>Integrated 12S high-voltage battery system with STM32-based BMS and UAVCAN communication</li>
+  <li>Integrated 24S high-voltage battery system with STM32-based BMS and UAVCAN communication</li>
   <li>Configured Pixhawk/Cube controller, tuned PID parameters for stable vertical flight</li>
   <li>Performed tethered safety tests, fault handling (motor loss), and hover flight demonstrations</li>
   <li>Led regulatory alignment effort based on AC 21.17-4 for experimental certification</li>
