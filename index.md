@@ -8,11 +8,12 @@ permalink: /
 
 <img src="{{ site.baseurl }}/assets/converted_image.jpg" width="200" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15); margin-bottom: 20px;" alt="SuHo Yu Profile Image" />
 
-<h2>✈️ Where Systems Engineering Meets the Sky</h2>
+<h2> Engineering the Future of Aerial and Robotic Systems – From Full-Stack Design to Flight-Tested Validation </h2>
 
 <strong>SuHo Yu</strong>  
-<br/>Systems engineer specialized in UAM, electric propulsion, and robotics.  
-<br/>From CAD to real flight — proven results in full-stack aerial system development.
+<br/>Systems engineer with proven expertise in Urban Air Mobility and multidisciplinary hardware systems.
+<br/>Led Korea’s first manned eVTOL development from CAD to flight. Skilled in system integration, electric propulsion, embedded control
+<br/>mechatronic design — building scalable architectures for both aerial platforms and next-generation robotics.
 
 <br/><br/>
 
