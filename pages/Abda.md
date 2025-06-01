@@ -38,11 +38,16 @@ The demonstration included full-scale deployment, cross-border system transport,
 <h2>🖼️ Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
   <img src="{{ site.baseurl }}/assets/Abda/0.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/ka/1.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/ka/2.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/ka/3.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/ka/4.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/ka/5.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="{{ site.baseurl }}/assets/Abda/1.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="{{ site.baseurl }}/assets/Abda/2.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="{{ site.baseurl }}/assets/Abda/3.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="{{ site.baseurl }}/assets/Abda/4.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="{{ site.baseurl }}/assets/Abda/5.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="{{ site.baseurl }}/assets/Abda/6.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="{{ site.baseurl }}/assets/Abda/7.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="{{ site.baseurl }}/assets/Abda/8.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="{{ site.baseurl }}/assets/Abda/9.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+  
 </div>
 
 <hr>
