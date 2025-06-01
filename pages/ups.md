@@ -12,7 +12,7 @@ permalink: /pages/ups/
 
 <hr>
 
-<h2>🔧 Project Overview</h2>
+<h2> Project Overview</h2>
 <p>
 This project aimed to develop a next-generation UPS (Uninterruptible Power Supply) unit designed for harsh environments such as those found in combat or tactical vehicles. The focus was on enhancing stability, EMI shielding, and vibration resistance while localizing core technologies for national defense applications.
 </p>
@@ -36,7 +36,7 @@ As the technical lead, I oversaw the system’s battery architecture, electromag
   <li>Validated under battlefield-mimicking vibration, EMI, and thermal shock scenarios</li>
 </ul>
 
-<h2>🖼️ Gallery</h2>
+<h2> Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
   <img src="{{ site.baseurl }}/assets/ups/0.jpg" style="width: 100%; height: 250px; object-fit: cover;">
   <img src="{{ site.baseurl }}/assets/ups/1.jpg" style="width: 100%; height: 250px; object-fit: cover;">
