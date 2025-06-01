@@ -114,7 +114,7 @@ permalink: /projects/
       <div class="card-body">
         <h5 class="card-title">250 Wh/kg-class High-Power High-Density Battery Packaging Technology Development</h5>
         <p class="card-text">Designed next-gen battery pack for eVTOLs, balancing energy density, thermal stability, and structural integrity.</p>
-        <a href="{{ site.baseurl }}/pages/d250wh/" class="btn btn-sm btn-outline-primary">View Project</a>
+        <a href="{{ site.baseurl }}/pages/250wh/" class="btn btn-sm btn-outline-primary">View Project</a>
       </div>
     </div>
   </div>
