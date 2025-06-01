@@ -74,7 +74,9 @@ permalink: /
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
       <strong>B.Sc. in Mechatronics Engineering</strong> – Inha University (Mar 2018 – Aug 2023)<br>
-      Focused on battery systems, electric propulsion, and Urban Air Mobility (UAM). Contributed to national R&D projects.
+      Completed a multidisciplinary curriculum integrating mechanical design, control systems, embedded electronics, and system integration.  
+Gained foundational knowledge in robotics, sensor fusion, microcontroller programming (e.g., ARM-based systems), and electromechanical system modeling.  
+This academic foundation provided the basis for my later work in battery system design and UAM platform development.
     </li>
   </ul>
   </section>
