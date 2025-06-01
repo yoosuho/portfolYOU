@@ -48,7 +48,10 @@ permalink: /
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Director of Technology</strong> – VSPACE CO., LTD (Nov 2021 – Present)<br>
-      Spearheaded full lifecycle development of high-power battery systems for aviation, managing concept, simulation, thermal design, safety validation, and integration. Led Korea’s first manned eVTOL project from R&D to flight certification and demo. Acted as PI on multiple national projects. Built a 4-person multidisciplinary R&D team and fostered close cooperation with public institutions. Delivered 3 publications, 2 patents, and secured strategic partnerships.
+      Led full development of flight-capable electric aircraft systems, including battery design, system integration, and certification preparation.  
+Played a central role in Korea’s first manned eVTOL project, contributing from mechanical design to autonomous control and real-world flight testing.  
+Served as technical lead in government-funded UAM R&D programs, coordinating with aerospace institutions and public agencies.  
+Focused on practical system validation, achieving multiple international demonstration flights in the UK, UAE, and Kazakhstan.
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Design Engineer</strong> – CEAS CO., LTD (Jul 2018 – Jan 2021)<br>
