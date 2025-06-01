@@ -12,7 +12,7 @@ permalink: /pages/engl/
 
 <hr>
 
-<h2>🔧 Project Overview</h2>
+<h2>Project Overview</h2>
 <p>
 This project marked the first time a South Korean UAM platform was flown at a global showcase event—AirTaxi World Congress 2024 held in Oxford, UK. It was a pivotal opportunity to demonstrate VSPACE’s eVTOL technology in front of aviation leaders from airlines such as Emirates, Etihad, United Airlines, Flynas, Air India, and Turkish Airlines.
 </p>
