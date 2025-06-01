@@ -25,6 +25,20 @@ nav_exclude:                                            # The following paths ar
   - pages/plane.md   
   - pages/uam2.md     
   - pages/drone.md     
+  - pages/250wh.md     
+  - pages/Abda.md     
+  - pages/AI.md     
+  - pages/CD40.md     
+  - pages/CD200.md     
+  - pages/engl.md     
+  - pages/gr.md     
+  - pages/gs.md     
+  - pages/ka.md     
+  - pages/lig.md     
+  - pages/mvus.md     
+  - pages/ups.md     
+  
+  
 #  - documentation/partials/**                           # For Documentation Only
 
 nav:
