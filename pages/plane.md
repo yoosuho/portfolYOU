@@ -14,7 +14,7 @@ This research marked a historic achievement: Korea's first successful flight of 
 - **Duration:** Apr 2020 – Dec 2023  
 - **Funding:** Approx. 2.1M USD  
 - **Lead Organization:** Korea Aerospace Research Institute (KARI) 
-- ** **Participating Organizations:** AMOTECT, JNS, KETI, Vessel Aerospace, KATRA, Hanwha Aerospace, VSPACE
+- **Participating Organizations:** AMOTECT, JNS, KETI, Vessel Aerospace, KATRA, Hanwha Aerospace, VSPACE
   
 ---
 
