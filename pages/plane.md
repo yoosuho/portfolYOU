@@ -1,112 +1,96 @@
 ---
-title: "Electric Propulsion Conversion Development Project"
+title: "Korea's First Manned All-Electric GA Aircraft Flight – Full Technical Research"
 layout: default
 permalink: /pages/plane/
 ---
 
-<h1>Electric Propulsion Conversion Development Project</h1>
+# Korea's First Manned All-Electric GA Aircraft Flight – Full Technical Research
 
-<p><strong>Duration:</strong> November 2021 – March 2023<br>
-<strong>Lead Organization:</strong> Korea Aerospace Research Institute (KARI)<br>
-<strong>Role:</strong> Lead for Battery System Design and Testing</p>
+## 1. Cell Characterization and Pre-Selection
 
-<hr>
+The foundation of a safe and efficient high-voltage battery system begins with rigorous cell-level validation. Over 1,500 cylindrical lithium-ion cells (3.7 V, 4.95 Ah) were pre-screened for capacity consistency, internal resistance, and thermal behavior to ensure performance stability across all 156 series-connected cells in the final pack.
 
-<h2>Project Overview</h2>
-<p>
-This project aimed to convert a conventional GA-class light aircraft to a fully electric propulsion platform. A collaborative R&D initiative involving multiple national organizations, it focused on system-level development of electric propulsion for aviation, with my dedicated role on battery system architecture and validation.
-</p>
+---
 
-<p>
-As part of the transition to all-electric flight, the project developed and integrated a 65 kW-class high-voltage battery system that met both performance and safety standards, including DO-160G and UN 38.3 requirements. The work laid the foundation for a new certification framework and marked a significant milestone in Korea’s electric aviation roadmap.
-</p>
+## 2. System Architecture and Modeling
 
-<h2>My Contributions</h2>
-<ul>
-  <li>Designed custom high-voltage battery pack structure and layout</li>
-  <li>Led vibration testing compliant with ASTM F2245 5.10.1.2</li>
-  <li>Conducted DO-160G and UN 38.3 environmental tests for aviation use</li>
-  <li>Integrated battery system into both iron-bird and full-scale flight platform</li>
-  <li>Collaborated with KARI and KETI for system-level validation and publication</li>
-</ul>
+Based on mission load and CG constraints, we developed a split-architecture battery pack system. This included complete CAD and thermal simulations of module enclosures, wiring pathways, and airflow exposure.
 
-<h2>Outcomes</h2>
-<ul>
-  <li>Successful conversion and ground testing of GA-class fixed-wing aircraft</li>
-  <li>Full-scale flight test completed with real-time battery monitoring</li>
-  <li>Joint academic publication with national research institutes</li>
-  <li>Set precedent for Korean electric aircraft battery certification framework</li>
-</ul>
-
-<h2>Gallery</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
-  <!-- Battery system (1-4) -->
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/1.jpg" alt="Battery Pack Top" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Top view of the custom-built high-voltage battery pack enclosure.</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/2.jpg" alt="Battery Internal Layout" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Internal arrangement showing cell modules and protective layers.</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/3.jpg" alt="Battery Side View" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Battery system in transit-ready configuration for airworthiness testing.</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/4.jpg" alt="Battery Monitoring Close-up" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Close-up of monitoring ports and protective aluminum housing.</figcaption>
-  </figure>
-
-  <!-- Iron-bird testbed (5-6) -->
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/5.jpg" alt="Iron Bird Setup" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Iron-bird mockup used to validate battery-electronics-motor integration.</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/6.jpg" alt="Bench Test Validation" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Bench test configuration for propulsion power simulation and diagnostics.</figcaption>
-  </figure>
-
-  <!-- Battery mounted on aircraft (7-8) -->
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/7.jpg" alt="Battery Installed Side" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Battery system installed inside the nose compartment of converted aircraft.</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/8.jpg" alt="Battery Installed Top View" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Top access view of battery pack mounting and routing configuration.</figcaption>
-  </figure>
-
-  <!-- Ground Test (9-10) -->
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/9.jpg" alt="Taxi Test" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Converted aircraft performing taxi tests prior to first flight.</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/10.jpg" alt="Test Preparation" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">System checks and instrumentation calibration before runway test.</figcaption>
-  </figure>
-
-  <!-- Flight Test (11-12) -->
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/11.jpg" alt="Takeoff Moment" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Moment of liftoff during full-scale flight demonstration.</figcaption>
-  </figure>
-  <figure>
-    <img src="{{ site.baseurl }}/assets/plane/12.jpg" alt="In Flight" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="font-size: 0.9em;">Converted electric aircraft in stable flight with ground crew observing.</figcaption>
-  </figure>
+<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img src="/assets/plane/17.jpg" alt="Front battery CAD model 1" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/16.jpg" alt="Front battery CAD model 2" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/15.jpg" alt="Front battery CAD model 3" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/14.jpg" alt="Propulsion system 3D model" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/13.jpg" alt="System architecture for propulsion integration" style="width: 100%; height: 250px; object-fit: cover;">
 </div>
 
-<h2>📄 Publications</h2>
-<ul>
-  <li><strong>Modification and Development of Manned Electric Propulsion Lightweight Airplane</strong><br>
-  Journal of Aerospace System Engineering, 2023, Vol. 13(1).<br>
-  <a href="https://doi.org/10.20910/ASE.2023.13.1.79" target="_blank">View Paper</a>
-  </li>
-</ul>
+---
 
-<hr>
+## 3. Battery Pack Fabrication and Integration
 
-<p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
+Two battery packs were constructed: a 156S6P front module and a 156S3P rear module, totaling 1,404 cells. Each module was installed in a sealed aluminum enclosure with IP67-rated protection and structural mounts to withstand 10g acceleration.
+
+<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img src="/assets/plane/1.jpg" alt="Real battery pack photo 1" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/2.jpg" alt="Real battery pack photo 2" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/3.jpg" alt="Real battery pack photo 3" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/4.jpg" alt="Real battery pack photo 3 (close-up)" style="width: 100%; height: 250px; object-fit: cover;">
+</div>
+
+---
+
+## 4. Iron-Bird System Validation
+
+A dedicated iron-bird test rig was assembled to test the full propulsion stack in a controlled environment. These tests confirmed inverter synchronization, regenerative behavior, and fault-handling via CAN communication.
+
+<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img src="/assets/plane/5.jpg" alt="Iron-bird test photo 1" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/6.jpg" alt="Iron-bird test photo 2" style="width: 100%; height: 250px; object-fit: cover;">
+</div>
+
+---
+
+## 5. Ground Environmental Qualification
+
+Prior to flight, we conducted vibration, thermal, IP67, drop, and low-pressure endurance tests. Additionally, ground integration verification was conducted with all systems powered on.
+
+<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img src="/assets/plane/9.jpg" alt="Ground inspection and system readiness check" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/18.jpg" alt="Battery pack discharge test data" style="width: 100%; height: 250px; object-fit: cover;">
+</div>
+
+---
+
+## 6. Aircraft Integration and Pre-Flight Ground Testing
+
+Battery packs were securely installed into the modified KLA-100X airframe. CAN telemetry was verified, and electrical isolation tests were conducted. Taxi tests and static thrust validation followed.
+
+<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img src="/assets/plane/7.jpg" alt="First battery pack installation on aircraft" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/8.jpg" alt="Battery pack maintenance and mounting view" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/10.jpg" alt="Pre-flight aircraft photo (runway)" style="width: 100%; height: 250px; object-fit: cover;">
+</div>
+
+---
+
+## 7. Manned Flight Test
+
+Korea’s first manned electric GA aircraft flight was successfully conducted using the in-house developed high-voltage battery system. The flight included low-altitude circuits, data acquisition, and thermal/stability monitoring.
+
+<div class="gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+  <img src="/assets/plane/11.jpg" alt="First electric flight in Korea" style="width: 100%; height: 250px; object-fit: cover;">
+  <img src="/assets/plane/12.jpg" alt="Commemorative photo with completed aircraft" style="width: 100%; height: 250px; object-fit: cover;">
+</div>
+
+---
+
+## 📄 Publications
+
+- **Modification and Development of Manned Electric Propulsion Lightweight Airplane**  
+  Journal of Aerospace System Engineering, 2023, Vol. 13(1).  
+  [View Full Paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11448316)
+
+---
+
+
+<p><a href="{{ site.baseurl }}/blog/">← Back to Research</a></p>
