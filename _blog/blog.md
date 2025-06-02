@@ -13,8 +13,8 @@ permalink: /blog/
     <div class="card h-100 shadow-sm">
       <img src="{{ site.baseurl }}/assets/image_0.jpg" class="card-img-top" alt="Electric Propulsion Conversion" style="height: 400px; object-fit: cover;">
       <div class="card-body">
-        <h5 class="card-title">Electric Propulsion Conversion Development Project</h5>
-        <p class="card-text">Conducted research-driven development of an advanced lithium-ion battery pack tailored for AAM platforms. Focused on achieving 250 Wh/kg energy density, thermal safety, and compliance with aerospace standards through simulation, testing, and system integration.</p>
+        <h5 class="card-title">Korea's First Manned All-Electric GA Aircraft Flight – Full Technical Research</h5>
+        <p class="card-text">This project marked Korea’s first successful development and flight of a manned general aviation aircraft fully powered by a domestically designed electric propulsion and battery system.</p>
         <a href="{{ site.baseurl }}/pages/plane/" class="btn btn-sm btn-outline-primary">View Research</a>
       </div>
     </div>
