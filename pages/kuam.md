@@ -1,5 +1,5 @@
 ---
-title: "250 Wh/kg-class High-Power High-Density Battery Packaging Technology Development"
+title: "Urban Air Mobility (UAM) Type Certification Research (Task 3-1-2)"
 layout: default
 permalink: /pages/kuam/
 ---
@@ -7,253 +7,78 @@ permalink: /pages/kuam/
 <h1> Research and Development of a High-Power, High-Energy Battery System (250 Wh/kg-Class) for Electric Aviation </h1>
 
 
-## 1. Research Overview
 
-This Research addressed one of the most critical challenges in electric aviation: achieving high energy density (Wh/kg) battery packs without compromising power output, structural reliability, and operational safety. The research focused on designing, building, and validating a lithium-ion battery pack that exceeds **250 Wh/kg at the pack level**, delivers **8C (720A @ 90Ah)** high discharge, and complies with aviation-grade safety standards such as UN 38.3 and vibration/drop testing.
+# Urban Air Mobility (UAM) Type Certification Research (Task 3-1-2)
 
-- **Duration:** Apr 2020 – Dec 2023  
-- **Funding:** Approx. 3.2M USD  
-- **Lead Organization:** VSPACE CO., LTD  
-- **Principal Investigator:** SuHo Yu  
-- **Participating Organizations:** Sechang Chemical Co., Ltd., Terra Engineering Co., Ltd., Korea Testing & Research Institute (KTR), Tongmyong University  
-- **Client Organization:** Hyundai Motor Company  
+## 1. Research Overview  
+This national research (3-1-2) aims to establish Korea’s first Type Certification (TC) for electric vertical takeoff and landing (eVTOL) aircraft. Rather than designing a new airframe from scratch, this research focuses on **modifying an existing aircraft** into a compliant Lift & Cruise-type platform. The work is being conducted in collaboration with the **Korea Institute of Aviation Safety Technology (KIAST)** to validate system performance and co-develop a Korean eVTOL certification framework.
 
----
-
-## 2. Research Motivation
-
-In the aerospace sector, battery systems face competing demands:
-
-- Increase in energy density → lighter aircraft, longer range  
-- High power capability → necessary for VTOL operations  
-- Safety assurance → essential for regulatory approval and airworthiness  
-
-Conventional battery systems rarely meet all three. Our goal was to **integrate these conflicting requirements into a single, flight-ready system** through engineering-driven research.
-
----
-
-## 3. Technical Objectives
-
--  Achieve >250 Wh/kg at pack level  
--  Support continuous 5C and burst 8C discharge (~720 A for 1 min)  
--  Pass UN 38.3, KC 60664-1, and vibration/impact testing  
--  Ensure EMI robustness and CAN-based BMS integration  
--  Scalable architecture for future eAviation and hybrid systems  
-
----
-
-## 4. My Contributions
-
-As Principal Investigator, I led the full-stack development of the battery system:
-
-- Full lifecycle system design and verification (>250 Wh/kg, 8C discharge)  
-- Electrical, mechanical, and thermal architecture integration  
-- Thermal CFD and structural FEA for each prototype iteration  
-- Embedded BMS firmware (STM32, UAVCAN, thermal/fault logic)  
-- Supervised lab tests (UN 38.3, vibration, insulation, drop, etc.)  
-- Final documentation and government milestone review delivery  
-- Technology transition into our UAM aircraft
-
----
-
-## 5. Engineering Approach
-
-### 5.1 Cell Selection & Configuration  
-- NCM cylindrical cells (>300 Wh/kg)  
-- Series-parallel layout optimized for voltage and redundancy  
-
-### 5.2 Mechanical Architecture  
-- Aluminum + carbon composite case  
-- Direct cell-to-pack integration (module-less)  
-- <20% structural overhead via FEA  
-
-### 5.3 Thermal Management  
-- 5C–8C thermal CFD simulation  
-- Passive air cooling with heat spreader  
-- IR-verified max temp ~58°C  
-
-### 5.4 Electromagnetic Compatibility  
-- EMI shielding and twisted-pair routing  
-- BMS PCB-level protection and cable routing  
-
-### 5.5 Battery Management System  
-- STM32 MCU, cell balancing, safety cutoff logic  
-- UAVCAN integration for real-time telemetry  
-- Protection: UV, OC, OT, short-circuit  
-
-### 5.6 Compliance Testing  
-- UN 38.3, KC 60664-1 passed  
-- 25g shock, 5g RMS vibration  
-- 1.2m drop, humidity, acceleration, altitude tested  
-- Thermal runaway containment: 15 min delay  
-
----
-
-<style>
-.image-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  margin-bottom: 2rem;
-}
-.image-grid > div {
-  flex: 1 1 calc(33.333% - 12px);
-  box-sizing: border-box;
-}
-.image-grid img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 6px;
-}
-.caption {
-  font-size: 0.9rem;
-  margin-top: 6px;
-  text-align: center;
-  font-style: italic;
-  color: #666;
-}
-</style>
-
-## 6. Validation and Testing – Extended Dataset
-
-### 6.1 Cell Grading and Variation
-
-<div class="image-grid">
-  <div>
-    <img src="/assets/250wh/21.jpg" alt="Figure 1">
-    <div class="caption">Figure 1. Pre-assembly cell grading process.</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/22.jpg" alt="Figure 2">
-    <div class="caption">Figure 2. Cell capacity distribution and deviation.</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/7.jpg" alt="Figure 3">
-    <div class="caption">Figure 3. Thermal estimation due to cell IR variation.</div>
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+<img src="/assets/kuam/0.jpg" alt="3D model" height="200">
+<img src="/assets/kuam/1.jpg" alt="Blueprint" height="200">
+<img src="/assets/kuam/2.jpg" alt="OML evolution" height="200">
 </div>
 
-### 6.2 Thermal Modeling and CFD
+## 2. Research Motivation  
+eVTOL aircraft introduce unprecedented technical features, such as distributed electric propulsion (DEP), high-voltage battery systems, and full digital flight control. These innovations exceed the boundaries of existing airworthiness frameworks. This research addresses the global certification gap by developing Korea’s own regulatory pathway through real-world aircraft integration and validation.
 
-<div class="image-grid">
-  <div>
-    <img src="/assets/250wh/1.jpg" alt="Figure 4">
-    <div class="caption">Figure 4. CFD study for prototype #3 operational conditions.</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/0.jpg" alt="Figure 5">
-    <div class="caption">Figure 5. Transient simulation by C-rate and ambient temp.</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/3.jpg" alt="Figure 6">
-    <div class="caption">Figure 6. Comparison between prototype #3 and final version.</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/4.jpg" alt="Figure 7">
-    <div class="caption">Figure 7. Preliminary CFD of final battery module.</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/2.jpg" alt="Figure 8">
-    <div class="caption">Figure 8. Temperature rise (cell, tab, heatsink) after 60s discharge.</div>
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+<img src="/assets/kuam/3.jpg" alt="CFD" height="200">
+<img src="/assets/kuam/4.jpg" alt="CG chart" height="200">
+<img src="/assets/kuam/5.jpg" alt="LV system" height="200">
 </div>
 
-### 6.3 Final Prototype and Assembly
+## 3. Technical Objectives  
+- Modify an existing aircraft into a Lift & Cruise configuration  
+- Develop TC-compliant power, control, and energy systems  
+- Define fail-operational logic and fault-tolerant architectures  
+- Generate data-driven safety documents and traceability maps  
+- Prepare the aircraft for compliance testing and flight trials  
+- Contribute empirical data for shaping eVTOL certification standards  
 
-<div class="image-grid">
-  <div>
-    <img src="/assets/250wh/16.jpg" alt="Figure 9">
-    <div class="caption">Figure 9. Final battery module (assembled).</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/18.jpg" alt="Figure 10">
-    <div class="caption">Figure 10. Pre-test inspection photo.</div>
-  </div>
+## 4. My Contributions  
+As a systems engineer and participating researcher, I contributed to:
+- High-voltage battery system design and integration  
+- Low-voltage electrical distribution architecture  
+- Distributed propulsion architecture for redundancy  
+- Control system layout and FCC/BMS integration  
+- Certification planning and CG compliance strategy  
+- Technical coordination with KIAST on requirement flow  
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+<img src="/assets/kuam/6.jpg" alt="DEP" height="200">
+<img src="/assets/kuam/7.jpg" alt="FCC layout" height="200">
+<img src="/assets/kuam/8.jpg" alt="Signal flow" height="200">
 </div>
 
-### 6.4 Electrical and Safety Testing
+## 5. Engineering Approach  
+The aircraft employs dual power buses, modular batteries, and a redundant FCC control system. Subsystem integration was validated against CG constraints and flight control logic was structured with failover paths. Wiring harness, EMC shielding, and signal routing were engineered based on system-level certification logic.
 
-<div class="image-grid">
-  <div>
-    <img src="/assets/250wh/9.jpg" alt="Figure 11">
-    <div class="caption">Figure 11. CCCV and DCCV test data.</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/5.jpg" alt="Figure 12">
-    <div class="caption">Figure 12. Dielectric withstand test.</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/23.jpg" alt="Figure 13">
-    <div class="caption">Figure 13. Insulation resistance measurement.</div>
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+<img src="/assets/kuam/9.jpg" alt="Energy system" height="200">
+<img src="/assets/kuam/10.jpg" alt="Assembly 1" height="200">
+<img src="/assets/kuam/11.jpg" alt="Assembly 2" height="200">
 </div>
 
-### 6.5 Performance and Qualification Results
+## 6. Validation and Testing – Extended Dataset  
+- System modeling aligned with certification structure  
+- CG range validation using simulation and structural modeling  
+- Fault scenarios for power transfer and control redundancy  
+- EMC simulation and shielding concept validation  
+- CFD testing for aerodynamic and lift interference margins  
+- Physical integration review during ongoing **system integration and airframe assembly** under TC regulations
 
-<div class="image-grid">
-  <div>
-    <img src="/assets/250wh/24.jpg" alt="Figure 14">
-    <div class="caption">Figure 14. Discharge rate (8C): 720A for 1 minute (PASS)</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/25.jpg" alt="Figure 15">
-    <div class="caption">Figure 15. Energy density: Target 250 Wh/kg → Result 253.81–257.49 Wh/kg</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/12.jpg" alt="Figure 16">
-    <div class="caption">Figure 16. Low temp performance: -20°C → sustained function to -43°C</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/6.jpg" alt="Figure 17">
-    <div class="caption">Figure 17. Thermal runaway isolation time: 15 min delay before propagation</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/26.jpg" alt="Figure 18">
-    <div class="caption">Figure 18. Charge time to 90%: ~10 minutes</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/27.jpg" alt="Figure 19">
-    <div class="caption">Figure 19. Vibration test: 7–200 Hz sweep (PASS)</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/28.jpg" alt="Figure 20">
-    <div class="caption">Figure 20. Altitude test: 11.6 kPa, 6 hr (PASS)</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/29.jpg" alt="Figure 21">
-    <div class="caption">Figure 21. Drop test: 1000 mm (PASS)</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/30.jpg" alt="Figure 22">
-    <div class="caption">Figure 22. Humidity test (PASS)</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/31.jpg" alt="Figure 23">
-    <div class="caption">Figure 23. Acceleration test: 3G (PASS)</div>
-  </div>
-  <div>
-    <img src="/assets/250wh/32.jpg" alt="Figure 24">
-    <div class="caption">Figure 24. Mechanical shock test (PASS)</div>
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
+<img src="/assets/kuam/12.jpg" alt="Assembly 3" height="200">
+<img src="/assets/kuam/13.jpg" alt="Assembly 4" height="200">
 </div>
 
-## 7. Research Outcomes
-
--  Verified 253–257 Wh/kg at pack level  
--  Discharged at 720A (8C) for 1 minute  
--  Passed all compliance and drop/vibration/shock tests  
--  Charge time reduced to ~10 min  
--  Successfully used in real UAM aircraft flight demo  
-
----
-
-## 8. Applied Product
-- [ Application: Electric UAM Prototype_1](/pages/uam1/)
-- [ Application: Electric UAM Prototype_2](/pages/uam2/)
-- [ Application: 100 kg-class Heavy Cargo Drone](/pages/drone/)
-- [ Application: 3seat K-UAM eVTOL DO-160G Battery Pack](/pages/kuam/)
-
+## 7. Research Outcomes  
+The research has reached the configuration freeze stage, and the team is currently progressing through **system integration and airframe manufacturing** in compliance with TC guidelines. Major outcomes to date include:
+- A complete electrical and control architecture for TC  
+- CG-verified integration of energy and flight control systems  
+- Readiness for ground and flight demonstration  
+- Formal contribution to Korean eVTOL certification development
   
 ---
 
