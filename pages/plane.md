@@ -93,7 +93,7 @@ The global push for carbon-neutral aviation has prompted major initiatives aroun
 <h3>5.6 Environmental Qualification</h3>
 <p>DO-311-inspired tests were conducted: vibration (up to 8 g), thermal cycling (-10 °C to +50 °C), IP67 submersion, 1 m drop, and altitude simulation at 500 ft.</p>
 <div style="text-align: center;">
-  <img src="/assets/plane/18.jpg" alt="Battery discharge" style="width: 100%; max-height: 300px; object-fit: cover;">
+  <img src="/assets/plane/18.jpg" alt="Battery discharge" style="width: 100%; max-height: 400px; object-fit: cover;">
   <p>Figure 7. Battery discharge thermal test</p>
 </div>
 
