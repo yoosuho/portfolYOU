@@ -13,19 +13,44 @@ permalink: /pages/kuam/
 ## 1. Research Overview  
 This national research (3-1-2) aims to establish Korea’s first Type Certification (TC) for electric vertical takeoff and landing (eVTOL) aircraft. Rather than designing a new airframe from scratch, this research focuses on **modifying an existing aircraft** into a compliant Lift & Cruise-type platform. The work is being conducted in collaboration with the **Korea Institute of Aviation Safety Technology (KIAST)** to validate system performance and co-develop a Korean eVTOL certification framework.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-<img src="/assets/kuam/0.jpg" alt="3D model" height="200">
-<img src="/assets/kuam/1.jpg" alt="Blueprint" height="200">
-<img src="/assets/kuam/2.jpg" alt="OML evolution" height="200">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/0.jpg" alt="3D model" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 1. UAM TC candidate aircraft 3D CAD model.</p>
+  </div>
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/1.jpg" alt="Blueprint" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 2. Airframe blueprint drawing for TC application.</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/2.jpg" alt="OML evolution" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 3. Outer Mold Line (OML) evolution during structural iteration.</p>
+  </div>
 </div>
 
 ## 2. Research Motivation  
 eVTOL aircraft introduce unprecedented technical features, such as distributed electric propulsion (DEP), high-voltage battery systems, and full digital flight control. These innovations exceed the boundaries of existing airworthiness frameworks. This research addresses the global certification gap by developing Korea’s own regulatory pathway through real-world aircraft integration and validation.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-<img src="/assets/kuam/3.jpg" alt="CFD" height="200">
-<img src="/assets/kuam/4.jpg" alt="CG chart" height="200">
-<img src="/assets/kuam/5.jpg" alt="LV system" height="200">
+<!-- 2nd Row -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/3.jpg" alt="CFD" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 4. CFD analysis at AOA 14° showing lift distribution.</p>
+  </div>
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/4.jpg" alt="CG chart" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 5. Weight and CG distribution strategy for Lift & Cruise configuration.</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/5.jpg" alt="LV system" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 6. Low-voltage electrical system configuration.</p>
+  </div>
 </div>
 
 ## 3. Technical Objectives  
@@ -45,19 +70,45 @@ As a systems engineer and participating researcher, I contributed to:
 - Certification planning and CG compliance strategy  
 - Technical coordination with KIAST on requirement flow  
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-<img src="/assets/kuam/6.jpg" alt="DEP" height="200">
-<img src="/assets/kuam/7.jpg" alt="FCC layout" height="200">
-<img src="/assets/kuam/8.jpg" alt="Signal flow" height="200">
+<!-- 3rd Row -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/6.jpg" alt="DEP" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 7. Distributed electric propulsion system overview.</p>
+  </div>
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/7.jpg" alt="FCC layout" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 8. Flight control computer (FCC) layout and redundancy setup.</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/8.jpg" alt="Signal flow" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 9. Signal flow and powerline routing diagram.</p>
+  </div>
 </div>
 
 ## 5. Engineering Approach  
 The aircraft employs dual power buses, modular batteries, and a redundant FCC control system. Subsystem integration was validated against CG constraints and flight control logic was structured with failover paths. Wiring harness, EMC shielding, and signal routing were engineered based on system-level certification logic.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-<img src="/assets/kuam/9.jpg" alt="Energy system" height="200">
-<img src="/assets/kuam/10.jpg" alt="Assembly 1" height="200">
-<img src="/assets/kuam/11.jpg" alt="Assembly 2" height="200">
+<!-- 4th Row -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/9.jpg" alt="Energy system" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 10. High-voltage energy system schematic.</p>
+  </div>
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/10.jpg" alt="Assembly 1" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 11. Airframe system integration – phase 1.</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/11.jpg" alt="Assembly 2" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 12. Airframe system integration – phase 2.</p>
+  </div>
 </div>
 
 ## 6. Validation and Testing – Extended Dataset  
@@ -68,9 +119,16 @@ The aircraft employs dual power buses, modular batteries, and a redundant FCC co
 - CFD testing for aerodynamic and lift interference margins  
 - Physical integration review during ongoing **system integration and airframe assembly** under TC regulations
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between;">
-<img src="/assets/kuam/12.jpg" alt="Assembly 3" height="200">
-<img src="/assets/kuam/13.jpg" alt="Assembly 4" height="200">
+<!-- 5th Row -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/12.jpg" alt="Assembly 3" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 13. Rear fuselage module installation during assembly.</p>
+  </div>
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/13.jpg" alt="Assembly 4" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 14. Final integration of structural and electrical modules.</p>
+  </div>
 </div>
 
 ## 7. Research Outcomes  
