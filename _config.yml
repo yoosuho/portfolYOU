@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : SuHo Yu
 description         : >-
-                      I turn coffee :coffee: into code,
+                      SuHo :Portfolio: into code,
                       use tabs over spaces
                       and never broke production.
 baseurl: ""
@@ -82,8 +82,7 @@ author:
 # keybase           : your_username
 
 
-### Posts ###
-permalink: /blog/:title
+
 
 
 ### Collections ###
@@ -93,8 +92,10 @@ collections:
     permalink: /projects/:name
   elements:                                             # For Documentation Only
     output: true                                        # For Documentation Only
-
-
+  blog:
+    output: true
+    permalink: /blog/:name
+    
 ### Disqus ###
 disqus:
   shortname: your-short-name-disqus                     # Your website Shortname on disqus
