@@ -9,6 +9,9 @@ permalink: /blog/
 <div class="row row-cols-1 row-cols-md-2 g-4">
 
 
+<div class="row row-cols-1 row-cols-md-2 g-4">
+
+
   <!-- 8 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
@@ -54,6 +57,43 @@ permalink: /blog/
         <h5 class="card-title">“Onbogi”-based Intelligent Avionics Platform for Abnormal Detection and Response</h5>
         <p class="card-text">Developed modular flight software platform for anomaly detection and emergency recovery in UAM missions.</p>
         <a href="{{ site.baseurl }}/pages/AI/" class="btn btn-sm btn-outline-primary">View Project</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 12 -->
+  <div class="col">
+    <div class="card h-100 shadow-sm">
+      <img src="{{ site.baseurl }}/assets/CD200/10.jpg" class="card-img-top" alt="Hydrogen VTOL" style="height: 400px; object-fit: cover;">
+      <div class="card-body">
+        <h5 class="card-title">200 kg-class Payload VTOL Cargo Drone with Hydrogen Fuel Cell Power</h5>
+        <p class="card-text">Developed long-endurance VTOL cargo drone using hydrogen fuel cell with autonomous and BVLOS capabilities.</p>
+        <a href="{{ site.baseurl }}/pages/CD200/" class="btn btn-sm btn-outline-primary">View Project</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- 13 -->
+  <div class="col">
+    <div class="card h-100 shadow-sm">
+      <img src="{{ site.baseurl }}/assets/CD40/2.jpg" class="card-img-top" alt="40kg Drone System" style="height: 400px; object-fit: cover;">
+      <div class="card-body">
+        <h5 class="card-title">Development of a 40 kg-class Payload Transport Multirotor Drone System</h5>
+        <p class="card-text">Designed reliable delivery drone platform with modular payload mount and efficient multirotor architecture.</p>
+        <a href="{{ site.baseurl }}/pages/CD40/" class="btn btn-sm btn-outline-primary">View Project</a>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- 15 -->
+  <div class="col">
+    <div class="card h-100 shadow-sm">
+      <img src="{{ site.baseurl }}/assets/mvus/4.jpg" class="card-img-top" alt="UAV Maritime Monitoring" style="height: 400px; object-fit: cover;">
+      <div class="card-body">
+        <h5 class="card-title">UAV-based Maritime Safety and Illegal Fishing/Marine Ecosystem Management</h5>
+        <p class="card-text">Developed long-range drone for real-time maritime surveillance and data collection.</p>
+        <a href="{{ site.baseurl }}/pages/mvus/" class="btn btn-sm btn-outline-primary">View Project</a>
       </div>
     </div>
   </div>
