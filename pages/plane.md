@@ -11,12 +11,12 @@ permalink: /pages/plane/
 <p>
 This research marked a historic achievement: Korea's first successful flight of a manned, general aviation (GA)-class aircraft powered entirely by an in-house developed high-voltage battery system. The project encompassed the complete system development lifecycle—from cell characterization and thermal simulation to integration, environmental qualification, and real-world flight demonstration—serving as a foundational reference for Korea’s future airworthiness certification framework for electric propulsion.
   
-  <li> **Duration:** Apr 2020 – Dec 2023  
-  <li> **Funding:** Approx. 2.1M USD  
-  <li> **Lead Organization:** Korea Aerospace Research Institute (KARI) 
-  <li> **Participating Organizations:** AMOTECT, JNS, KETI, Vessel Aerospace, KATRA, Hanwha Aerospace, VSPACE
+- **Duration:** Apr 2020 – Dec 2023  
+- **Funding:** Approx. 2.1M USD  
+- **Lead Organization:** Korea Aerospace Research Institute (KARI) 
+- ** **Participating Organizations:** AMOTECT, JNS, KETI, Vessel Aerospace, KATRA, Hanwha Aerospace, VSPACE
   
-</p>
+---
 
 <h2>2. Research Motivation</h2>
 <p>
