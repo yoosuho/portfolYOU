@@ -4,11 +4,7 @@ layout: default
 permalink: /pages/kuam/
 ---
 
-<h1> Research and Development of a High-Power, High-Energy Battery System (250 Wh/kg-Class) for Electric Aviation </h1>
-
-
-
-# Urban Air Mobility (UAM) Type Certification Research (Task 3-1-2)
+<h1> Urban Air Mobility (UAM) Type Certification Research (Task 3-1-2) </h1>
 
 ## 1. Research Overview  
 This national research (3-1-2) aims to establish Korea’s first Type Certification (TC) for electric vertical takeoff and landing (eVTOL) aircraft. Rather than designing a new airframe from scratch, this research focuses on **modifying an existing aircraft** into a compliant Lift & Cruise-type platform. The work is being conducted in collaboration with the **Korea Institute of Aviation Safety Technology (KIAST)** to validate system performance and co-develop a Korean eVTOL certification framework.
