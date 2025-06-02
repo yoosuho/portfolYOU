@@ -100,14 +100,14 @@ The aircraft employs dual power buses, modular batteries, and a redundant FCC co
   </div>
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
     <img src="/assets/kuam/10.jpg" alt="Assembly 1" style="width: 100%; max-height: 300px; object-fit: cover;">
-    <p>Figure 11. Airframe system integration – phase 1.</p>
+    <p>Figure 11. Assembly – phase 1.</p>
   </div>
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
     <img src="/assets/kuam/11.jpg" alt="Assembly 2" style="width: 100%; max-height: 300px; object-fit: cover;">
-    <p>Figure 12. Airframe system integration – phase 2.</p>
+    <p>Figure 12. Assembly – phase 2.</p>
   </div>
 </div>
 
@@ -123,19 +123,18 @@ The aircraft employs dual power buses, modular batteries, and a redundant FCC co
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
     <img src="/assets/kuam/12.jpg" alt="Assembly 3" style="width: 100%; max-height: 300px; object-fit: cover;">
-    <p>Figure 13. Rear fuselage module installation during assembly.</p>
+    <p>Figure 13. Assembly.</p>
   </div>
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
     <img src="/assets/kuam/13.jpg" alt="Assembly 4" style="width: 100%; max-height: 300px; object-fit: cover;">
-    <p>Figure 14. Final integration of structural and electrical modules.</p>
+    <p>Figure 14.Assembly.</p>
   </div>
 </div>
 
-## 7. Research Outcomes  
+## 7. Research Outcomes  (ing)
 The research has reached the configuration freeze stage, and the team is currently progressing through **system integration and airframe manufacturing** in compliance with TC guidelines. Major outcomes to date include:
-- A complete electrical and control architecture for TC  
+- electrical and control architecture for TC  
 - CG-verified integration of energy and flight control systems  
-- Readiness for ground and flight demonstration  
 - Formal contribution to Korean eVTOL certification development
   
 ---
