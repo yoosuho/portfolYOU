@@ -24,7 +24,7 @@ permalink: /blog/
   <!-- 9 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/250wh/1.jpg" class="card-img-top" alt="Battery Packaging" style="height: 400px; object-fit: cover;">
+      <img src="{{ site.baseurl }}/assets/250wh/16.jpg" class="card-img-top" alt="Battery Packaging" style="height: 400px; object-fit: cover;">
       <div class="card-body">
         <h5 class="card-title">250 Wh/kg-class High-Power High-Density Battery Packaging Technology Development</h5>
         <p class="card-text">Designed next-gen battery pack for eVTOLs, balancing energy density, thermal stability, and structural integrity.</p>
