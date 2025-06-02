@@ -7,4 +7,4 @@ permalink: /elements/
 
 <h1> Resume Preview</h1>
 
-<embed src="{{ site.baseurl }}/assets/resume1.pdf" type="application/pdf" width="100%" height="1000px" />
+<embed src="{{ '/assets/resume1.pdf' | relative_url }}" type="application/pdf" width="100%" height="1000px" />
