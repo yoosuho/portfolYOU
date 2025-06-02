@@ -1,7 +1,7 @@
 ---
 layout: default
-title: blog
-permalink: /blog/
+title: elements
+permalink: /elements/
 ---
 
 <h2 class="mb-4">🚀 Projects</h2>
