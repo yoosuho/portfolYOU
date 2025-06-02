@@ -81,35 +81,35 @@ The global push for carbon-neutral aviation has prompted major initiatives aroun
 <p>The propulsion loop (battery-inverter-motor) was tested on the bench with throttle sweeps, regenerative braking, and fault injection scenarios.</p>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
-    <img src="/assets/plane/5.jpg" alt="Iron-bird 1" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <img src="/assets/plane/5.jpg" alt="Iron-bird 1" style="width: 100%; max-height: 500px; object-fit: cover;">
     <p>Figure 5. Iron-bird test setup</p>
   </div>
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
-    <img src="/assets/plane/6.jpg" alt="Iron-bird 2" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <img src="/assets/plane/6.jpg" alt="Iron-bird 2" style="width: 100%; max-height: 500px; object-fit: cover;">
     <p>Figure 6. Bench test with full loop</p>
   </div>
 </div>
 
 <h3>5.6 Environmental Qualification</h3>
 <p>DO-311-inspired tests were conducted: vibration (up to 8 g), thermal cycling (-10 °C to +50 °C), IP67 submersion, 1 m drop, and altitude simulation at 500 ft.</p>
-<div style="text-align: center;">
-  <img src="/assets/plane/18.jpg" alt="Battery discharge" style="width: 100%; max-height: 400px; object-fit: cover;">
+<div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+  <img src="/assets/plane/18.jpg" alt="Battery discharge" style="width: 100%; max-height: 500px; object-fit: cover;">
   <p>Figure 7. Battery discharge thermal test</p>
 </div>
 
 <h3>5.7 Airframe Integration and Taxi Test</h3>
 <p>Wiring, CAN routing, fuses, and kill switches were integrated with the KLA-100X airframe. Ground tests included throttle response, live telemetry, and emergency shutdown.</p>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 0 0 calc(33.33% - 10px); text-align: center;">
-    <img src="/assets/plane/7.jpg" alt="Battery install" style="width: 100%; max-height: 300px; object-fit: cover;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/plane/7.jpg" alt="Battery install" style="width: 100%; max-height: 500px; object-fit: cover;">
     <p>Figure 8. Battery module install</p>
   </div>
-  <div style="flex: 0 0 calc(33.33% - 10px); text-align: center;">
-    <img src="/assets/plane/8.jpg" alt="Wiring inspection" style="width: 100%; max-height: 300px; object-fit: cover;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/plane/8.jpg" alt="Wiring inspection" style="width: 100%; max-height: 500px; object-fit: cover;">
     <p>Figure 9. Battery wiring check</p>
   </div>
-  <div style="flex: 0 0 calc(33.33% - 10px); text-align: center;">
-    <img src="/assets/plane/9.jpg" alt="Pre-taxi" style="width: 100%; max-height: 300px; object-fit: cover;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/plane/9.jpg" alt="Pre-taxi" style="width: 100%; max-height: 500px; object-fit: cover;">
     <p>Figure 10. Ground inspection</p>
   </div>
 </div>
@@ -117,16 +117,16 @@ The global push for carbon-neutral aviation has prompted major initiatives aroun
 <h3>5.8 Manned Flight Test</h3>
 <p>The aircraft successfully performed Korea’s first electric-powered manned flight. BMS balancing remained within 15 mV. Cruise load was ~32 kW. Max discharge was 230 A.</p>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 0 0 calc(33.33% - 10px); text-align: center;">
-    <img src="/assets/plane/10.jpg" alt="Pre-flight" style="width: 100%; max-height: 300px; object-fit: cover;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/plane/10.jpg" alt="Pre-flight" style="width: 100%; max-height: 500px; object-fit: cover;">
     <p>Figure 11. Final check before flight</p>
   </div>
-  <div style="flex: 0 0 calc(33.33% - 10px); text-align: center;">
-    <img src="/assets/plane/11.jpg" alt="In-flight" style="width: 100%; max-height: 300px; object-fit: cover;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/plane/11.jpg" alt="In-flight" style="width: 100%; max-height: 500px; object-fit: cover;">
     <p>Figure 12. Actual flight</p>
   </div>
-  <div style="flex: 0 0 calc(33.33% - 10px); text-align: center;">
-    <img src="/assets/plane/12.jpg" alt="Team photo" style="width: 100%; max-height: 300px; object-fit: cover;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/plane/12.jpg" alt="Team photo" style="width: 100%; max-height: 500px; object-fit: cover;">
     <p>Figure 13. Commemorative photo</p>
   </div>
 </div>
