@@ -42,7 +42,7 @@ In the rapidly evolving UAM industry, operational safety is one of the most crit
 
 <h2>4. My Contributions</h2>
 <p>
-I am currently leading the system-level design and technical direction of this national R&D project. My responsibilities include defining safety and functional requirements, overseeing the modular FACE-based architecture, managing subsystem integration, and coordinating industry and research partners to prepare for real vehicle testing. I have also taken charge of modeling fault trees, designing fallback control strategies, and establishing the test pipeline through simulation and hardware bench configurations.
+I am currently leading the system-level design and technical direction of this national R&D project. My responsibilities include defining safety and functional requirements, overseeing the modular FACE-based architecture, managing subsystem integration, and coordinating industry and research partners to prepare for real vehicle testing.
 </p>
 
 <h2>5. Engineering Approach</h2>
@@ -86,7 +86,7 @@ Real-time telemetry, system logs, and motor behavior are continuously recorded. 
   </div>
 </div>
 
-<h2>8. Applied Product</h2>
+<h2>8. expectation effectiveness</h2>
 <p>
 The platform is currently undergoing integration with a custom-built UAM prototype based on a single-seat multicopter configuration. Laboratory testing is being conducted in a tethered flight setup with injected emergency cases. Real-world flight demonstrations are planned for the upcoming test campaign under the Korean UAM Grand Challenge framework.
 </p>
