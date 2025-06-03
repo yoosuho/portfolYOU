@@ -14,7 +14,6 @@ permalink: /pages/mvus/
 - **Lead Organization:** Vessel Aerospace 
 - **Participating Organizations:** Korea Coast Guard, Seoyoung System, S&T, Seoul National University (and others) 
 - **Client Organization:** Korea Coast Guard 
----
 
 
 
