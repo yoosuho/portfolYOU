@@ -6,8 +6,8 @@ permalink: /pages/ups/
 
 <h1>Replacement Development of a UPS System</h1>
 
-<p><strong>Project Duration:</strong> January 1, 2022 – December 30, 2024<br>
-<strong>Lead Organization:</strong> JNS<br>
+<p><strong>Project Duration:</strong> January 1, 2022 – December 30, 2023<br>
+<strong>Buyer:</strong> JNS<br>
 <strong>Role:</strong> Lead for Battery System Design, Manufacturing, and Validation</p>
 
 <hr>
