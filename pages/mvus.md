@@ -4,20 +4,6 @@ layout: default
 permalink: /pages/mvus/
 ---
 
-<head>
-  <meta charset="UTF-8">
-  <title>Hybrid Battery System Research for VTOL UAV</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 1000px; margin: auto; padding: 40px; }
-    h1, h2 { color: #003366; }
-    img { max-width: 100%; height: auto; border: 1px solid #ccc; }
-    .grid { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
-    .grid > div { width: 48%; text-align: center; }
-    em { font-size: 0.9em; color: #555; }
-  </style>
-</head>
-<body>
-
 <h1>Hybrid Battery System Research for VTOL UAV</h1>
 
 <h2>1. Research Overview</h2>
