@@ -42,7 +42,7 @@ In the rapidly evolving UAM industry, operational safety is one of the most crit
 
 <h2>4. My Contributions</h2>
 <p>
-As the Principal Investigator, I am currently leading the system-level design and technical direction of this national R&D project. My responsibilities include defining safety and functional requirements, overseeing the modular FACE-based architecture, managing subsystem integration, and coordinating industry and research partners to prepare for real vehicle testing. I have also taken charge of modeling fault trees, designing fallback control strategies, and establishing the test pipeline through simulation and hardware bench configurations.
+I am currently leading the system-level design and technical direction of this national R&D project. My responsibilities include defining safety and functional requirements, overseeing the modular FACE-based architecture, managing subsystem integration, and coordinating industry and research partners to prepare for real vehicle testing. I have also taken charge of modeling fault trees, designing fallback control strategies, and establishing the test pipeline through simulation and hardware bench configurations.
 </p>
 
 <h2>5. Engineering Approach</h2>
