@@ -3,6 +3,15 @@ title: "Development of a High-Efficiency, Low-Emission Multi-Channel Electric Dr
 layout: default
 permalink: /pages/gr/
 ---
+
+
+
+
+<h1> Research Multi-Channel High-Efficiency Low-Emission e-PTO Module Development for Specialty Vehicles </h1>
+
+
+
+
 <h2>1. Research Overview</h2>
 <p>
 This project, led by <strong>Kwanglim Co., Ltd.</strong>, aimed to develop a <strong>multi-channel electric Power Take-Off (e-PTO)</strong> system applicable to commercial special-purpose vehicles such as dump trucks and cranes.
