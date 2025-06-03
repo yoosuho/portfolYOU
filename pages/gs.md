@@ -12,7 +12,7 @@ permalink: /pages/gs/
 
 <hr>
 
-<h2>🔧 Project Overview</h2>
+<h2> Project Overview</h2>
 <p>
 Korea’s logistics industry lacked electrified refrigeration systems for trucks larger than 1 ton. This project tackled that gap by designing an independent, high-voltage battery system capable of powering a 5-ton class refrigerated truck over long distances without relying on the vehicle’s internal combustion engine.
 </p>
