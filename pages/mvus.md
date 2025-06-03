@@ -4,50 +4,127 @@ layout: default
 permalink: /pages/mvus/
 ---
 
-<h1>🌊 UAV-based Maritime Safety and Ecosystem Battery System</h1>
+<head>
+  <meta charset="UTF-8">
+  <title>Hybrid Battery System Research for VTOL UAV</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; max-width: 1000px; margin: auto; padding: 40px; }
+    h1, h2 { color: #003366; }
+    img { max-width: 100%; height: auto; border: 1px solid #ccc; }
+    .grid { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; }
+    .grid > div { width: 48%; text-align: center; }
+    em { font-size: 0.9em; color: #555; }
+  </style>
+</head>
+<body>
 
-<p><strong>Project Duration:</strong> November 1, 2021 – December 31, 2023<br>
-<strong>Lead Organization:</strong> Vessel Aerospace<br>
-<strong>Role:</strong> Lead Battery System Design, Manufacturing, and Validation</p>
+<h1>Hybrid Battery System Research for VTOL UAV</h1>
 
-<hr>
+<h2>1. Research Overview</h2>
+<p>This research was conducted as a national project initiated by the Korea Coast Guard, led by Vessel Aerospace. The project aimed to design and validate a hybrid battery system integrated into a VTOL UAV platform.</p>
 
-<h2>🔧 Project Overview</h2>
-<p>
-This national maritime surveillance initiative required a next-generation UAV platform equipped with a hybrid battery system that could support high-discharge propulsion and allow in-flight charging from onboard gas turbine generators. The aircraft was intended to support wide-area oceanic monitoring for illegal fishing detection and ecosystem management.
-</p>
+<h2>2. Research Motivation</h2>
+<p>Conventional UAVs lack in-flight recharging capability. To meet Korea Coast Guard’s maritime mission needs, we explored a hybrid system with turbine-powered energy recovery and high-discharge battery support (>15C).</p>
 
-<p>
-As the battery system lead, I was responsible for designing and validating a high-rate, high-density battery pack architecture tailored for VTOL UAV integration and parallel energy input from turbine-generated power.
-</p>
-
-<h2>🧠 My Contributions</h2>
+<h2>3. Technical Objectives</h2>
 <ul>
-  <li>Designed modular battery systems with >170 Wh/kg energy density and >15C continuous discharge capability</li>
-  <li>Developed thermal management, EMI shielding, and vibration isolation designs</li>
-  <li>Oversaw fabrication and functional integration with UAV architecture</li>
-  <li>Supported full-scale lab testing and environmental validation</li>
+  <li>Design 14s high-rate lithium-ion battery pack</li>
+  <li>Enable turbine-powered in-flight charging</li>
+  <li>Develop parallel input architecture</li>
+  <li>Design for thermal safety and insulation</li>
 </ul>
 
-<h2>📈 Outcomes</h2>
+<h2>4. My Contributions</h2>
 <ul>
-  <li>Enabled real-time power supplementation using turbine-generated energy</li>
-  <li>Achieved operational readiness for long-endurance UAV deployment in coastal missions</li>
-  <li>Established design architecture suitable for future gas-electric hybrid UAV platforms</li>
+  <li>Led entire battery system architecture and layout</li>
+  <li>Performed cell testing and BMS firmware development</li>
+  <li>Implemented modular design and parallel interfaces</li>
 </ul>
 
-<h2>🖼️ Gallery</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
-  <img src="{{ site.baseurl }}/assets/mvus/0.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/mvus/1.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/mvus/2.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/mvus/3.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/mvus/4.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/mvus/5.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/mvus/6.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/mvus/7.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/mvus/8.jpg" style="width: 100%; height: 250px; object-fit: cover;">
+<div class="grid">
+  <div>
+    <img src="/assets/mvus/2.jpg" alt="Battery System View 1">
+    <p><em>Figure 1. Completed 14s battery system with protective enclosure.</em></p>
+  </div>
+  <div>
+    <img src="/assets/mvus/3.jpg" alt="Battery System View 2">
+    <p><em>Figure 2. Internal modular layout with EMI shielding.</em></p>
+  </div>
 </div>
 
+<h2>5. Engineering Approach</h2>
+<p>The battery and BMS were physically separated in the UAV due to thermal and EMI considerations. I designed a distributed layout with EMI shielding and reinforced insulation structures.</p>
+
+<div class="grid">
+  <div>
+    <img src="/assets/mvus/4.jpg" alt="Battery System View 3">
+    <p><em>Figure 3. Output terminals and interconnect busbar layout.</em></p>
+  </div>
+  <div>
+    <img src="/assets/mvus/5.jpg" alt="Battery System View 4">
+    <p><em>Figure 4. Assembled pack with structural supports and safety layers.</em></p>
+  </div>
+</div>
+
+<div class="grid">
+  <div>
+    <img src="/assets/mvus/6.jpg" alt="Battery Install">
+    <p><em>Figure 5. Pack installation into fuselage cavity.</em></p>
+  </div>
+  <div>
+    <img src="/assets/mvus/7.jpg" alt="Final Assembly">
+    <p><em>Figure 6. Final assembly with completed harness routing.</em></p>
+  </div>
+</div>
+
+<div class="grid">
+  <div>
+    <img src="/assets/mvus/8.jpg" alt="BMS Interface">
+    <p><em>Figure 7. BMS interface showing sensor routing and logic lines.</em></p>
+  </div>
+  <div>
+    <img src="/assets/mvus/9.jpg" alt="UAV CAD Model">
+    <p><em>Figure 8. UAV CAD model showing internal subsystem layout.</em></p>
+  </div>
+</div>
+
+<h2>6. Validation and Testing – Extended Dataset</h2>
+<p>Validation included Iron Bird ground simulation and tethered hover trials with turbine-charging and battery fallback under failure scenarios.</p>
+
+<div class="grid">
+  <div>
+    <img src="/assets/mvus/0.jpg" alt="Ironbird Test 1">
+    <p><em>Figure 9. Iron Bird integration setup for real-time system simulation.</em></p>
+  </div>
+  <div>
+    <img src="/assets/mvus/1.jpg" alt="Ironbird Test 2">
+    <p><em>Figure 10. Full system testbed with active BMS control interface.</em></p>
+  </div>
+</div>
+
+<div class="grid">
+  <div>
+    <img src="/assets/mvus/10.jpg" alt="Tethered Test 1">
+    <p><em>Figure 11. Pre-hover test with tether safety system.</em></p>
+  </div>
+  <div>
+    <img src="/assets/mvus/11.jpg" alt="Tethered Test 2">
+    <p><em>Figure 12. Hover test verifying flight continuity and fallback modes.</em></p>
+  </div>
+</div>
+
+<h2>7. Research Outcomes</h2>
+<ul>
+  <li>Verified high-current operation and in-flight charging functionality</li>
+  <li>Validated safety logic and redundancy through simulation and field tests</li>
+</ul>
+
+<h2>8. Applied Product</h2>
+<p>The system is flight-proven, scalable, and applicable to next-gen UAVs, USVs, and hybrid platforms needing endurance and safe redundancy.</p>
+
+</body>
+</html>
 <hr>
+
+
 <p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
