@@ -99,8 +99,8 @@ permalink: /projects/
     <div class="card h-100 shadow-sm">
       <img src="{{ site.baseurl }}/assets/gs/11.jpg" class="card-img-top" alt="Hybrid Refrigerated Truck" style="height: 400px; object-fit: cover;">
       <div class="card-body">
-        <h5 class="card-title">Development of a Hybrid Refrigeration System and Integrated Refrigerated Body for a 5‑ton Truck</h5>
-        <p class="card-text">Engineered hybrid cooling unit with modular control for long-haul logistics vehicles.</p>
+        <h5 class="card-title">Battery System for 5‑Ton Long-Haul Electric Refrigerated Trucks</h5>
+        <p class="card-text">Designed a high-capacity, thermally managed lithium-ion battery system for 5-ton long-haul electric refrigerated trucks, ensuring extended range, safety, and reliable performance under heavy-load conditions.</p>
         <a href="{{ site.baseurl }}/pages/gs/" class="btn btn-sm btn-outline-primary">View Project</a>
       </div>
     </div>
@@ -110,8 +110,8 @@ permalink: /projects/
   <div class="card h-100 shadow-sm">
     <img src="{{ site.baseurl }}/assets/ups/0.jpg" class="card-img-top" alt="UPS System for Fire Control" style="height: 400px; object-fit: cover;">
     <div class="card-body">
-      <h5 class="card-title">Replacement Development of a UPS System for Fire Control Devices</h5>
-      <p class="card-text">Redesigned the uninterruptible power supply (UPS) system used in fire suppression control units to enhance energy reliability and minimize switching delay.</p>
+      <h5 class="card-title">Replacement Development of a UPS System</h5>
+      <p class="card-text">Developed a reliable, modular UPS system with real-time monitoring to replace outdated industrial units.</p>
       <a href="{{ site.baseurl }}/pages/ups/" class="btn btn-sm btn-outline-primary">View Project</a>
     </div>
   </div>
@@ -123,8 +123,8 @@ permalink: /projects/
     <div class="card h-100 shadow-sm">
       <img src="{{ site.baseurl }}/assets/image_15.jpg" class="card-img-top" alt="Battery System for AAM" style="height: 400px; object-fit: cover;">
       <div class="card-body">
-        <h5 class="card-title">Development of a Battery Power System for a 4‑Seater AAM Aircraft</h5>
-        <p class="card-text">Designed high-voltage battery system architecture with redundant safety features and certification pathway.</p>
+        <h5 class="card-title">Development of Avionics Battery System for 1.5-ton Class AAM</h5>
+        <p class="card-text">Designed and built a high-reliability battery system dedicated to avionics power in 1.5-ton class Advanced Air Mobility (AAM) aircraft, ensuring redundancy, safety, and stable operation under aerospace standards.</p>
         <a href="{{ site.baseurl }}/pages/lig/" class="btn btn-sm btn-outline-primary">View Project</a>
       </div>
     </div>
