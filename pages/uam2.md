@@ -38,7 +38,7 @@ The goal was to redesign the system architecture to support localization of comp
   <li>Established foundation for type certification pathway</li>
 </ul>
 
-<h2>🖼️ Gallery</h2>
+<h2> Gallery</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
 
   <!-- Modeling & CG (0-1) -->
