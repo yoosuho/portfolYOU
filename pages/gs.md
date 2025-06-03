@@ -7,7 +7,7 @@ permalink: /pages/gs/
 <h1> Battery System for 5‑Ton Long-Haul Electric Refrigerated Trucks</h1>
 
 <p><strong>Project Duration:</strong> August 2023 – April 2024<br>
-<strong>Lead Organization:</strong> GS Global<br>
+<strong>Buyer:</strong> GS Global<br>
 <strong>Role:</strong> Lead Battery System Design, Manufacturing, and Testing</p>
 
 <hr>
