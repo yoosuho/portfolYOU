@@ -12,7 +12,7 @@ permalink: /pages/Abda/
 
 <hr>
 
-<h2>🔧 Project Overview</h2>
+<h2>  Project Overview</h2>
 <p>
 As part of the DRIFTx Smart & Autonomous Mobility showcase held in Abu Dhabi, this project featured the first international field demonstration of Korea’s manned eVTOL platform outside national airspace. The event brought together advanced mobility innovators from across the globe under direct coordination with the UAE government.
 </p>
