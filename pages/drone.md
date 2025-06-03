@@ -11,7 +11,7 @@ permalink: /pages/drone/
 
 <hr>
 
-<h2>🔧 Project Overview</h2>
+<h2> Project Overview</h2>
 <p>
 This project focuses on the development of a heavy-lift X8 multicopter drone with a maximum takeoff weight (MTOW) of 225 kg and a payload capacity of 100 kg. Unlike conventional multicopters, this platform is designed to tolerate single-propeller failure while maintaining controlled flight, enabling safe deployment in high-risk delivery and logistics environments.
 </p>
