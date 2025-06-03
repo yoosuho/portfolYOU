@@ -87,7 +87,7 @@ permalink: /blog/
   <!-- 13 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/CD40/2.jpg" class="card-img-top" alt="40kg Drone System" style="height: 400px; object-fit: cover;">
+      <img src="{{ site.baseurl }}/assets/CD40/1.jpg" class="card-img-top" alt="40kg Drone System" style="height: 400px; object-fit: cover;">
       <div class="card-body">
         <h5 class="card-title">Development of a 40 kg-class Payload Transport Multirotor Drone System</h5>
         <p class="card-text">Designed reliable delivery drone platform with modular payload mount and efficient multirotor architecture.</p>
