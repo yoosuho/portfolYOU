@@ -37,81 +37,97 @@ permalink: /pages/mvus/
   <li>Proposed and implemented layout that separated battery pack from BMS while maintaining minimal latency and EMI protection</li>
 </ul>
 
-<div class="grid">
-  <div>
-    <img src="/assets/mvus/2.jpg" alt="Battery System View 1">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/2.jpg" alt="Battery System View 1" style="width: 100%; height: auto;">
     <p><em>Figure 1. Completed 14s battery system with protective enclosure.</em></p>
   </div>
-  <div>
-    <img src="/assets/mvus/3.jpg" alt="Battery System View 2">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/3.jpg" alt="Battery System View 2" style="width: 100%; height: auto;">
     <p><em>Figure 2. Internal modular layout with EMI shielding.</em></p>
   </div>
 </div>
+
+
 
 <h2>5. Engineering Approach</h2>
 <p>The power system architecture required significant adaptations due to the unusual mix of power input sources. We adopted a hybrid topology that allowed both the battery and the microturbine generator to share load responsibilities based on real-time power demand. To minimize resistance and manage EMI within this dynamic system, we designed short, thick copper busbars, carefully routed shielded signal lines, and fused protection mechanisms.
 Thermal modeling was conducted to anticipate worst-case heat buildup inside the fuselage. The final design included phase-change thermal pads and aluminum casing with internal airflow routing for heat dispersion. Given that system voltage was locked at 14s for compatibility with avionics, high currents were inevitable; this required conservative cell spacing and additional dielectric layering.</p>
 
 
-<div class="grid">
-  <div>
-    <img src="/assets/mvus/4.jpg" alt="Battery System View 3">
+<!-- Row 1 -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/4.jpg" alt="Battery System View 3" style="width: 100%; height: auto;">
     <p><em>Figure 3. Output terminals and interconnect busbar layout.</em></p>
   </div>
-  <div>
-    <img src="/assets/mvus/5.jpg" alt="Battery System View 4">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/5.jpg" alt="Battery System View 4" style="width: 100%; height: auto;">
     <p><em>Figure 4. Assembled pack with structural supports and safety layers.</em></p>
   </div>
 </div>
 
-<div class="grid">
-  <div>
-    <img src="/assets/mvus/6.jpg" alt="Battery Install">
+<!-- Row 2 -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/6.jpg" alt="Battery Install" style="width: 100%; height: auto;">
     <p><em>Figure 5. Pack installation into fuselage cavity.</em></p>
   </div>
-  <div>
-    <img src="/assets/mvus/7.jpg" alt="Final Assembly">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/7.jpg" alt="Final Assembly" style="width: 100%; height: auto;">
     <p><em>Figure 6. Final assembly with completed harness routing.</em></p>
   </div>
 </div>
 
-<div class="grid">
-  <div>
-    <img src="/assets/mvus/8.jpg" alt="BMS Interface">
+<!-- Row 3 -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/8.jpg" alt="BMS Interface" style="width: 100%; height: auto;">
     <p><em>Figure 7. BMS interface showing sensor routing and logic lines.</em></p>
   </div>
-  <div>
-    <img src="/assets/mvus/9.jpg" alt="UAV CAD Model">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/9.jpg" alt="UAV CAD Model" style="width: 100%; height: auto;">
     <p><em>Figure 8. UAV CAD model showing internal subsystem layout.</em></p>
   </div>
 </div>
+
+
 
 <h2>6. Validation and Testing – Extended Dataset</h2>
 <p>System-level testing was performed on a custom-built Iron Bird platform that emulated the UAV’s electrical architecture. This included tests for over-discharge, sudden load spikes, turbine charging transitions, and full system restarts. Data was collected through CAN logging and high-frequency current probes.
 Final validation involved tethered hover trials where the UAV operated with turbine charging enabled. Emergency fallback scenarios were induced by throttling down the turbine mid-flight to verify battery-only continuation.</p>
 
 
-<div class="grid">
-  <div>
-    <img src="/assets/mvus/0.jpg" alt="Ironbird Test 1">
+
+
+<!-- Row 4 -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/0.jpg" alt="Ironbird Test 1" style="width: 100%; height: auto;">
     <p><em>Figure 9. Iron Bird integration setup for real-time system simulation.</em></p>
   </div>
-  <div>
-    <img src="/assets/mvus/1.jpg" alt="Ironbird Test 2">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/1.jpg" alt="Ironbird Test 2" style="width: 100%; height: auto;">
     <p><em>Figure 10. Full system testbed with active BMS control interface.</em></p>
   </div>
 </div>
 
-<div class="grid">
-  <div>
-    <img src="/assets/mvus/10.jpg" alt="Tethered Test 1">
+<!-- Row 5 -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/10.jpg" alt="Tethered Test 1" style="width: 100%; height: auto;">
     <p><em>Figure 11. Pre-hover test with tether safety system.</em></p>
   </div>
-  <div>
-    <img src="/assets/mvus/11.jpg" alt="Tethered Test 2">
+  <div style="flex: 0 0 48%;">
+    <img src="/assets/mvus/11.jpg" alt="Tethered Test 2" style="width: 100%; height: auto;">
     <p><em>Figure 12. Hover test verifying flight continuity and fallback modes.</em></p>
   </div>
 </div>
+
+
+
+
+
 
 <h2>7. Research Outcomes</h2>
 <ul>
