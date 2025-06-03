@@ -4,11 +4,11 @@ layout: default
 permalink: /pages/AI/
 ---
 
-<h1>Development of an Intelligent Onboard Avionics Software Platform for Emergency Detection and Response in Urban Air Mobility (UAM)</h1>
+<h1>Development of an Intelligent Onboard Avionics Software Platform for Emergency Detection and Response in Urban Air Mobility (UAM) – Research</h1>
 
 <h2>1. Research Overview</h2>
 <p>
-This project aims to develop an intelligent, onboard avionics software platform for Urban Air Mobility (UAM) vehicles that can autonomously detect, assess, and respond to abnormal or emergency flight conditions. The system is being designed in compliance with the FACE (Future Airborne Capability Environment) standard, enabling high modularity, portability, and safety. Development is currently ongoing in its second year, with architectural design completed and progressive implementation underway.
+This research aims to develop an intelligent, onboard avionics software platform for Urban Air Mobility (UAM) vehicles that can autonomously detect, assess, and respond to abnormal or emergency flight conditions. The system is being designed in compliance with the FACE (Future Airborne Capability Environment) standard, enabling high modularity, portability, and safety. Development is currently ongoing in its second year, with architectural design completed and progressive implementation underway.
 </p>
 <p><strong>Research Duration:</strong> April 2024 – December 2027<br>
 <strong>Lead Organization:</strong> VSPACE<br>
@@ -32,12 +32,12 @@ In the rapidly evolving UAM industry, operational safety is one of the most crit
 
 <h2>3. Technical Objectives</h2>
 <ul>
-  <li>Design a FACE-compliant avionics software architecture optimized for UAM platforms</li>
+  <li>Research and design a FACE-compliant avionics software architecture optimized for UAM platforms</li>
   <li>Implement real-time monitoring of flight-critical sensors and actuators</li>
   <li>Develop fault detection and classification algorithms for abnormal flight events</li>
   <li>Integrate emergency decision-making logic</li>
-  <li>Validate the platform using SIL and HIL simulations</li>
-  <li>Prepare the system for actual UAM aircraft integration</li>
+  <li>Research and validate the platform using SIL and HIL simulations</li>
+  <li>Research and prepare the system for actual UAM aircraft integration</li>
 </ul>
 
 <h2>4. My Contributions</h2>
@@ -70,10 +70,10 @@ Real-time telemetry, system logs, and motor behavior are continuously recorded. 
 
 <h2>7. Research Outcomes</h2>
 <ul>
-  <li>Development of a modular, FACE-standard compliant avionics software platform tailored to emergency response needs</li>
-  <li>Construction of a complete SIL/HIL validation bench with repeatable emergency scenario injection</li>
-  <li>Deployment of core detection modules into a multicopter hardware testbed under simulated rotor failure</li>
-  <li>Published interface specifications for multi-partition architecture to ensure long-term scalability and certification readiness</li>
+  <li>Research outcome: development of a modular, FACE-standard compliant avionics software platform tailored to emergency response needs</li>
+  <li>Research outcome: construction of a complete SIL/HIL validation bench with repeatable emergency scenario injection</li>
+  <li>Research outcome: deployment of core detection modules into a multicopter hardware testbed under simulated rotor failure</li>
+  <li>Research outcome: published interface specifications for multi-partition architecture to ensure long-term scalability and certification readiness</li>
 </ul>
 <div style="display: flex; gap: 20px; margin: 20px 0;">
   <div style="flex: 1;">
@@ -99,6 +99,7 @@ Software modules are deployed in a redundant computing container environment. Ea
     <p style="font-size: 0.9em;">Figure 7. Full autonomy stack integrating perception, planning, and control modules, aligned with our modular avionics interface structure.</p>
   </div>
 </div>
+
 
 <hr>
 <p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
