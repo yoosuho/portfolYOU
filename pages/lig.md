@@ -4,36 +4,36 @@ layout: default
 permalink: /pages/lig/
 ---
 
-<h1>  Development of a Battery Power System for a 4‑Seater AAM Aircraft</h1>
+<h1>Development of an Avionics Battery System for a 1.5‑Ton Class AAM Aircraft</h1>
 
-<p><strong>Project Duration:</strong> May 1, 2023 – November 30, 2024<br>
+<p><strong>Project Duration:</strong> August 1, 2023 – December 31, 2024<br>
 <strong>Lead Organization:</strong> LIG Nex1<br>
-<strong>Role:</strong> Lead Battery System Design, Manufacturing, and Validation</p>
+<strong>Role:</strong> System Architecture, Pack Development, and Flight-Grade Reliability Verification</p>
 
 <hr>
 
-<h2>  Project Overview</h2>
+<h2>Project Overview</h2>
 <p>
-This national initiative marked a major leap from 1–2 seater experimental eVTOL platforms to scalable systems for a 4-seater Advanced Air Mobility (AAM) aircraft. The project aimed to localize, design, and validate a high-safety, high-energy battery system with commercialization readiness for the next-generation AAM sector.
+This project focused on the development of a dedicated avionics battery system for a 1.5-ton class Advanced Air Mobility (AAM) aircraft, addressing the critical need for redundancy, fail-safe operation, and electrical stability in flight-critical subsystems. The system was designed to meet aerospace-grade reliability and safety requirements for next-generation AAM platforms.
 </p>
 
 <p>
-My leadership encompassed the entire battery system lifecycle: architecture, pack manufacturing, safety validation, and compliance with aviation-grade reliability expectations.
+My work involved leading the system architecture and ensuring seamless integration with the aircraft’s avionics environment, with an emphasis on modularity, thermal protection, and in-flight operational continuity.
 </p>
 
-<h2>  My Contributions</h2>
+<h2>My Contributions</h2>
 <ul>
-  <li>Defined requirements and design goals for 4-seater AAM battery system</li>
-  <li>Oversaw cell selection, pack architecture, and integrated safety mechanisms</li>
-  <li>Led all compliance documentation and supported third-party verification</li>
-  <li>Facilitated system-level design reviews with OEM partners and defense primes</li>
+  <li>Designed a fault-tolerant battery system architecture for avionics-only power delivery</li>
+  <li>Selected and validated high-reliability cells with embedded protection logic</li>
+  <li>Led pack fabrication, environmental testing, and EMI/EMC resilience verification</li>
+  <li>Managed documentation and validation aligned with aerospace standards</li>
 </ul>
 
-<h2>  Outcomes</h2>
+<h2>Outcomes</h2>
 <ul>
-  <li>Achieved step-change in scalability for AAM battery platform architecture</li>
-  <li>Generated full technical specifications, safety documents, and system drawings</li>
-  <li>Contributed to Korea’s roadmap for commercial AAM readiness and high-density airborne energy systems</li>
+  <li>Delivered a fully integrated avionics power system with flight-grade redundancy</li>
+  <li>Validated thermal and electrical stability under simulated flight conditions</li>
+  <li>Strengthened Korea’s AAM infrastructure with avionics-level battery technology</li>
 </ul>
 
 <h2>Gallery</h2>
