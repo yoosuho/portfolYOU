@@ -10,7 +10,7 @@ permalink: /pages/mvus/
 <p>This research was conducted as part of a national initiative led by the Korea Coast Guard and Vessel Aerospace. It focused on developing a scalable hybrid battery system suitable for VTOL UAVs performing long-endurance maritime missions such as illegal fishing surveillance and ecological monitoring. The system was required to deliver both high peak current for takeoff and endurance charging via onboard turbine generators during flight. The project lasted from November 2021 to December 2023 and involved multi-disciplinary collaboration across system design, control electronics, and validation engineering.</p>
 
 - **Duration:** Apr 2021 – Dec 2023  
-- **Funding:** Approx. 3.2M USD  
+- **Funding:** Approx. 18M USD  
 - **Lead Organization:** Vessel Aerospace 
 - **Participating Organizations:** Korea Coast Guard, Seoyoung System, S&T, Seoul National University (and others) 
 - **Client Organization:** Korea Coast Guard 
