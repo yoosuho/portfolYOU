@@ -69,6 +69,21 @@ permalink: /blog/
     </div>
   </div>
 
+  <!-- 12 -->
+  <div class="col">
+    <div class="card h-100 shadow-sm">
+      <img src="{{ site.baseurl }}/assets/gr/0.jpg" class="card-img-top" alt="Hydrogen VTOL" style="height: 400px; object-fit: cover;">
+      <div class="card-body">
+        <h5 class="card-title">Research Multi-Channel High-Efficiency Low-Emission e-PTO Module Development for Specialty Vehicles</h5>
+        <p class="card-text">The research focused on developing a multi-channel electric power take-off (e-PTO) module for commercial specialty vehicles</p>
+        <a href="{{ site.baseurl }}/pages/gr/" class="btn btn-sm btn-outline-primary">View Research</a>
+      </div>
+    </div>
+  </div>
+
+
+
+
   <!-- 13 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
