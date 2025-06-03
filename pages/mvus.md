@@ -7,24 +7,35 @@ permalink: /pages/mvus/
 <h1>Hybrid Battery System Research for VTOL UAV</h1>
 
 <h2>1. Research Overview</h2>
-<p>This research was conducted as a national project initiated by the Korea Coast Guard, led by Vessel Aerospace. The project aimed to design and validate a hybrid battery system integrated into a VTOL UAV platform.</p>
+<p>This research was conducted as part of a national initiative led by the Korea Coast Guard and Vessel Aerospace. It focused on developing a scalable hybrid battery system suitable for VTOL UAVs performing long-endurance maritime missions such as illegal fishing surveillance and ecological monitoring. The system was required to deliver both high peak current for takeoff and endurance charging via onboard turbine generators during flight. The project lasted from November 2021 to December 2023 and involved multi-disciplinary collaboration across system design, control electronics, and validation engineering.</p>
+
+- **Duration:** Apr 2021 – Dec 2023  
+- **Funding:** Approx. 3.2M USD  
+- **Lead Organization:** Vessel Aerospace 
+- **Participating Organizations:** Korea Coast Guard, Seoyoung System, S&T, Seoul National University (and others) 
+- **Client Organization:** Korea Coast Guard 
+---
+
+
 
 <h2>2. Research Motivation</h2>
-<p>Conventional UAVs lack in-flight recharging capability. To meet Korea Coast Guard’s maritime mission needs, we explored a hybrid system with turbine-powered energy recovery and high-discharge battery support (>15C).</p>
+<p>Typical electric UAV platforms are limited by their reliance on battery-only energy storage, which constrains flight range and duration. For long-range maritime surveillance operations—particularly those involving the Korean coastline and EEZ (Exclusive Economic Zone)—extended operation time is critical. This research was motivated by the need to combine the high instantaneous power of lithium-ion batteries with the long-duration capacity of gas turbine power generation, forming a redundant and mission-flexible energy system. The unique operational demand of this UAV required the battery to not only provide up to 18C discharge during takeoff, but also absorb energy inflow safely during cruise phases when turbine-generated charging is enabled</p>
 
 <h2>3. Technical Objectives</h2>
 <ul>
-  <li>Design 14s high-rate lithium-ion battery pack</li>
-  <li>Enable turbine-powered in-flight charging</li>
-  <li>Develop parallel input architecture</li>
-  <li>Design for thermal safety and insulation</li>
+  <li>Design of a lightweight 14s modular battery system capable of both high-rate discharge and in-flight charging</li>
+  <li>Implementation of advanced insulation methods for high-voltage protection in confined aircraft environments</li>
+  <li>Development of STM32-based BMS firmware for real-time cell monitoring, fault detection, and turbine charge compatibility</li>
+  <li>Architectural integration of the battery pack within a hybrid power system alongside a micro gas turbine unit</li>
 </ul>
 
 <h2>4. My Contributions</h2>
 <ul>
-  <li>Led entire battery system architecture and layout</li>
-  <li>Performed cell testing and BMS firmware development</li>
-  <li>Implemented modular design and parallel interfaces</li>
+  <li>Led battery system architecture, modeling, and implementation from concept to flight-ready product</li>
+  <li>Performed exhaustive cell selection testing under thermal, load, and vibration conditions simulating UAV operation</li>
+  <li>Developed custom BMS firmware using STM32 platform, including CAN/UAVCAN support for UAV integration</li>
+  <li>Resolved high-voltage insulation failures caused by limited spacing within composite airframe compartments</li>
+  <li>Proposed and implemented layout that separated battery pack from BMS while maintaining minimal latency and EMI protection</li>
 </ul>
 
 <div class="grid">
@@ -39,7 +50,9 @@ permalink: /pages/mvus/
 </div>
 
 <h2>5. Engineering Approach</h2>
-<p>The battery and BMS were physically separated in the UAV due to thermal and EMI considerations. I designed a distributed layout with EMI shielding and reinforced insulation structures.</p>
+<p>The power system architecture required significant adaptations due to the unusual mix of power input sources. We adopted a hybrid topology that allowed both the battery and the microturbine generator to share load responsibilities based on real-time power demand. To minimize resistance and manage EMI within this dynamic system, we designed short, thick copper busbars, carefully routed shielded signal lines, and fused protection mechanisms.
+Thermal modeling was conducted to anticipate worst-case heat buildup inside the fuselage. The final design included phase-change thermal pads and aluminum casing with internal airflow routing for heat dispersion. Given that system voltage was locked at 14s for compatibility with avionics, high currents were inevitable; this required conservative cell spacing and additional dielectric layering.</p>
+
 
 <div class="grid">
   <div>
@@ -75,7 +88,9 @@ permalink: /pages/mvus/
 </div>
 
 <h2>6. Validation and Testing – Extended Dataset</h2>
-<p>Validation included Iron Bird ground simulation and tethered hover trials with turbine-charging and battery fallback under failure scenarios.</p>
+<p>System-level testing was performed on a custom-built Iron Bird platform that emulated the UAV’s electrical architecture. This included tests for over-discharge, sudden load spikes, turbine charging transitions, and full system restarts. Data was collected through CAN logging and high-frequency current probes.
+Final validation involved tethered hover trials where the UAV operated with turbine charging enabled. Emergency fallback scenarios were induced by throttling down the turbine mid-flight to verify battery-only continuation.</p>
+
 
 <div class="grid">
   <div>
@@ -101,12 +116,14 @@ permalink: /pages/mvus/
 
 <h2>7. Research Outcomes</h2>
 <ul>
-  <li>Verified high-current operation and in-flight charging functionality</li>
-  <li>Validated safety logic and redundancy through simulation and field tests</li>
+  <li>Successfully validated hybrid power operation under full mission load scenarios</li>
+  <li>Achieved in-flight battery charging with turbine-generated energy while maintaining UAV stability</li>
+  <li>Resolved real-world EMI, vibration, and thermal constraints through iterative prototyping</li>
+  <li>Established modular battery architecture applicable to scalable UAV platforms</li>
 </ul>
 
 <h2>8. Applied Product</h2>
-<p>The system is flight-proven, scalable, and applicable to next-gen UAVs, USVs, and hybrid platforms needing endurance and safe redundancy.</p>
+<p>The developed system was flight-tested on an operational prototype and is now undergoing ruggedization for potential marine UAV deployment. Its success lays the foundation for future electric-turbine hybrid aerial systems, supporting long-duration patrols without reliance on ground-based battery swaps.</p>
 
 </body>
 </html>
