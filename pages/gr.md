@@ -36,37 +36,6 @@ The final output of this project was a mass-production-ready e-PTO system with t
   <li><strong>Battery System Lead:</strong> Mr. Suho Yu (Director, VSPACE Co., Ltd.)</li>
 </ul>
 
-<!-- Section 1 Images -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/assets/gr/0.jpg" alt="Battery Assembly Photo 1" width="48%">
-  <img src="/assets/gr/1.jpg" alt="Battery Assembly Photo 2" width="48%">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="/assets/gr/2.jpg" alt="Battery Assembly Photo 3" width="48%">
-  <img src="/assets/gr/3.jpg" alt="Battery Assembly Photo 4" width="48%">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="/assets/gr/4.jpg" alt="Battery Mounting Model" width="48%">
-  <img src="/assets/gr/5.jpg" alt="System Configuration Diagram" width="48%">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="/assets/gr/6.jpg" alt="e-PTO Image" width="48%">
-  <img src="/assets/gr/7.jpg" alt="Battery Pack Installation" width="48%">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="/assets/gr/8.jpg" alt="Installed e-PTO on Vehicle" width="48%">
-  <img src="/assets/gr/9.jpg" alt="Vehicle in Operation Photo 1" width="48%">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="/assets/gr/10.jpg" alt="Vehicle in Operation Photo 2" width="48%">
-  <img src="/assets/gr/13.jpg" alt="Full Vehicle Model" width="48%">
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="/assets/gr/16.jpg" alt="Battery Pack Engineering Drawing" width="48%">
-</div>
-
-
-
 
 <!-- 2. Research Motivation -->
 <h2>2. Research Motivation</h2>
@@ -77,12 +46,16 @@ Conventional PTO systems operate by drawing mechanical power directly from the e
 Additionally, growing demand for electrification in utility vehicles created an urgent need for a robust and modular electric PTO system. Unlike passenger EVs, these platforms require intermittent high-power output with thermal resilience and fault-tolerant architecture — challenges that are unique and not easily solved by off-the-shelf EV components.
 </p>
 
-<!-- Section 2 Images -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/assets/gr/6.jpg" alt="e-PTO Module" width="48%">
-  <img src="/assets/gr/8.jpg" alt="e-PTO Installed on Vehicle" width="48%">
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/6.jpg" alt="e-PTO Module" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">Figure 1. Electric PTO module with integrated powerpack</figcaption>
+  </figure>
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/8.jpg" alt="e-PTO Installed on Vehicle" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">Figure 2. e-PTO system installed in commercial truck chassis</figcaption>
+  </figure>
 </div>
-
 
 
 <!-- 3. Technical Objectives -->
@@ -117,10 +90,39 @@ My responsibilities covered both hardware and firmware domains, spanning compone
 
 <!-- Section 4 Images -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/assets/gr/0.jpg" alt="Battery Assembly Photo" width="48%">
-  <img src="/assets/gr/4.jpg" alt="Battery Mounting Model" width="48%">
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/0.jpg" alt="Battery Assembly Photo 1" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">Figure 1. Initial prismatic cell stacking during module assembly</figcaption>
+  </figure>
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/1.jpg" alt="Battery Assembly Photo 2" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">Figure 2. Busbar alignment and insulation layering</figcaption>
+  </figure>
 </div>
 
+<!-- Battery Assembly Image Set 2 with Captions -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/2.jpg" alt="Battery Assembly Photo 3" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">Figure 3. Spot welding and connection testing in progress</figcaption>
+  </figure>
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/3.jpg" alt="Battery Assembly Photo 4" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">Figure 4. Final enclosure before sealing and mounting</figcaption>
+  </figure>
+</div>
+
+<!-- Battery Integration and Mounting with Captions -->
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/0.jpg" alt="Battery Assembly Photo" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">Figure 5. Completed battery pack module with terminals secured</figcaption>
+  </figure>
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/4.jpg" alt="Battery Mounting Model" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">Figure 6. 3D CAD layout showing battery mounting position in chassis</figcaption>
+  </figure>
+</div>
 
 
 <!-- 5. Engineering Approach -->
@@ -137,10 +139,19 @@ CAD modeling ensured compatibility with vehicle mounting points and clearance fo
 
 <!-- Section 5 Images -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/assets/gr/5.jpg" alt="System Configuration Diagram" width="48%">
-  <img src="/assets/gr/16.jpg" alt="Battery Pack Engineering Drawing" width="48%">
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/5.jpg" alt="System Configuration Diagram" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">
+      Figure 7. System-level electrical configuration showing interconnection of battery, inverter, and e-PTO channels
+    </figcaption>
+  </figure>
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/16.jpg" alt="Battery Pack Engineering Drawing" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">
+      Figure 8. Engineering drawing of the 123S1P prismatic LFP battery pack housing and mounting structure
+    </figcaption>
+  </figure>
 </div>
-
 
 
 
@@ -156,13 +167,29 @@ After mechanical assembly, the pack was instrumented with <strong>temperature se
 Finally, the battery pack was mounted on the test vehicle and connected to the e-PTO system. Field validation included <strong>thermal soak runs</strong>, <strong>load cycling under working hydraulics</strong>, and <strong>CAN communication monitoring</strong> between the BMS and inverter.
 </p>
 
-<!-- Section 6 Images -->
+<!-- Section 6 Images with Captions -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/assets/gr/7.jpg" alt="Battery Pack Mounted in Vehicle" width="48%">
-  <img src="/assets/gr/9.jpg" alt="Field Test Photo 1" width="48%">
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/7.jpg" alt="Battery Pack Mounted in Vehicle" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">
+      Figure 9. Battery pack securely mounted in vehicle chassis with vibration isolation
+    </figcaption>
+  </figure>
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/9.jpg" alt="Field Test Photo 1" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">
+      Figure 10. Initial on-site operation during hydraulic load testing
+    </figcaption>
+  </figure>
 </div>
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 10px;">
-  <img src="/assets/gr/10.jpg" alt="Field Test Photo 2" width="48%">
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/10.jpg" alt="Field Test Photo 2" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">
+      Figure 11. Vehicle-level e-PTO system under prolonged operational testing
+    </figcaption>
+  </figure>
 </div>
 
 
@@ -179,9 +206,14 @@ The BMS communicated seamlessly with the inverter and vehicle controller, and al
 All modules were designed for <strong>mass production readiness</strong>, with manufacturable busbar layouts, laser-welded connections, and water/dust ingress protection.
 </p>
 
-<!-- Section 7 Image -->
+<!-- Section 7 Image with Caption -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/assets/gr/13.jpg" alt="Complete Vehicle System Model" width="48%">
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/13.jpg" alt="Complete Vehicle System Model" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">
+      Figure 12. Full vehicle CAD model showing integrated e-PTO and battery modules
+    </figcaption>
+  </figure>
 </div>
 
 
@@ -199,16 +231,21 @@ Two configurations were tested: one for <strong>driving-only e-PTO</strong> and 
 The design allows for modular adaptation across various truck platforms with different voltage, capacity, and mounting configurations. This e-PTO system marks a practical transition step toward fully electrified utility fleets.
 </p>
 
-<!-- Section 8 Images -->
+<!-- Section 8 Images with Captions -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="/assets/gr/14.jpg" alt="H-PTO Circuit Diagram" width="48%">
-  <img src="/assets/gr/15.jpg" alt="E-PTO Circuit Diagram" width="48%">
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/14.jpg" alt="H-PTO Circuit Diagram" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">
+      Figure 13. H-PTO system schematic enabling both drive and regenerative power flow
+    </figcaption>
+  </figure>
+  <figure style="width: 48%; text-align: center;">
+    <img src="/assets/gr/15.jpg" alt="E-PTO Circuit Diagram" style="width: 100%;">
+    <figcaption style="margin-top: 5px; font-size: 0.9em; color: #555;">
+      Figure 14. E-PTO system schematic optimized for high-efficiency hydraulic drive only
+    </figcaption>
+  </figure>
 </div>
-
-
-
-
-
 
 
 <hr>
