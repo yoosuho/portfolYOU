@@ -12,7 +12,7 @@ permalink: /pages/lig/
 
 <hr>
 
-<h2>🔧 Project Overview</h2>
+<h2>  Project Overview</h2>
 <p>
 This national initiative marked a major leap from 1–2 seater experimental eVTOL platforms to scalable systems for a 4-seater Advanced Air Mobility (AAM) aircraft. The project aimed to localize, design, and validate a high-safety, high-energy battery system with commercialization readiness for the next-generation AAM sector.
 </p>
