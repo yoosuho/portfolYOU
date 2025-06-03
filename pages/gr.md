@@ -26,7 +26,7 @@ The e-PTO system integrates a high-power battery pack, inverter, power distribut
 The final output of this project was a mass-production-ready e-PTO system with three-channel output, achieving safety, durability, and energy efficiency benchmarks for electric special-purpose vehicles.
 </p>
 
-<h4>📌 Project Details</h4>
+<h4>  Project Details</h4>
 <ul>
   <li><strong>Project Title:</strong> Development of High-Efficiency, Low-Emission Multi-Channel Electric Power Take-Off System for Commercial Special-Purpose Vehicles</li>
   <li><strong>Program:</strong> Commercial Vehicle Innovation & Future Industry Ecosystem Program (Ministry of Trade, Industry and Energy, Korea)</li>
