@@ -61,7 +61,7 @@ I was responsible for full-cycle battery development, from architecture design a
 
   <figure>
     <img src="{{ site.baseurl }}/assets/gs/4.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-    <figcaption style="text-align: center;">Completed Battery Pack – View 1</figcaption>
+    <figcaption style="text-align: center;">Battery Modle PPR Test</figcaption>
   </figure>
 
   <figure>
