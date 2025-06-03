@@ -100,7 +100,7 @@ The project includes mechanical design, frame reinforcement, structural validati
   </figure>
 </div>
 
-<h2>🎥 YouTube Demo</h2>
+<h2>  YouTube Demo</h2>
 <p>
 This project was documented through a 4-part video series showing the full development and fault-tolerant flight validation process.
 </p>
