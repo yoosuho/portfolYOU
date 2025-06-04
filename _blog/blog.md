@@ -62,8 +62,8 @@ permalink: /blog/
     <div class="card h-100 shadow-sm">
       <img src="{{ site.baseurl }}/assets/CD200/10.jpg" class="card-img-top" alt="Hydrogen VTOL" style="height: 400px; object-fit: cover;">
       <div class="card-body">
-        <h5 class="card-title">200 kg-class Payload VTOL Cargo Drone with Hydrogen Fuel Cell Power</h5>
-        <p class="card-text">Developed long-endurance VTOL cargo drone using hydrogen fuel cell with autonomous and BVLOS capabilities.</p>
+        <h5 class="card-title">Battery System Research for a Payload 200 kg Hydrogen-Electric Cargo UAV: High Discharge Design and Iron-Bird Validation</h5>
+        <p class="card-text">This research presents the complete design, integration, and iron-bird validation of a high-discharge lithium-polymer battery system developed for a 200 kg-payload hydrogen-electric VTOL UAV.</p>
         <a href="{{ site.baseurl }}/pages/CD200/" class="btn btn-sm btn-outline-primary">View Research</a>
       </div>
     </div>
