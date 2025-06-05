@@ -102,7 +102,7 @@ permalink: /blog/
     <div class="card h-100 shadow-sm">
       <img src="{{ site.baseurl }}/assets/mvus/4.jpg" class="card-img-top" alt="UAV Maritime Monitoring" style="height: 400px; object-fit: cover;">
       <div class="card-body">
-        <h5 class="card-title">UAV-based Maritime Safety and Illegal Fishing/Marine Ecosystem Management (F) </h5>
+        <h5 class="card-title">UAV-based Maritime Safety and Illegal Fishing/Marine Ecosystem Management (H) </h5>
         <p class="card-text">Developed long-range drone for real-time maritime surveillance and data collection.</p>
         <a href="{{ site.baseurl }}/pages/mvus/" class="btn btn-sm btn-outline-primary">View Research</a>
       </div>
