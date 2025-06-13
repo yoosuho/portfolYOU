@@ -97,7 +97,48 @@ This academic foundation provided the basis for my later work in battery system 
       <li class="list-group-item" style="background-color: transparent;">Planar Measurement Device for QA – Nov 2017</li>
       <li class="list-group-item" style="background-color: transparent;">Robotic System for Production Line – Nov 2017</li>
       <li class="list-group-item" style="background-color: transparent;">Bolt Quantity Detection System – May 2017</li>
-    </ul>
+
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
+  <h2 class="mb-3">Publications</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Integrated System Design and Flight Demonstration for Ensuring Flight Continuity in an X8 Electric Propulsion Aircraft under Single Propeller Failure</strong> – Journal of Aerospace System Engineering (Apr 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Integrated System Design and Flight Demonstration for Ensuring.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>A Methodology for Specifying Electric Propulsion Battery Requirements Based on K-UAM Operational Scenarios</strong> – Journal of Aerospace System Engineering (Apr 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/A Methodology for Specifying Electric Propulsion Battery Requirements Based on K-UAM Operational Scenarios.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Modification and Development of Manned Electric Propulsion Lightweight Airplane</strong> – Journal of Aerospace System Engineering (Jun 2023)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Modification and Development of Manned Electric Propulsion Lightweight Airplane.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Development of 230 whkg high power, high density battery system for future eco-friendly transportation equipment</strong> – Journal of Aerospace System Engineering (May 2023)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Development of 230 whkg high power high density battery system for.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Effects of Internal Resistance Deviation on Thermal</strong> – Korean Society for Automobile Safet (May 2023)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Effects of Internal Resistance Deviation on Thermal.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Thermal Analysis of the high C-rate Battery Module in an Urban Air Mobility</strong> – The Korean Society of Automotive Engineers (Nov 2022)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Method for an Aircraft to Manage the Battery in Response to Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Development of robot system for production line automation</strong> – Korean Society for Agricultural Machinery (KSAM) (Jun 2017)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Development of robot system for production line automation.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Development of Ground Plan a Measuring Instrument for Quality Assurance</strong> – Korean Society for Agricultural Machinery (KSAM) (Jun 2017)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Development of Ground Plan a Measuring Instrument for Quality Assurance.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Development of bolt quantity detector for productivity improvement of assembly line</strong> – Korean Society for Agricultural Machinery (KSAM) (Jun 2017)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Development of bolt quantity detector for productivity improvement of assembly line.pdf" target="_blank">📄 View PDF</a>
+    </li>
+     
+   </ul>
   </section>
 
   <!-- Patents Section -->
