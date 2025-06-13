@@ -84,19 +84,6 @@ This academic foundation provided the basis for my later work in battery system 
   </ul>
   </section>
 
-  <!-- Publications Section -->
-<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
-    <h2 class="mb-3">Publications</h2>
-    <ul class="list-group shadow-sm">
-      <li class="list-group-item" style="background-color: transparent;">Integrated System Design and Flight Demonstration – JASE, Apr 2025</li>
-      <li class="list-group-item" style="background-color: transparent;">Electric Propulsion Battery Requirements for K-UAM – JASE, Apr 2025</li>
-      <li class="list-group-item" style="background-color: transparent;">Lightweight Aircraft Modification – JASE, Jun 2023</li>
-      <li class="list-group-item" style="background-color: transparent;">230 Wh/kg High Power Battery System – JASE, May 2023</li>
-      <li class="list-group-item" style="background-color: transparent;">Thermal Performance & Internal Resistance – KSAS, May 2023</li>
-      <li class="list-group-item" style="background-color: transparent;">Thermal Analysis in UAM Battery Module – KSAE, Nov 2022</li>
-      <li class="list-group-item" style="background-color: transparent;">Planar Measurement Device for QA – Nov 2017</li>
-      <li class="list-group-item" style="background-color: transparent;">Robotic System for Production Line – Nov 2017</li>
-      <li class="list-group-item" style="background-color: transparent;">Bolt Quantity Detection System – May 2017</li>
 
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Publications</h2>
