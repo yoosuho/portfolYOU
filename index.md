@@ -106,7 +106,7 @@ This academic foundation provided the basis for my later work in battery system 
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Thermal Analysis of the high C-rate Battery Module in an Urban Air Mobility</strong> – The Korean Society of Automotive Engineers (Nov 2022)<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Method for an Aircraft to Manage the Battery in Response to Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
+      <a href="{{ site.baseurl }}/assets/Publications/Thermal Analysis of the high C-rate Battery Module in an Urban Air Mobility.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Development of robot system for production line automation</strong> – Korean Society for Agricultural Machinery (KSAM) (Jun 2017)<br/>
@@ -118,7 +118,7 @@ This academic foundation provided the basis for my later work in battery system 
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Development of bolt quantity detector for productivity improvement of assembly line</strong> – Korean Society for Agricultural Machinery (KSAM) (Jun 2017)<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Development of bolt quantity detector for productivity improvement of assembly line.pdf" target="_blank">📄 View PDF</a>
+      <a href="{{ site.baseurl }}/assets/Publications/Development of bolt quantity detector for productivity improvement .pdf" target="_blank">📄 View PDF</a>
     </li>
      
    </ul>
@@ -247,16 +247,13 @@ This academic foundation provided the basis for my later work in battery system 
       📰 <strong>Aju Business Daily</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
       <a href="https://www.ajunews.com/view/20240712135909312" target="_blank">Read Article</a>
     </li>
-    </li>
     <li class="list-group-item" style="background-color: transparent;">
       📰 <strong>The korea industry daily</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
       <a href="https://kidd.co.kr/news/237467" target="_blank">Read Article</a>
     </li>
-    </li>
     <li class="list-group-item" style="background-color: transparent;">
       📰 <strong>Daily Korea</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
       <a href="https://daily.hankooki.com/news/articleView.html?idxno=1105360" target="_blank">Read Article</a>
-    </li>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       📰 <strong>ET NEWS</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
