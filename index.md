@@ -193,7 +193,7 @@ This academic foundation provided the basis for my later work in battery system 
     <h2 class="mb-3">Awards</h2>
     <ul class="list-group shadow-sm">
       <li class="list-group-item" style="background-color: transparent;">🏆 <strong>Best Award</strong> – Aerospace Technology-Based Start-Up Academy (Oct 2022)</li>
-      <li class="list-group-item" style="background-color: transparent;">🥇 <strong>Gold Medal</strong> – CNC Milling, 2015 Local Skills Competition (Apr 2015)</li>
+      <li class="list-group-item" style="background-color: transparent;">🥇 <strong>Gold Medal</strong> – CNC Milling, 2015 2015 Korea National Skills Competition (Apr 2015)</li>
       <li class="list-group-item" style="background-color: transparent;">🌟 <strong>MVP</strong> – Gangwon-Do Local Skills Competition (Apr 2015)</li>
     </ul>
   </section>
