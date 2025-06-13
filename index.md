@@ -25,10 +25,6 @@ permalink: /
   <img src="https://img.shields.io/badge/YouTube-jenk5109-red?logo=youtube" />
 </a>
 &nbsp;
-<a href="https://github.com/yoosuho" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-yoosuho-black?logo=github" />
-</a>
-&nbsp;
 <a href="https://scholar.google.com/citations?user=cvCDydwAAAAJ&hl=en" target="_blank">
   <img src="https://img.shields.io/badge/Scholar-Google--Scholar-blueviolet?logo=google-scholar&logoColor=white" />
 </a>
