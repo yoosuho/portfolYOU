@@ -247,6 +247,21 @@ This academic foundation provided the basis for my later work in battery system 
       📰 <strong>Aju Business Daily</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
       <a href="https://www.ajunews.com/view/20240712135909312" target="_blank">Read Article</a>
     </li>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      📰 <strong>The korea industry daily</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
+      <a href="https://kidd.co.kr/news/237467" target="_blank">Read Article</a>
+    </li>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      📰 <strong>Daily Korea</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
+      <a href="https://daily.hankooki.com/news/articleView.html?idxno=1105360" target="_blank">Read Article</a>
+    </li>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      📰 <strong>ET NEWS</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
+      <a href="https://www.etnews.com/20240712000231" target="_blank">Read Article</a>
+    </li>    
   </ul>
 </section>
 
