@@ -83,83 +83,91 @@ I create detailed technical videos showing how full-stack systems are actually b
 
 <!-- System-Level UAM Integration -->
 <div class="skill-category">
-  <div class="skill-title">UAM / AAM System Integration</div>
-  <span class="skill-tag">Full-stack Manned eVTOL Development</span>
-  <span class="skill-tag">Propulsion + Battery + Control Integration</span>
-  <span class="skill-tag">Test Flight Planning & Execution</span>
-  <span class="skill-tag">Tethered Flight & GPS Noise Mitigation</span>
-  <span class="skill-tag">System Fault Tolerance (X8 redundancy)</span>
-  <span class="skill-tag">Experimental Certification (AC 21.17-4)</span>
+  <div class="skill-title">System Architecture & Integration</div>
+  <span class="skill-tag">UAM/eVTOL system architecture</span>
+  <span class="skill-tag">Full-stack integration (propulsion, battery, control)</span>
+  <span class="skill-tag">Multidisciplinary Design Optimization (MDO)</span>
+  <span class="skill-tag">FACE-based modular avionics</span>
+  <span class="skill-tag">Experimental certification (FAA AC 21.17-4)</span>
 </div>
 
-<!-- Battery & Energy Systems -->
 <div class="skill-category">
-  <div class="skill-title">Battery & Energy Systems</div>
-  <span class="skill-tag">High Voltage Pack Design (12S–14S)</span>
-  <span class="skill-tag">Custom BMS Design (STM32-based)</span>
-  <span class="skill-tag">UAVCAN Communication Integration</span>
-  <span class="skill-tag">Thermal Design & Passive Cooling</span>
-  <span class="skill-tag">Compliance Checklist (CCL) Drafting</span>
-  <span class="skill-tag">Battery Safety Validation & Overcurrent Handling</span>
+  <div class="skill-title">System Validation & Flight Testing</div>
+  <span class="skill-tag">Iron-bird setup and system verification</span>
+  <span class="skill-tag">Tethered and free flight demonstration</span>
+  <span class="skill-tag">Fault injection & real-time recovery</span>
+  <span class="skill-tag">GPS interference mitigation</span>
+  <span class="skill-tag">On-site debugging & redesign</span>
 </div>
 
-<!-- Embedded Systems / Control -->
 <div class="skill-category">
-  <div class="skill-title">Embedded Systems / Control</div>
-  <span class="skill-tag">STM32 Firmware (HAL, LL, RTOS)</span>
-  <span class="skill-tag">UART / CAN / I2C Protocols</span>
-  <span class="skill-tag">Pixhawk / CubePilot Setup & Tuning</span>
-  <span class="skill-tag">PID Control / Sensor Fusion (IMU + GPS)</span>
-  <span class="skill-tag">Mission Planner / QGroundControl</span>
-  <span class="skill-tag">Real-Flight ESC / BMS Integration</span>
+  <div class="skill-title">Battery Systems</div>
+  <span class="skill-tag">156S9P high-voltage pack design (250 Wh/kg)</span>
+  <span class="skill-tag">STM32-based custom BMS development</span>
+  <span class="skill-tag">Fault detection & protection logic</span>
+  <span class="skill-tag">UAVCAN/CAN communication</span>
+  <span class="skill-tag">Thermal modeling and structural integration</span>
 </div>
 
-<!-- PCB Design / Electronics -->
 <div class="skill-category">
-  <div class="skill-title">PCB Design / Electronics</div>
-  <span class="skill-tag">Altium Designer (Multi-layer PCB)</span>
-  <span class="skill-tag">KiCad / Eagle for Prototyping</span>
-  <span class="skill-tag">Schematic & Layout for BMS Circuits</span>
-  <span class="skill-tag">Breadboarding / Oscilloscope Debugging</span>
-  <span class="skill-tag">Power Distribution / Current Sensing</span>
+  <div class="skill-title">Mechanical & Thermal Engineering</div>
+  <span class="skill-tag">Structural & thermal simulation with SolidWorks</span>
+  <span class="skill-tag">CFD with STAR-CCM+ (cooling performance)</span>
+  <span class="skill-tag">3D modeling with CATIA V5 & AutoCAD</span>
+  <span class="skill-tag">2D technical drawing & GD&T</span>
+  <span class="skill-tag">Housing and vibration damping design</span>
 </div>
 
-<!-- Mechanical Fabrication -->
 <div class="skill-category">
-  <div class="skill-title">Mechanical Design / Manufacturing</div>
-  <span class="skill-tag">SolidWorks / Fusion 360 / CATIA</span>
-  <span class="skill-tag">Hand-built Frame Fabrication</span>
-  <span class="skill-tag">TIG / MIG Welding (no jig assembly)</span>
-  <span class="skill-tag">CNC Milling / CAM Toolpath Setup</span>
-  <span class="skill-tag">Metal 3D Printing (DMLS)</span>
-  <span class="skill-tag">Battery Enclosure Design</span>
+  <div class="skill-title">Embedded Systems & Control</div>
+  <span class="skill-tag">STM32 firmware development with RTOS</span>
+  <span class="skill-tag">Customized flight control (ArduPilot/PX4)</span>
+  <span class="skill-tag">ESC–BMS–motor coordination</span>
+  <span class="skill-tag">Serial telemetry and health monitoring</span>
 </div>
 
-<!-- System Architecture & Safety -->
 <div class="skill-category">
-  <div class="skill-title">System Architecture & Safety</div>
-  <span class="skill-tag">Model-Based Design (Simulink Level)</span>
-  <span class="skill-tag">DO-178C Software Validation (LDRA)</span>
-  <span class="skill-tag">Vibration Analysis (battery, airframe)</span>
-  <span class="skill-tag">FMEA / Root Cause Analysis</span>
-  <span class="skill-tag">Safety Tether Testing Protocols</span>
+  <div class="skill-title">Programming & Simulation</div>
+  <span class="skill-tag">MATLAB/Simulink & Stateflow modeling</span>
+  <span class="skill-tag">UAVCAN protocol testing & analysis</span>
+  <span class="skill-tag">Sensor fusion and real-time control simulation</span>
+  <span class="skill-tag">Version control with Git</span>
 </div>
 
-<!-- Real-World Validation & Demos -->
 <div class="skill-category">
-  <div class="skill-title">Flight Demonstration & International Deployment</div>
-  <span class="skill-tag">DRIFTx Abu Dhabi 2024 Flight Demo</span>
-  <span class="skill-tag">AirTaxi World Congress 2024</span>
-  <span class="skill-tag">Kazakhstan Government UAM Demo</span>
-  <span class="skill-tag">National-Level Government R&D Participation</span>
+  <div class="skill-title">Prototype Fabrication & Assembly</div>
+  <span class="skill-tag">Jig-less welding and manual milling</span>
+  <span class="skill-tag">Custom airframe and drivetrain integration</span>
+  <span class="skill-tag">On-site assembly and full system check</span>
 </div>
 
-<!-- Soft Skills -->
 <div class="skill-category">
-  <div class="skill-title">Soft Skills & Communication</div>
-  <span class="skill-tag">Technical Storytelling (YouTube Engineering Vlogs)</span>
-  <span class="skill-tag">Cross-functional R&D Team Leadership</span>
-  <span class="skill-tag">Formal Presentation (FTC, R&D Review)</span>
-  <span class="skill-tag">Engineering Documentation (CCL, Plans)</span>
-  <span class="skill-tag">Global Communication (English, Korean)</span>
+  <div class="skill-title">CNC Machining & Production</div>
+  <span class="skill-tag">3-axis MCT, 4-axis CNC, CNC lathe operation</span>
+  <span class="skill-tag">G-code generation & optimization (MasterCAM)</span>
+  <span class="skill-tag">Batch part production & quality inspection</span>
+</div>
+
+<div class="skill-category">
+  <div class="skill-title">Programming Languages</div>
+  <span class="skill-tag">C</span>
+  <span class="skill-tag">C++</span>
+  <span class="skill-tag">Embedded C</span>
+  <span class="skill-tag">Python</span>
+</div>
+
+<div class="skill-category">
+  <div class="skill-title">Engineering Tools & Platforms</div>
+  <span class="skill-tag">SolidWorks (3D modeling, 2D drawing, simulation)</span>
+  <span class="skill-tag">CATIA V5</span>
+  <span class="skill-tag">AutoCAD</span>
+  <span class="skill-tag">MasterCAM</span>
+  <span class="skill-tag">STAR-CCM+</span>
+  <span class="skill-tag">STM32CubeIDE / Programmer</span>
+  <span class="skill-tag">Altium Designer</span>
+  <span class="skill-tag">QGroundControl</span>
+  <span class="skill-tag">Mission Planner</span>
+  <span class="skill-tag">Git</span>
+  <span class="skill-tag">LaTeX</span>
+  <span class="skill-tag">Google Workspace</span>
 </div>
