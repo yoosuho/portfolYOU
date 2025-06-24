@@ -1,9 +1,9 @@
 ---
-title: "Development of a 100 kg-class Heavy Cargo Drone with Single-Propeller Failure Tolerance"
+title: "Development of a 225 kg-class Heavy Cargo Drone with Single-Propeller Failure Tolerance"
 layout: default
 permalink: /pages/drone/
 ---
-<h1>Development of a 100 kg-class Heavy Cargo Drone with Single-Propeller Failure Tolerance</h1>
+<h1>Development of a 255 kg-class Heavy Cargo Drone with Single-Propeller Failure Tolerance</h1>
 
 <p><strong>Duration:</strong> January 2023 – December 2024<br>
 <strong>Lead Organization:</strong> VSPACE<br>
