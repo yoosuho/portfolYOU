@@ -98,6 +98,15 @@ This prototype validated the feasibility of scaling and standardizing manned eVT
   </ul>
 </section>
 
+<h2>  YouTube Demo</h2>
+<p>
+This project was documented through a 4-part video series showing the full development and fault-tolerant flight validation process.
+</p>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=KN8fhVKbVdA" target="_blank">▶ Production diary </a></li>
+</ul>
+
+
 <hr>
 
 <p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
