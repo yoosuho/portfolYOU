@@ -38,7 +38,7 @@ permalink: /projects/
     <div class="card h-100 shadow-sm">
       <img src="{{ site.baseurl }}/assets/image_1.jpg" class="card-img-top" alt="Heavy Cargo Drone 100kg" style="height: 400px; object-fit: cover;">
       <div class="card-body">
-        <h5 class="card-title">Development of a 255 kg-class Heavy Cargo Drone with Single-Propeller Failure Tolerance  </h5>
+        <h5 class="card-title">Development of a 225 kg-class Heavy Cargo Drone with Single-Propeller Failure Tolerance  </h5>
         <p class="card-text">System integration for fault-tolerant X8 electric propulsion, validated through experimental flight tests.</p>
         <a href="{{ site.baseurl }}/pages/drone/" class="btn btn-sm btn-outline-primary">View Project</a>
       </div>
