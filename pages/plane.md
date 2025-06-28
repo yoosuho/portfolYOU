@@ -7,7 +7,7 @@ permalink: /pages/plane/
 
 <h1>Korea's First Manned All-Electric GA Aircraft Flight – Full Technical Research</h1>
 
-## 1. Research Overview</h2>
+## 1. Research Overview
 
 This research marked a historic achievement: Korea's first successful flight of a manned, general aviation (GA)-class aircraft powered entirely by an in-house developed high-voltage battery system. The project encompassed the complete system development lifecycle—from cell characterization and thermal simulation to integration, environmental qualification, and real-world flight demonstration—serving as a foundational reference for Korea’s future airworthiness certification framework for electric propulsion.
   
