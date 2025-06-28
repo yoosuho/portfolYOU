@@ -105,12 +105,13 @@ The aircraft employs dual power buses, modular batteries, and a redundant FCC co
     <img src="/assets/kuam/13.jpg" alt="Assembly 2" style="width: 100%; max-height: 300px; object-fit: cover;">
     <p>Figure 12. Assembly – phase 2.</p>
   </div>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
     <img src="/assets/kuam/11.jpg" alt="Assembly 3" style="width: 100%; max-height: 300px; object-fit: cover;">
     <p>Figure 13. Assembly.</p>
   </div>
 </div>
+
 
 ## 6. Validation and Testing – Extended Dataset  
 - System modeling aligned with certification structure  
@@ -123,14 +124,15 @@ The aircraft employs dual power buses, modular batteries, and a redundant FCC co
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
-    <img src="/assets/kuam/10.jpg" alt="Energy system" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <img src="/assets/kuam/10.jpg" alt="3D model" style="width: 100%; max-height: 300px; object-fit: cover;">
     <p>Figure 13. Assembly.</p>
   </div>
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
-    <img src="/assets/kuam/12.jpg" alt="Assembly 1" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <img src="/assets/kuam/12.jpg" alt="Blueprint" style="width: 100%; max-height: 300px; object-fit: cover;">
     <p>Figure 14.Assembly.</p>
   </div>
 </div>
+
 
 ## 7. Research Outcomes  (ing)
 The research has reached the configuration freeze stage, and the team is currently progressing through **system integration and airframe manufacturing** in compliance with TC guidelines. Major outcomes to date include:
