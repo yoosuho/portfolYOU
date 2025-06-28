@@ -112,9 +112,14 @@ The global push for carbon-neutral aviation has prompted major initiatives aroun
     <p>Figure 9. Battery wiring check</p>
   </div>
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/plane/13.jpg" alt="Pre-taxi" style="width: 100%; max-height: 300px; object-fit: cover;">
+    <p>Figure 10. set up the electricity</p>
+  </div>
+  </div>
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
     <img src="/assets/plane/9.jpg" alt="Pre-taxi" style="width: 100%; max-height: 300px; object-fit: cover;">
     <p>Figure 10. Ground inspection</p>
-  </div>
+  </div>  
 </div>
 
 <h3>5.8 Manned Flight Test</h3>
@@ -122,15 +127,15 @@ The global push for carbon-neutral aviation has prompted major initiatives aroun
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
     <img src="/assets/plane/10.jpg" alt="Pre-flight" style="width: 100%; max-height: 300px; object-fit: cover;">
-    <p>Figure 11. Final check before flight</p>
+    <p>Figure 12. Final check before flight</p>
   </div>
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
     <img src="/assets/plane/11.jpg" alt="In-flight" style="width: 100%; max-height: 300px; object-fit: cover;">
-    <p>Figure 12. Actual flight</p>
+    <p>Figure 13. Actual flight</p>
   </div>
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
     <img src="/assets/plane/12.jpg" alt="Team photo" style="width: 100%; max-height: 500px; object-fit: cover;">
-    <p>Figure 13. Commemorative photo</p>
+    <p>Figure 14. Commemorative photo</p>
   </div>
 </div>
 
