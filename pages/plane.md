@@ -115,7 +115,6 @@ The global push for carbon-neutral aviation has prompted major initiatives aroun
     <img src="/assets/plane/13.jpg" alt="Pre-taxi" style="width: 100%; max-height: 300px; object-fit: cover;">
     <p>Figure 10. set up the electricity</p>
   </div>
-  </div>
   <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
     <img src="/assets/plane/9.jpg" alt="Pre-taxi" style="width: 100%; max-height: 300px; object-fit: cover;">
     <p>Figure 10. Ground inspection</p>
