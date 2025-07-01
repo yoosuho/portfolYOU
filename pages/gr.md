@@ -1,5 +1,5 @@
 ---
-title: "Development of a High-Efficiency, Low-Emission Multi-Channel Electric Drive PTO Power Module for Commercial Special-Purpose Vehicles"
+title: "Development of a High‑Efficiency, Low‑Emission Multi‑Channel Electric Drive PTO Power Module for Commercial Special‑Purpose Vehicles"
 layout: default
 permalink: /pages/gr/
 ---
@@ -7,7 +7,7 @@ permalink: /pages/gr/
 
 
 
-<h1> Research Multi-Channel High-Efficiency Low-Emission e-PTO Module Development for Specialty Vehicles </h1>
+<h1> Development of a High‑Efficiency, Low‑Emission Multi‑Channel Electric Drive PTO Power Module for Commercial Special‑Purpose Vehicles </h1>
 
 
 
@@ -52,7 +52,7 @@ The final output of this project was a mass-production-ready e-PTO system with t
 Conventional PTO systems operate by drawing mechanical power directly from the engine, resulting in constant fuel consumption and emissions even when the vehicle is stationary. In light of stricter emission regulations and rising fuel prices, a cleaner and more efficient power system became essential for the future of commercial special-purpose vehicles.
 </p>
 <p>
-Additionally, growing demand for electrification in utility vehicles created an urgent need for a robust and modular electric PTO system. Unlike passenger EVs, these platforms require intermittent high-power output with thermal resilience and fault-tolerant architecture — challenges that are unique and not easily solved by off-the-shelf EV components.
+Moreover, the increasing demand for electrification of commercial utility vehicles has created an urgent need for a robust, modular electric PTO system. Unlike passenger EVs, these platforms require intermittent high‑power output, thermal resilience, and fault‑tolerant architecture—challenges that are unique and cannot be easily addressed by off‑the‑shelf EV components.
 </p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -258,4 +258,4 @@ The design allows for modular adaptation across various truck platforms with dif
 
 
 <hr>
-<p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
+<p><a href="{{ site.baseurl }}/blog/">← Back to Research</a></p>
