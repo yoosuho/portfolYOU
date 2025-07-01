@@ -44,7 +44,7 @@ Long-term, I hope to become a **system-level engineer and researcher** who can g
 
 ---
 
-# 🎥 Engineering in the Open
+# Engineering in the Open
 
 To share what real prototyping looks like — including setbacks, design decisions, and flying outcomes —  
 I create detailed technical videos showing how full-stack systems are actually built.
