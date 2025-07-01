@@ -10,7 +10,6 @@ permalink: /pages/mvus/
 <p>This research was conducted as part of a national initiative led by the Korea Coast Guard and Vessel Aerospace. It focused on developing a scalable hybrid battery system suitable for VTOL UAVs performing long-endurance maritime missions such as illegal fishing surveillance and ecological monitoring. The system was required to deliver both high peak current for takeoff and endurance charging via onboard turbine generators during flight. The project lasted from November 2021 to December 2023 and involved multi-disciplinary collaboration across system design, control electronics, and validation engineering.</p>
 
 - **Duration:** Apr 2021 – Dec 2023  
-- **Funding:** Approx. 18M USD  
 - **Lead Organization:** Vessel Aerospace 
 - **Participating Organizations:** Korea Coast Guard, Seoyoung System, S&T, Seoul National University (and others) 
 - **Client Organization:** Korea Coast Guard 
@@ -71,11 +70,11 @@ Thermal modeling was conducted to anticipate worst-case heat buildup inside the 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 0 0 48%;">
     <img src="/assets/mvus/6.jpg" alt="Battery Install" style="width: 100%; height: auto;">
-    <p><em>Figure 5. Pack installation into fuselage cavity.</em></p>
+    <p><em>Figure 5. Battery Pack .</em></p>
   </div>
   <div style="flex: 0 0 48%;">
     <img src="/assets/mvus/7.jpg" alt="Final Assembly" style="width: 100%; height: auto;">
-    <p><em>Figure 6. Final assembly with completed harness routing.</em></p>
+    <p><em>Figure 6. completed harness.</em></p>
   </div>
 </div>
 
@@ -83,7 +82,7 @@ Thermal modeling was conducted to anticipate worst-case heat buildup inside the 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; margin-top: 20px;">
   <div style="flex: 0 0 48%;">
     <img src="/assets/mvus/8.jpg" alt="BMS Interface" style="width: 100%; height: auto;">
-    <p><em>Figure 7. BMS interface showing sensor routing and logic lines.</em></p>
+    <p><em>Figure 7. BMS interface  logic lines.</em></p>
   </div>
   <div style="flex: 0 0 48%;">
     <img src="/assets/mvus/9.jpg" alt="UAV CAD Model" style="width: 100%; height: auto;">
@@ -120,7 +119,7 @@ Final validation involved tethered hover trials where the UAV operated with turb
   </div>
   <div style="flex: 0 0 48%;">
     <img src="/assets/mvus/11.jpg" alt="Tethered Test 2" style="width: 100%; height: auto;">
-    <p><em>Figure 12. Hover test verifying flight continuity and fallback modes.</em></p>
+    <p><em>Figure 12. Hover test. </em></p>
   </div>
 </div>
 
@@ -140,9 +139,8 @@ Final validation involved tethered hover trials where the UAV operated with turb
 <h2>8. Applied Product</h2>
 <p>The developed system was flight-tested on an operational prototype and is now undergoing ruggedization for potential marine UAV deployment. Its success lays the foundation for future electric-turbine hybrid aerial systems, supporting long-duration patrols without reliance on ground-based battery swaps.</p>
 
-</body>
-</html>
+
 <hr>
 
 
-<p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
+<p><a href="{{ site.baseurl }}/blog/">← Back to Research</a></p>
