@@ -23,7 +23,7 @@ I was responsible for full-cycle battery development, from architecture design a
 
 <h2>  My Contributions</h2>
 <ul>
-  <li>Designed a modular high-voltage battery system with CCS1 and DQC fast-charging compliance</li>
+  <li>Designed a modular high-voltage battery system with CCS1 and fast-charging compliance</li>
   <li>Performed thermal runaway suppression validation under abuse testing conditions</li>
   <li>Led all test protocols: UN38.3, IEC 62619, IEC 62620</li>
   <li>Oversaw cell-level test fixtures, BMS integration, and full enclosure prototyping</li>
