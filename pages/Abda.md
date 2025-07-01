@@ -44,7 +44,6 @@ The demonstration included full-scale deployment, cross-border system transport,
   <img src="{{ site.baseurl }}/assets/Abda/5.jpg" style="width: 100%; height: 250px; object-fit: cover;">
   <img src="{{ site.baseurl }}/assets/Abda/6.jpg" style="width: 100%; height: 250px; object-fit: cover;">
   <img src="{{ site.baseurl }}/assets/Abda/7.jpg" style="width: 100%; height: 250px; object-fit: cover;">
-  <img src="{{ site.baseurl }}/assets/Abda/8.jpg" style="width: 100%; height: 250px; object-fit: cover;">
   <img src="{{ site.baseurl }}/assets/Abda/9.jpg" style="width: 100%; height: 250px; object-fit: cover;">
   
 </div>
