@@ -88,7 +88,7 @@ Real-time telemetry, system logs, and motor behavior are continuously recorded. 
 
 <h2>8. expectation effectiveness</h2>
 <p>
-The platform is currently undergoing integration with a custom-built UAM prototype based on a single-seat multicopter configuration. Laboratory testing is being conducted in a tethered flight setup with injected emergency cases. Real-world flight demonstrations are planned for the upcoming test campaign under the Korean UAM Grand Challenge framework.
+The platform is currently undergoing integration with a custom-built UAM prototype based on a single-seat multicopter configuration, with plans to expand into a three-seat variant in the near future.
 </p>
 <p>
 Software modules are deployed in a redundant computing container environment. Each container includes navigation, sensor fusion, emergency handling, and interface modules. The system is also being evaluated for conformance to DO-178C and FACE validation suites. We anticipate that the platform will be capable of self-contained emergency response—including autonomous diversion and forced landing—in uncontrolled flight conditions.
@@ -102,4 +102,4 @@ Software modules are deployed in a redundant computing container environment. Ea
 
 
 <hr>
-<p><a href="{{ site.baseurl }}/projects/">← Back to Projects</a></p>
+<p><a href="{{ site.baseurl }}/blog/">← Back to Research</a></p>
