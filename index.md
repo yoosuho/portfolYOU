@@ -240,8 +240,24 @@ This academic foundation provided the basis for my later work in battery system 
   <h2 class="mb-3">News Articles</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
-      📰 <strong>AI Times</strong> – "Successful demonstration of domestically developed manned electric drone"<br>
-      <a href="https://www.aitimes.com/news/articleView.html?idxno=148094" target="_blank">Read Article</a>
+      📰 <strong>AI Times</strong> – "THE KOREA INDUSTRY DAILY: V-Space Unveils First Urban Air Mobility (UAM) Aircraft Prototype"<br>
+      <a href="https://www.koreaherald.com/article/3444036" target="_blank">Read Article</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      📰 <strong>AI Times</strong> – "Korea’s V-space “reports first flight of its autonomous educational eVTOL V Speeder B"<br>
+      <a href="https://www.urbanairmobilitynews.com/air-taxis/koreas-v-space-reports-first-flight-of-its-autonomous-educational-evtol-v-speeder-b/?utm_source=chatgpt.com" target="_blank">Read Article</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      📰 <strong>AI Times</strong> – "IN evtol.news"<br>
+      <a href="https://evtol.news/vspace-v-speeder-v2?utm_source=chatgpt.com" target="_blank">Read Article</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      📰 <strong>AI Times</strong> – "IN evtol.news"<br>
+      <a href="https://evtol.news/vspace-v-speeder-v2?utm_source=chatgpt.com" target="_blank">Read Article</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      📰 <strong>AI Times</strong> – "Vspace to Introduce eVTOL Aircraft 'VS-300' at CES 2025: "Offering Versatility for Passenger and Cargo Transport in Urban Areas"<br>
+      <a href="https://www.linkedin.com/pulse/vspace-introduce-evtol-aircraft-vs-300-ces-2025-offering-kim-rhg8c/" target="_blank">Read Article</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       📰 <strong>Aju Business Daily</strong> – "Korea’s first manned eVTOL flight marks major step toward UAM commercialization"<br>
