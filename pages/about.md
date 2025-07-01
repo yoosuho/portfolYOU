@@ -7,8 +7,8 @@ weight: 3
 
 # SuHo Yu
 
-Hello! I'm a systems engineer specializing in UAM, eVTOL, electric propulsion systems, and robotics.  
-From CAD design to real-world flight, I have hands-on experience in full-stack aerial system development — including CNC machining, embedded systems, and flight testing.
+Hello! I’m a systems engineer specializing in UAM, eVTOL, electric propulsion systems, and aerial robotics.
+From CAD-based design to real-world flight, I bring hands-on full-stack development experience in aerial systems—including CNC machining, embedded control, and flight testing.
 
 ---
 
@@ -39,11 +39,6 @@ All of this was done in **real-world environments**, not just labs or models —
 # My Research Outlook
 
 Across domains like UAM, robotics, and aerial energy systems, I aim to contribute by bringing **full-stack system prototyping and test-driven validation** into academic research.
-
-My focus is on bridging high-level models and real-world systems — especially through:
-- Embedded control + battery integration
-- Mechanical structure + avionics communication
-- Flight validation + safety protocols
 
 Long-term, I hope to become a **system-level engineer and researcher** who can guide experimental aerial systems from concept through certification.
 
