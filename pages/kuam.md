@@ -114,12 +114,12 @@ The aircraft employs dual power buses, modular batteries, and a redundant FCC co
 
 
 ## 6. Validation and Testing – Extended Dataset  
-- System modeling aligned with certification structure  
-- CG range validation using simulation and structural modeling  
-- Fault scenarios for power transfer and control redundancy  
-- EMC simulation and shielding concept validation  
-- CFD testing for aerodynamic and lift interference margins  
-- Physical integration review during ongoing **system integration and airframe assembly** under TC regulations
+System modeling aligned with certification structure  
+CG range validation using simulation and structural modeling  
+Fault scenarios for power transfer and control redundancy  
+EMC simulation and shielding concept validation  
+CFD testing for aerodynamic and lift interference margins  
+Physical integration review during ongoing **system integration and airframe assembly** under TC regulations
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
@@ -136,12 +136,10 @@ The aircraft employs dual power buses, modular batteries, and a redundant FCC co
 
 ## 7. Research Outcomes  (ing)
 The research has reached the configuration freeze stage, and the team is currently progressing through **system integration and airframe manufacturing** in compliance with TC guidelines. Major outcomes to date include:
-- electrical and control architecture for TC  
-- CG-verified integration of energy and flight control systems  
-- Formal contribution to Korean eVTOL certification development
+electrical and control architecture for TC  
+CG-verified integration of energy and flight control systems  
+Formal contribution to Korean eVTOL certification development
   
----
-
 
 <hr>
 <p><a href="{{ site.baseurl }}/blog/">← Back to Research</a></p>
