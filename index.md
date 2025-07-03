@@ -54,7 +54,7 @@ Focused on practical system validation, achieving multiple international demonst
       Engineered custom tooling solutions for automotive production lines, improving machining reliability and efficiency. Applied SolidWorks and MasterCAM for high-speed steel and carbide tool development. Authored patent for vibration-damping tool, reducing scrap rate by 25%.
     </li>
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Production Manager & CAM Programmer</strong> – ROBO CO., LTD (Mar 2017 – Jan 2021)<br>
+      <strong>Production Manager & CAM Programmer</strong> – ROBO CO., LTD (Mar 2017 – Jul 2018)<br>
       Managed mass production and CAM operations for automotive components. Enhanced machining throughput by refining tool paths and implementing cycle time optimization. Established QC protocols that decreased material waste and contributed to monthly revenue growth.
     </li>
     <li class="list-group-item" style="background-color: transparent;">
