@@ -13,8 +13,8 @@ permalink: /
 
 <strong>SuHo Yu</strong>  
 <br/>Systems engineer with proven expertise in Urban Air Mobility and multidisciplinary hardware systems.
-<br/>Led Korea’s first manned eVTOL development from CAD to flight. Skilled in system integration, electric propulsion, embedded control,  
-<br/>and mechatronic design — building scalable architectures for both aerial platforms and next-generation robotics.  
+<br/>Led Korea’s first manned eVTOL development from CAD to flight. Skilled in system integration, electric propulsion, embedded control, 
+<br/>and mechatronic design, building scalable architectures for both aerial platforms and next-generation robotics. 
 <br/>Currently expanding into embedded AI research using platforms like NVIDIA Jetson, with a focus on onboard autonomy, perception, and intelligent control.
 
 <br/><br/>
@@ -53,15 +53,15 @@ Focused on practical system validation, achieving multiple international demonst
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Design Engineer</strong> – CEAS CO., LTD (Jul 2018 – Jan 2021)<br>
-      Engineered custom tooling solutions for automotive production lines, improving machining reliability and efficiency. Applied SolidWorks and MasterCAM for high-speed steel and carbide tool development. Authored patent for vibration-damping tool, reducing scrap rate by 25%.
+      Engineered custom tooling solutions for automotive production lines, improving machining reliability and efficiency. Utilized SolidWorks and MasterCAM to develop high-speed steel and carbide tools. Authored patent for vibration-damping tool, reducing scrap rate by 25%.
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Production Manager & CAM Programmer</strong> – ROBO CO., LTD (Mar 2017 – Jul 2018)<br>
-      Managed mass production and CAM operations for automotive components. Enhanced machining throughput by refining tool paths and implementing cycle time optimization. Established QC protocols that decreased material waste and contributed to monthly revenue growth.
+      Managed mass production and CAM operations for automotive components. Improved machining throughput by optimizing tool paths and reducing cycle times. Established QC protocols that decreased material waste and contributed to monthly revenue growth.
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Manufacturing Technician</strong> – SEC CO., LTD (Jan 2016 – Feb 2017)<br>
-      Operated CNC and MCT for semiconductor inspection equipment. Improved MCT workflow to achieve 10% process speedup and introduced a kanban system that cut inventory lead time by 15%.
+      Improved MCT workflow to achieve 10% process speedup and introduced a kanban system that reduced inventory lead time by 15%.
     </li>
   </ul>
 </section>
