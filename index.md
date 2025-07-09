@@ -45,7 +45,7 @@ permalink: /
   <h2 class="mb-3">Experience</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Director of Technology</strong> – VSPACE CO., LTD (Nov 2021 – Present)<br>
+      <strong>Director of Engineering</strong> – VSPACE CO., LTD (Nov 2021 – Present)<br>
       Led full development of flight-capable electric aircraft systems, including battery design, system integration, and certification preparation.  
 Played a central role in Korea’s first manned eVTOL project, contributing from mechanical design to autonomous control and real-world flight testing.  
 Served as technical lead in government-funded UAM R&D programs, coordinating with aerospace institutions and public agencies.  
