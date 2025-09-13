@@ -108,16 +108,17 @@ Integration & Testing Phase
 </p>
 <div style="display: flex; gap: 20px; margin: 20px 0;">
   <div style="flex: 1;">
-    <img src="/assets/AI/7.jpg" alt="UAM Autonomy Stack – Perception to Control" style="width:100%;"/>
-    <p style="font-size: 0.9em;">Figure 8. Lidar Testing 1 .</p>
-  </div>
-<div style="display: flex; gap: 20px; margin: 20px 0;">
-  <div style="flex: 1;">
     <img src="/assets/AI/8.jpg" alt="UAM Autonomy Stack – Perception to Control" style="width:100%;"/>
     <p style="font-size: 0.9em;">Figure 9. Lidar Testing 2.</p>
   </div>  
 </div>
 
+<div style="display: flex; gap: 20px; margin: 20px 0;">
+  <div style="flex: 1;">
+    <img src="/assets/AI/7.jpg" alt="UAM Autonomy Stack – Perception to Control" style="width:100%;"/>
+    <p style="font-size: 0.9em;">Figure 8. Lidar Testing 1 .</p>
+  </div>
+</div>
 
 <hr>
 <p><a href="{{ site.baseurl }}/blog/">← Back to Research</a></p>
