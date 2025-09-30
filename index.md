@@ -132,7 +132,7 @@ This academic foundation provided the basis for my later work in battery system 
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Urban Air Mobility Frame</strong> – US 15366-000102 (Dec 2024)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Executed AD.pdf" target="_blank">📄 View PDF</a>
+      <a href="{{ site.baseurl }}/assets/Patents/OD22-ZZ-002-US-00.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>High-Power Battery Package for eVTOL and Its Management Method</strong> – KR 10-2024-0200697 (Dec 2024)<br/>
