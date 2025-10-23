@@ -98,7 +98,6 @@ Software modules are deployed in a redundant computing container environment. Ea
     <img src="/assets/AI/6.jpg" alt="UAM Autonomy Stack – Perception to Control" style="width:100%;"/>
     <p style="font-size: 0.9em;">Figure 7. Full autonomy stack integrating perception, planning, and control modules, aligned with our modular avionics interface structure.</p>
   </div>
-</div>
 <div style="display: flex; gap: 20px; margin: 20px 0;">
   <div style="flex: 1;">
     <img src="/assets/AI/31.jpg" alt="UAM Autonomy Stack – Perception to Control" style="width:100%;"/>
