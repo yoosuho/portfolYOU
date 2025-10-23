@@ -133,6 +133,12 @@ Physical integration review during ongoing **system integration and airframe ass
   </div>
 </div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
+    <img src="/assets/kuam/30.jpg" alt="3D model" style="width: 100%; max-height: 500px; object-fit: cover;">
+    <p>Picture . UAM protype Built.</p>
+</div>
+
 
 ## 7. Research Outcomes  (ing)
 The research has reached the configuration freeze stage, and the team is currently progressing through **system integration and airframe manufacturing** in compliance with TC guidelines. Major outcomes to date include:
