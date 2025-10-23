@@ -141,7 +141,7 @@ Physical integration review during ongoing **system integration and airframe ass
 </div>
 
 
-## 7. Research Outcomes  (ing)
+ 7. Research Outcomes  (ing)
 The research has reached the configuration freeze stage, and the team is currently progressing through **system integration and airframe manufacturing** in compliance with TC guidelines. Major outcomes to date include:
 electrical and control architecture for TC  
 CG-verified integration of energy and flight control systems  
