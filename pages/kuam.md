@@ -133,10 +133,11 @@ Physical integration review during ongoing **system integration and airframe ass
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
-  <div style="flex: 0 0 calc(50% - 10px); text-align: center;">
-    <img src="/assets/kuam/30.jpg" alt="3D model" style="width: 100%; max-height: 500px; object-fit: cover;">
-    <p>Picture . UAM protype Built.</p>
+<div style="display: flex; gap: 20px; margin: 20px 0;">
+  <div style="flex: 1;">
+    <img src="/assets/kuam/30.jpg" alt="UAM Autonomy Stack – Perception to Control" style="width:100%;"/>
+    <p style="font-size: 0.9em;">icture . UAM protype Built.</p>
+  </div>
 </div>
 
 
