@@ -87,6 +87,10 @@ This academic foundation provided the basis for my later work in battery system 
   <h2 class="mb-3">Publications</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
+      <strong>Design of a Power System for Handling Regenerative Braking Back EMF in a 1000 kW Class Electric Test Facility</strong> – Journal of Aerospace System Engineering (Apr 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Integrated System Design and Flight Demonstration for Ensuring.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
       <strong>Integrated System Design and Flight Demonstration for Ensuring Flight Continuity in an X8 Electric Propulsion Aircraft under Single Propeller Failure</strong> – Journal of Aerospace System Engineering (Apr 2025)<br/>
       <a href="{{ site.baseurl }}/assets/Publications/Integrated System Design and Flight Demonstration for Ensuring.pdf" target="_blank">📄 View PDF</a>
     </li>
@@ -126,10 +130,23 @@ This academic foundation provided the basis for my later work in battery system 
    </ul>
   </section>
 
+
   <!-- Patents Section -->
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Patents</h2>
   <ul class="list-group shadow-sm">
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Battery Module For Electric Propulsion Aircraft And Battery Pack Including The Same</strong> KR 10-2025-01527733 (Oct 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0152733.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Method and Apparatus for Controlling Flight Vehicle Landing Based on Multi-Sensor Reliability</strong> KR 10-2025-01527715 (Oct 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/OD22-ZZ-002-US-00.pdf" target="_blank">📄 View PDF</a>
+    </li> 
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Vibration-Absorbing Mounting Structure for Flight Control Computer</strong> KR 10-2025-01527748 (Oct 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/OD22-ZZ-002-US-00.pdf" target="_blank">📄 View PDF</a>
+    </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Urban Air Mobility Frame</strong> – US 15366-000102 (Dec 2024)<br/>
       <a href="{{ site.baseurl }}/assets/Patents/OD22-ZZ-002-US-00.pdf" target="_blank">📄 View PDF</a>
