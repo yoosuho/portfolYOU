@@ -36,7 +36,7 @@ permalink: /blog/
   <!-- 10 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/kuam/0.jpg" class="card-img-top" alt="K-UAM Safety Tech" style="height: 400px; object-fit: cover;">
+      <img src="{{ site.baseurl }}/assets/kuam/30.jpg" class="card-img-top" alt="K-UAM Safety Tech" style="height: 400px; object-fit: cover;">
       <div class="card-body">
         <h5 class="card-title">Urban Air Mobility (UAM) Type Certification Research (Task 3-1-2)  </h5>
         <p class="card-text">Contributed to the development of airworthiness standards and fault-tolerant system modeling for Urban Air Mobility (UAM) vehicles, aligning with the K-UAM roadmap. This work supported the establishment of safety frameworks and technological foundations essential for the initial commercial deployment of UAM services in Korea.</p>
