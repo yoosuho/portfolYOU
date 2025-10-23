@@ -88,7 +88,7 @@ This academic foundation provided the basis for my later work in battery system 
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Design of a Power System for Handling Regenerative Braking Back EMF in a 1000 kW Class Electric Test Facility</strong> – Journal of Aerospace System Engineering (Apr 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Integrated System Design and Flight Demonstration for Ensuring.pdf" target="_blank">📄 View PDF</a>
+      <a href="{{ site.baseurl }}/assets/Publications/Design of a Power System for Handling Regenerative Braking Back EMF.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Integrated System Design and Flight Demonstration for Ensuring Flight Continuity in an X8 Electric Propulsion Aircraft under Single Propeller Failure</strong> – Journal of Aerospace System Engineering (Apr 2025)<br/>
