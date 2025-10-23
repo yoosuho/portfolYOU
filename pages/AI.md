@@ -93,19 +93,20 @@ The platform is currently undergoing integration with a custom-built UAM prototy
 <p>
 Software modules are deployed in a redundant computing container environment. Each container includes navigation, sensor fusion, emergency handling, and interface modules. The system is also being evaluated for conformance to DO-178C and FACE validation suites. We anticipate that the platform will be capable of self-contained emergency response—including autonomous diversion and forced landing—in uncontrolled flight conditions.
 </p>
+
 <div style="display: flex; gap: 20px; margin: 20px 0;">
   <div style="flex: 1;">
     <img src="/assets/AI/6.jpg" alt="UAM Autonomy Stack – Perception to Control" style="width:100%;"/>
-    <p style="font-size: 0.9em;">Figure 7. Full autonomy stack integrating perception, planning, and control modules, aligned with our modular avionics interface structure.</p>
-  </div>
+    <p style="font-size: 0.9em;">Figure 7. Full autonomy stack integrating perception, planning, and control modules, aligned with our modular avionics interface structure</p>
+  </div>  
+</div>
+
 <div style="display: flex; gap: 20px; margin: 20px 0;">
   <div style="flex: 1;">
     <img src="/assets/AI/31.jpg" alt="UAM Autonomy Stack – Perception to Control" style="width:100%;"/>
     <p style="font-size: 0.9em;">Figure 7-1. System explain.</p>
-  </div>
+  </div>  
 </div>
-
-
 
 
 <h2>8. Test - ing</h2>
