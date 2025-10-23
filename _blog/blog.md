@@ -48,7 +48,7 @@ permalink: /blog/
   <!-- 11 -->
   <div class="col">
     <div class="card h-100 shadow-sm">
-      <img src="{{ site.baseurl }}/assets/AI/0.jpg" class="card-img-top" alt="Intelligent Avionics" style="height: 400px; object-fit: cover;">
+      <img src="{{ site.baseurl }}/assets/AI/31.jpg" class="card-img-top" alt="Intelligent Avionics" style="height: 400px; object-fit: cover;">
       <div class="card-body">
         <h5 class="card-title">Development of an Intelligent Onboard Avionics Software Platform for Emergency Detection and Response in Urban Air Mobility  </h5>
         <p class="card-text">This research initiates the development of an intelligent onboard avionics software platform designed to autonomously detect, assess, and respond to emergency situations in Urban Air Mobility (UAM) environments, enhancing operational safety and system resilience.</p>
