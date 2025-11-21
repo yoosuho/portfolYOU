@@ -137,7 +137,7 @@ This academic foundation provided the basis for my later work in battery system 
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Battery Module for Electric Propulsion Aircraft and Battery Pack Including the Same</strong> U.S. Patent Pending (Oct 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/P10449US00 Application as Filed.pdf" target="_blank">📄 View PDF</a>
+      <a href="{{ site.baseurl }}/assets/Patents/P10449US00 Application as Filed.PDF" target="_blank">📄 View PDF</a>
     </li>     
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Device and Method for Detecting Anomalies Using Multivariate Sensor Data by Flight Phase of a Drone</strong> KR 10-2025-01527715 (Nov 2025)<br/>
