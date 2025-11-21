@@ -136,16 +136,36 @@ This academic foundation provided the basis for my later work in battery system 
   <h2 class="mb-3">Patents</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Battery Module For Electric Propulsion Aircraft And Battery Pack Including The Same</strong> KR 10-2025-01527733 (Oct 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0152733.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Method and Apparatus for Controlling Flight Vehicle Landing Based on Multi-Sensor Reliability</strong> KR 10-2025-01527715 (Oct 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/OD22-ZZ-002-US-00.pdf" target="_blank">📄 View PDF</a>
+      <strong>Device and Method for Detecting Anomalies Using Multivariate Sensor Data by Flight Phase of a Drone</strong> KR 10-2025-01527715 (Oct 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0160057.pdf" target="_blank">📄 View PDF</a>
     </li> 
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Vibration-Absorbing Mounting Structure for Flight Control Computer</strong> KR 10-2025-01527748 (Oct 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/OD22-ZZ-002-US-00.pdf" target="_blank">📄 View PDF</a>
+      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0164972.pdf" target="_blank">📄 View PDF</a>
+    </li>
+        <li class="list-group-item" style="background-color: transparent;">
+      <strong>Apparatus and Method for Active Output Control Responding to Abnormal State of a Flying Object Power System</strong> KR 10-2025-01527715 (Oct 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0164973.pdf" target="_blank">📄 View PDF</a>
+    </li> 
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Method and Apparatus for Controlling Flight Vehicle Landing Based on Multi-Sensor Reliability</strong> KR 10-2025-01527748 (Oct 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0164974.pdf" target="_blank">📄 View PDF</a>
+    </li>
+        <li class="list-group-item" style="background-color: transparent;">
+      <strong>Flight Control Computer Housing With Integrated Heat Dissipation and Electromagnetic Shielding Functions</strong> KR 10-2025-01527715 (Oct 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0175886.pdf" target="_blank">📄 View PDF</a>
+    </li> 
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Flight Control Computer Having Redundant CAN Communication Structure and Operating Method Thereof</strong> KR 10-2025-01527748 (Oct 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0177688.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Method and Apparatus for Automatic Power Source Switchover With Multiple Inputs and Flight Control Computer Including the Same</strong> KR 10-2025-01527748 (Oct 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0177689.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Battery Module For Electric Propulsion Aircraft And Battery Pack Including The Same</strong> KR 10-2025-01527733 (Oct 2025)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0152733.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Urban Air Mobility Frame</strong> – US 15366-000102 (Dec 2024)<br/>
