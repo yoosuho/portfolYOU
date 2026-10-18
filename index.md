@@ -134,6 +134,53 @@ This academic foundation provided the basis for my later work in battery system 
    </ul>
   </section>
 
+
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
+  <h2 class="mb-3">Conference Presentations</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Staged Tethered Flight Testing and log-based Performance Validation of a Manned Multirotor eVTOL System</strong> SASE 2026 Spring Conference (Society for Aerospace System Engineering) (May 2026 - First &amp; Corresponding Author, Poster)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/[SASE 2026 Spring Conference 부산_poster]Staged Tethered Flight Testing and log-based Performance Validation of a Manned Multirotor eVTOL System.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Voltage Sag Mitigation through Parallel Battery Configuration and Its Effect on Takeoff Power Margin in GA-Class eCTOL Electric Aircraft</strong> SASE 2026 Spring Conference (Society for Aerospace System Engineering) (May 2026 - First &amp; Corresponding Author, Poster)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/[SASE 2026 Spring Conference 부산_poster]Voltage Sag Mitigation through Parallel Battery Configuration and Its Effect.pdf" target="_blank">📄 View PDF</a>
+    </li>    
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Design of a Power System for Handling Regenerative Braking Back EMF in a 1000 kW Class Electric Test Facility</strong> SASE 2025 Fall Conference (Sep 2025 - Corresponding Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Design of a Power System for Handling Regenerative Braking Back EMF.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Integrated System Design and Flight Demonstration for Ensuring Flight Continuity in an X8 Electric Propulsion Aircraft under Single Propeller Failure</strong> SASE 2025 Spring Conference (May 2025 - First &amp; Corresponding Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Integrated System Design and Flight Demonstration for Ensuring.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>A Methodology for Specifying Electric Propulsion Battery Requirements Based on K-UAM Operational Scenarios</strong> – SASE 2025 Spring Conference (May 2025 - Co-author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/A Methodology for Specifying Electric Propulsion Battery Requirements Based on K-UAM Operational Scenarios.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Effects of Internal Resistance Deviation on Thermal Performance of High Energy Density Lithium-ion Battery Module</strong> – 2023 Spring Conference of the Korean Auto Safety Association (KASA) (May 2023 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Effects of Internal Resistance Deviation on Thermal.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Thermal Analysis of the high C-rate Battery Module in an Urban Air Mobility</strong> – KSAE 2022 Autumn Conference (Korean Society of Automotive Engineers) (Nov 2022 - Co-author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Thermal Analysis of the high C-rate Battery Module in an Urban Air Mobility.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Development of robot system for production line automation</strong> – Korean Society for Agricultural Machinery (KSAM) (Apr 2017)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Development of robot system for production line automation.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Development of Ground Plan a Measuring Instrument for Quality Assurance</strong> – Korean Society for Agricultural Machinery (KSAM) (Apr 2017)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Development of Ground Plan a Measuring Instrument for Quality Assurance.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Development of bolt quantity detector for productivity improvement of assembly line</strong> – Korean Society for Agricultural Machinery (KSAM) (Apr 2017)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Development of bolt quantity detector for productivity improvement .pdf" target="_blank">📄 View PDF</a>
+    </li>
+     
+  </ul>
+
  
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Conference Presentations</h2>
@@ -185,63 +232,7 @@ This academic foundation provided the basis for my later work in battery system 
      
    </ul>
   </section>
-  
-<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
-  <h2 class="mb-3">Conference Presentations</h2>
-  <ul class="list-group shadow-sm">
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Staged Tethered Flight Testing and log-based Performance Validation of a Manned Multirotor eVTOL System</strong><br/>
-      SASE 2026 Spring Conference, Busan, South Korea (May 6–9, 2026) — First &amp; Corresponding Author; Poster<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/[SASE 2026 Spring Conference 부산_poster]Staged Tethered Flight Testing and log-based Performance Validation of a Manned Multirotor eVTOL System.pdf" target="_blank" rel="noopener noreferrer">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Voltage Sag Mitigation through Parallel Battery Configuration and Its Effect on Takeoff Power Margin in GA-Class eCTOL Electric Aircraft</strong><br/>
-      SASE 2026 Spring Conference, Busan, South Korea (May 6–9, 2026) — First &amp; Corresponding Author; Poster<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/[SASE 2026 Spring Conference 부산_poster]Voltage Sag Mitigation through Parallel Battery Configuration and Its Effect.pdf" target="_blank" rel="noopener noreferrer">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Design of a Power System for Handling Regenerative Braking Back EMF in a 1000 kW Class Electric Test Facility</strong><br/>
-      SASE 2025 Fall Conference, Jeju, South Korea (September 17–20, 2025) — First &amp; Corresponding Author<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Design of a Power System for Handling Regenerative Braking Back EMF.pdf" target="_blank" rel="noopener noreferrer">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Integrated System Design and Flight Demonstration for Ensuring Flight Continuity in an X8 Electric Propulsion Aircraft under Single Propeller Failure</strong><br/>
-      SASE 2025 Spring Conference, Yeosu, South Korea (May 21–24, 2025) — First &amp; Corresponding Author<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Integrated System Design and Flight Demonstration for Ensuring.pdf" target="_blank" rel="noopener noreferrer">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>A Methodology for Specifying Electric Propulsion Battery Requirements Based on K-UAM Operational Scenarios</strong><br/>
-      SASE 2025 Spring Conference, Yeosu, South Korea (May 21–24, 2025) — Co-author<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/A Methodology for Specifying Electric Propulsion Battery Requirements Based on K-UAM Operational Scenarios.pdf" target="_blank" rel="noopener noreferrer">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Effects of Internal Resistance Deviation on Thermal Performance of High Energy Density Lithium-ion Battery Module</strong><br/>
-      KASA 2023 Spring Conference, Jeju, South Korea (May 11–13, 2023) — First Author; Conference Abstract<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Effects of Internal Resistance Deviation on Thermal.pdf" target="_blank" rel="noopener noreferrer">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Thermal Analysis of the high C-rate Battery Module in an Urban Air Mobility</strong><br/>
-      KSAE 2022 Autumn Conference, Jeju, South Korea (November 16–19, 2022) — Co-author; Conference Abstract<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Thermal Analysis of the high C-rate Battery Module in an Urban Air Mobility.pdf" target="_blank" rel="noopener noreferrer">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Development of robot system for production line automation</strong><br/>
-      KSAM 2017 Spring Joint Conference (April 6–7, 2017) — Co-author; Conference Abstract<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Development of robot system for production line automation.pdf" target="_blank" rel="noopener noreferrer">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Development of Ground Plan a Measuring Instrument for Quality Assurance</strong><br/>
-      KSAM 2017 Spring Joint Conference (April 6–7, 2017) — Co-author; Conference Abstract<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Development of Ground Plan a Measuring Instrument for Quality Assurance.pdf" target="_blank" rel="noopener noreferrer">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Development of bolt quantity detector for productivity improvement of assembly line</strong><br/>
-      KSAM 2017 Spring Joint Conference (April 6–7, 2017) — Co-author; Conference Abstract<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Development of bolt quantity detector for productivity improvement .pdf" target="_blank" rel="noopener noreferrer">📄 View PDF</a>
-    </li>
 
-  </ul>
-</section>
 
 
   <!-- Patents Section -->
