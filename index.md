@@ -87,11 +87,70 @@ This academic foundation provided the basis for my later work in battery system 
   <h2 class="mb-3">Publications</h2>
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Design of a Power System for Handling Regenerative Braking Back EMF in a 1000 kW Class Electric Test Facility</strong> – Journal of Aerospace System Engineering (Sep 2025)<br/>
+      <strong>Design, Fabrication, and In-Flight Demonstration of a 24S NCM Battery System for an eVTOL Aircraft</strong> – Batteries, Vol. 12, Article 317 (Aug 2026 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/batteries-12-00317.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>SLM SUS316L Impeller-Based Electric Waterjet: Design and Thrust Verification</strong> – Design & Manufacturing, Vol. 20, No. 3 (Sep 2026 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/KCI_FI003383618.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Bench-to-Flight Validation of a Passively Air-Cooled 90 Ah Battery Module for Cargo eVTOL: Power Margin and Post-Landing Heat-Soak Characteristics</strong> – IEEE Transactions on Transportation Electrification (Submission: Aug 2026 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Bench-to-Flight Validation of a Passively Air.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Polarization-Induced SOC Mis-estimation in a Manned Electric Aircraft Battery: Cell Characterization, First-Flight Evaluation, and 2RC-EKF Correction</strong> – Energy Storage (Wiley) (Submission: Aug 2026 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Polarization-Induced SOC Mis estimation.pdf" target="_blank">📄 View PDF</a>      
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Modification and Development of Manned Electric Propulsion Lightweight Airplane</strong> – Journal of Aerospace System Engineering (Jun 2023 - Co-author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/Modification and Development of Manned Electric Propulsion Lightweight Airplane.pdf" target="_blank">📄 View PDF</a>
+    </li>
+         
+   </ul>
+  </section>
+  
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
+  <h2 class="mb-3">International Conference Papers (Accepted) Papers</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Flight-Test-Based Evaluation of Voltage-Sag-Induced Hover Power Margin Reduction in a 210 kg-Class Multicopter eVTOL</strong> – AIAA SciTech 2027 — Orlando, USA (Jan 2027 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/[AIAA SciTech2027] Abstract Yu.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Experimental Investigation of Thermal Runaway Propagation in Lithium-ion Battery Modules for Electric Propulsion Systems: A Comparative Study of Two Packing Configurations</strong> – AJSAE 2026 — Jeju, South Korea (Sep 2026 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/[AJSAE2026_Jeju 20260915-19]Experimental Investigation of Thermal Runaway Propagation in Lithium-ion Battery Modules for Electric Propulsion Systems A Comparative Study of Two Packing Configurations.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Development and Flight Validation of a 250 Wh/kg-Class, 8C-Rate Lithium-Ion Battery Module for Urban Air Mobility Applications</strong> – APISAT 2026 — Sapporo, Japan (oct 2026 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/[APISAT 2026 제주]Development and Flight Validation of a 250 Whkg Class, 8C-Rate Lithium-Ion.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Flight Log based Analysis of Test Environment Effects on Navigation and Control Behavior in eVTOL Tethered Hover Tests</strong> – IAA SpaceAI 2026 — Jeju, South Korea (Aug 2026 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/IAA_SpaceAI_2026 suho is first author Flight Log based Analysis of Test Environment Effects on Navigation and Control Behavior in eVTOL Tethered Hover Tests.pdf" target="_blank">📄 View PDF</a>      
+    </li>
+       
+   </ul>
+  </section>
+
+ 
+<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
+  <h2 class="mb-3">Conference Presentations</h2>
+  <ul class="list-group shadow-sm">
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Staged Tethered Flight Testing and log-based Performance Validation of a Manned Multirotor eVTOL System</strong> SASE 2026 Spring Conference (Society for Aerospace System Engineering) (May 2026 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/[SASE 2026 Spring Conference 부산_poster]Staged Tethered Flight Testing and log-based Performance Validation of a Manned Multirotor eVTOL System.pdf" target="_blank">📄 View PDF</a>
+    </li>
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Voltage Sag Mitigation through Parallel Battery Configuration and Its Effect on Takeoff Power Margin in GA-Class eCTOL Electric Aircraft</strong> SASE 2026 Spring Conference (Society for Aerospace System Engineering) (May 2026 - First Author)<br/>
+      <a href="{{ site.baseurl }}/assets/Publications/[SASE 2026 Spring Conference 부산_poster]Voltage Sag Mitigation through Parallel Battery Configuration and Its Effect.pdf" target="_blank">📄 View PDF</a>
+    </li>    
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Design of a Power System for Handling Regenerative Braking Back EMF in a 1000 kW Class Electric Test Facility</strong> SASE 2025 Spring Conference (Apr 2025 - Corresponding Author)<br/>
       <a href="{{ site.baseurl }}/assets/Publications/Design of a Power System for Handling Regenerative Braking Back EMF.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Integrated System Design and Flight Demonstration for Ensuring Flight Continuity in an X8 Electric Propulsion Aircraft under Single Propeller Failure</strong> – Journal of Aerospace System Engineering (Apr 2025)<br/>
+      <strong>Integrated System Design and Flight Demonstration for Ensuring Flight Continuity in an X8 Electric Propulsion Aircraft under Single Propeller Failure</strong> SASE 2025 Spring Conference (Apr 2025 - First Author)<br/>
       <a href="{{ site.baseurl }}/assets/Publications/Integrated System Design and Flight Demonstration for Ensuring.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
@@ -99,19 +158,15 @@ This academic foundation provided the basis for my later work in battery system 
       <a href="{{ site.baseurl }}/assets/Publications/A Methodology for Specifying Electric Propulsion Battery Requirements Based on K-UAM Operational Scenarios.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Modification and Development of Manned Electric Propulsion Lightweight Airplane</strong> – Journal of Aerospace System Engineering (Jun 2023)<br/>
-      <a href="{{ site.baseurl }}/assets/Publications/Modification and Development of Manned Electric Propulsion Lightweight Airplane.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Development of 230 whkg high power, high density battery system for future eco-friendly transportation equipment</strong> – Journal of Aerospace System Engineering (May 2023)<br/>
+      <strong>Development of 230 whkg high power, high density battery system for future eco-friendly transportation equipment</strong> – Journal of Aerospace System Engineering (May 2023 -)<br/>
       <a href="{{ site.baseurl }}/assets/Publications/Development of 230 whkg high power high density battery system for.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Effects of Internal Resistance Deviation on Thermal</strong> – Korean Society for Automobile Safet (May 2023)<br/>
+      <strong>Effects of Internal Resistance Deviation on Thermal</strong> – 2023 Spring Conference of the Korean Auto Safety Association (KASA) (May 2023 - First Author))<br/>
       <a href="{{ site.baseurl }}/assets/Publications/Effects of Internal Resistance Deviation on Thermal.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Thermal Analysis of the high C-rate Battery Module in an Urban Air Mobility</strong> – The Korean Society of Automotive Engineers (Nov 2022)<br/>
+      <strong>Thermal Analysis of the high C-rate Battery Module in an Urban Air Mobility</strong> – KSAE 2022 Autumn Conference (Korean Society of Automotive Engineers (Nov 2022 - Co-Author)<br/>
       <a href="{{ site.baseurl }}/assets/Publications/Thermal Analysis of the high C-rate Battery Module in an Urban Air Mobility.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
@@ -135,6 +190,18 @@ This academic foundation provided the basis for my later work in battery system 
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
   <h2 class="mb-3">Patents</h2>
   <ul class="list-group shadow-sm">
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Electronic Device for Providing Emergency Situation Detection and Automatic Response Control and Operating Method Thereof</strong> 10-2026-0192178-KR and U.S. Patent Pending (Oct 2026)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/P10449US00 Application as Filed.PDF" target="_blank">📄 View PDF</a>
+    </li>   
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Electronic Device for Providing Uninterrupted Energy Transition and Emergency Landing and Operating Method Thereof</strong> 10-2026-0192179-KR and U.S. Patent Pending (Oct 2026)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/P10449US00 Application as Filed.PDF" target="_blank">📄 View PDF</a>
+    </li>   
+    <li class="list-group-item" style="background-color: transparent;">
+      <strong>Electronic Device for Providing Automatic Flight Control in Event of Thruster Failure and Operating Method Thereof</strong> 10-2026-0192177-KR (Oct 2026)<br/>
+      <a href="{{ site.baseurl }}/assets/Patents/P10449US00 Application as Filed.PDF" target="_blank">📄 View PDF</a>
+    </li>    
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Battery Module for Electric Propulsion Aircraft and Battery Pack Including the Same</strong> U.S. Patent Pending (Oct 2025)<br/>
       <a href="{{ site.baseurl }}/assets/Patents/P10449US00 Application as Filed.PDF" target="_blank">📄 View PDF</a>
