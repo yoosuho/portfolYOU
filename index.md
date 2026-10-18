@@ -248,16 +248,8 @@ This academic foundation provided the basis for my later work in battery system 
       <a href="{{ site.baseurl }}/assets/Patents/Air-Cooled High-Density Battery Pack.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Method for an Aircraft to Manage the Battery in Response to Take-Off and Landing</strong> – KR Application No. 10-2024-0004711 (Jan 2024)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
       <strong>Battery Management Method for Urban Air Mobility Aircraft</strong> – KR Application Filed with Temporary Specification (Dec 2023; application number to be verified)<br/>
       <a href="{{ site.baseurl }}/assets/Patents/Battery Management Method for Urban Air Mobility Aircraft.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing</strong> – KR Application No. 10-2024-0004710 (Jan 2024)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Method for an Aircraft to Manage the Battery in Response to Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Movable Charger</strong> – KR Application No. 10-2023-0163497 (Nov 2023)<br/>
@@ -269,99 +261,6 @@ This academic foundation provided the basis for my later work in battery system 
     </li>
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Damper for Reducing Vibration in Two-Wheeled Vehicles</strong> – KR Granted Patent No. 10-2512287 (Granted Mar 2023; Application No. 10-2021-0063107)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Damper for Reducing Vibration in Two-Wheeled Vehicles.pdf" target="_blank">📄 View PDF</a>
-    </li>
-
-  </ul>
-</section>
-
-
-  <!-- Patents Section -->
-<section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
-  <h2 class="mb-3">Patents</h2>
-  <ul class="list-group shadow-sm">
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Electronic Device for Providing Emergency Situation Detection and Automatic Response Control and Operating Method Thereof</strong> 10-2026-0192178-KR and U.S. Patent Pending (Oct 2026)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Electronic Device for Providing Automatic Flight Control in Event of Thruster Failure and Operating Method Thereof.PDF" target="_blank">📄 View PDF</a>
-    </li>   
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Electronic Device for Providing Uninterrupted Energy Transition and Emergency Landing and Operating Method Thereof</strong> 10-2026-0192179-KR and U.S. Patent Pending (Oct 2026)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Electronic Device for Providing Emergency Situation Detection and Automatic Response Control and Operating Method Thereof.PDF" target="_blank">📄 View PDF</a>
-    </li>   
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Electronic Device for Providing Automatic Flight Control in Event of Thruster Failure and Operating Method Thereof</strong> 10-2026-0192177-KR (Oct 2026)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Electronic Device for Providing Uninterrupted Energy Transition and Emergency Landing and Operating Method Thereof.PDF" target="_blank">📄 View PDF</a>
-    </li>    
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Battery Module for Electric Propulsion Aircraft and Battery Pack Including the Same</strong> U.S. Patent Pending (Oct 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/P10449US00 Application as Filed.PDF" target="_blank">📄 View PDF</a>
-    </li>     
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Device and Method for Detecting Anomalies Using Multivariate Sensor Data by Flight Phase of a Drone</strong> KR 10-2025-01527715 (Nov 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0160057.pdf" target="_blank">📄 View PDF</a>
-    </li> 
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Vibration-Absorbing Mounting Structure for Flight Control Computer</strong> KR 10-2025-01527748 (Nov 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0164972.pdf" target="_blank">📄 View PDF</a>
-    </li>
-        <li class="list-group-item" style="background-color: transparent;">
-      <strong>Apparatus and Method for Active Output Control Responding to Abnormal State of a Flying Object Power System</strong> KR 10-2025-01527715 (Nov 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0164973.pdf" target="_blank">📄 View PDF</a>
-    </li> 
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Method and Apparatus for Controlling Flight Vehicle Landing Based on Multi-Sensor Reliability</strong> KR 10-2025-01527748 (Nov 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0164974.pdf" target="_blank">📄 View PDF</a>
-    </li>
-        <li class="list-group-item" style="background-color: transparent;">
-      <strong>Flight Control Computer Housing With Integrated Heat Dissipation and Electromagnetic Shielding Functions</strong> KR 10-2025-01527715 (Nov 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0175886.pdf" target="_blank">📄 View PDF</a>
-    </li> 
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Flight Control Computer Having Redundant CAN Communication Structure and Operating Method Thereof</strong> KR 10-2025-01527748 (Nov 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0177688.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Method and Apparatus for Automatic Power Source Switchover With Multiple Inputs and Flight Control Computer Including the Same</strong> KR 10-2025-01527748 (Nov 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0177689.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Battery Module For Electric Propulsion Aircraft And Battery Pack Including The Same</strong> KR 10-2025-01527733 (Oct 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/10-2025-0152733.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Urban Air Mobility Frame</strong> – US 15366-000102 (Jul 2025)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/OD22-ZZ-002-US-00.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>High-Power Battery Package for eVTOL and Its Management Method</strong> – KR 10-2024-0200697 (Dec 2024)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/High-Power Battery Package for eVTOL and Its Management Method.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Air-Cooled High-Density Battery Pack</strong> – KR 10-2024-017151 (Dec 2024)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Air-Cooled High-Density Battery Pack.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing</strong> – KR 10-2024-004711 (Jan 2024)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Battery Management Method for Urban Air Mobility</strong> – KR 10-2024-0047710 (Jan 2024)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Battery Management Method for Urban Air Mobility Aircraft.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Method for an Aircraft to Manage the Battery in Accordance with the Flight Plan that Includes Take-Off and Landing</strong> – KR 10-2024-0004710 (Jan 2024)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Method for an Aircraft to Manage the Battery in Response to Take-Off and Landing.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Movable Charger</strong> – KR 10-2023-0163497 (Nov 2023)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Movable Charger with Improved Charging Speed and Safety.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Fire Protection Pad and Battery Cell Array using the same</strong> – KR 10-2023-0054985 (Apr 2023)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/Fire Protection Pad and Battery Cell Array Using the Same.pdf" target="_blank">📄 View PDF</a>
-    </li>
-    <li class="list-group-item" style="background-color: transparent;">
-      <strong>Damper for Reducing Vibration in Two-Wheeled Vehicles</strong> – KR 10-2024-017151 (Dec 2024)<br/>
       <a href="{{ site.baseurl }}/assets/Patents/Damper for Reducing Vibration in Two-Wheeled Vehicles.pdf" target="_blank">📄 View PDF</a>
     </li>
 
