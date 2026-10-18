@@ -338,6 +338,7 @@ This academic foundation provided the basis for my later work in battery system 
 <section class="mb-5" style="background-color: var(--bs-body-bg); border-radius: 10px; padding: 1rem;">
     <h2 class="mb-3">Professional Activities</h2>
     <ul class="list-group shadow-sm">
+      <li class="list-group-item" style="background-color: transparent;">CNC Milling Judge –  Korea National Skills Competition (Aug 2026)</li>   
       <li class="list-group-item" style="background-color: transparent;">CNC Milling Judge –  Korea National Skills Competition (Oct 2023)</li>
       <li class="list-group-item" style="background-color: transparent;">CNC Milling Judge – Local Skills Competition (Apr 2023)</li>
       <li class="list-group-item" style="background-color: transparent;">CNC Milling Skill Player Coaching -192hr – Korea Aviation High School (Dec 2023 – Feb 2024)</li>
