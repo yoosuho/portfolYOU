@@ -192,15 +192,15 @@ This academic foundation provided the basis for my later work in battery system 
   <ul class="list-group shadow-sm">
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Electronic Device for Providing Emergency Situation Detection and Automatic Response Control and Operating Method Thereof</strong> 10-2026-0192178-KR and U.S. Patent Pending (Oct 2026)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/P10449US00 Application as Filed.PDF" target="_blank">📄 View PDF</a>
+      <a href="{{ site.baseurl }}/assets/Patents/Electronic Device for Providing Automatic Flight Control in Event of Thruster Failure and Operating Method Thereof.PDF" target="_blank">📄 View PDF</a>
     </li>   
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Electronic Device for Providing Uninterrupted Energy Transition and Emergency Landing and Operating Method Thereof</strong> 10-2026-0192179-KR and U.S. Patent Pending (Oct 2026)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/P10449US00 Application as Filed.PDF" target="_blank">📄 View PDF</a>
+      <a href="{{ site.baseurl }}/assets/Patents/Electronic Device for Providing Emergency Situation Detection and Automatic Response Control and Operating Method Thereof.PDF" target="_blank">📄 View PDF</a>
     </li>   
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Electronic Device for Providing Automatic Flight Control in Event of Thruster Failure and Operating Method Thereof</strong> 10-2026-0192177-KR (Oct 2026)<br/>
-      <a href="{{ site.baseurl }}/assets/Patents/P10449US00 Application as Filed.PDF" target="_blank">📄 View PDF</a>
+      <a href="{{ site.baseurl }}/assets/Patents/Electronic Device for Providing Uninterrupted Energy Transition and Emergency Landing and Operating Method Thereof.PDF" target="_blank">📄 View PDF</a>
     </li>    
     <li class="list-group-item" style="background-color: transparent;">
       <strong>Battery Module for Electric Propulsion Aircraft and Battery Pack Including the Same</strong> U.S. Patent Pending (Oct 2025)<br/>
