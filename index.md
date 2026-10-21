@@ -96,7 +96,7 @@ This academic foundation provided the basis for my later work in battery system 
       <a href="{{ site.baseurl }}/assets/Publications/KCI_FI003383618.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
-      <strong>Bench-to-Flight Validation of a Passively Air-Cooled 90 Ah Battery Module for Cargo eVTOL: Power Margin and Post-Landing Heat-Soak Characteristics</strong> – IEEE Transactions on Transportation Electrification (Submission: Aug 2026 - First Author)<br/>
+      <strong>Bench-to-Flight Validation of a Passively Air-Cooled 90 Ah Battery Module for Cargo eVTOL: Power Margin and Post-Landing Heat-Soak Characteristics</strong> – IEEE Transactions on Transportation Electrification (Major Revision: Oct 2026 - First Author)<br/>
       <a href="{{ site.baseurl }}/assets/Publications/Bench-to-Flight Validation of a Passively Air.pdf" target="_blank">📄 View PDF</a>
     </li>
     <li class="list-group-item" style="background-color: transparent;">
